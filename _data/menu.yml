@@ -1,0 +1,33 @@
+entries:
+  - title: advice
+    entries:
+      - title: an an acyclic maze is an asemic glyph
+      - title: meter isn’t supervenient
+
+  - title: poems
+    post_list: true
+  
+  - title: links
+    entries:
+      - title: anguiped chapbook
+        url: https://paperviewbooks.pt/books/anguiped/
+      - title: podcast
+        url: https://anchor.fm/knucklebones
+      - title: mastodon poems
+        url: https://vis.social/@pseudepigram
+      - title: instagram poems
+        url: https://www.instagram.com/pseudepigram/
+      - title: <s>twitter poems</s>
+        url: https://twitter.com/pseudepigram
+      - title: lexic mazes
+        url: https://botsin.space/@lexicmazes
+      - title: umpteen sonnets
+        url: https://botsin.space/@umpteensonnets
+      - title: poetry thursdays with saki
+        url: https://www.youtube.com/playlist?list=PL-T0rUROII89PcYt3lV6vfRioPek41UTQ
+      - title: public domain audiobooks
+        url: https://librivox.org/reader/13865
+      - title: email
+        url: mailto:matthew.munoz@pm.me
+      - title: rss feed
+        url: feed.xml
