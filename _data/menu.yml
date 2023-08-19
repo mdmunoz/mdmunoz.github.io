@@ -13,8 +13,7 @@ entries:
         url: https://paperviewbooks.pt/books/anguiped/
       - title: podcast
         url: https://anchor.fm/knucklebones
-      - title: mastodon poems
-        url: https://vis.social/@pseudepigram
+      - title: <a rel="me" href="https://vis.social/@pseudepigram">mastodon poems</a>
       - title: instagram poems
         url: https://www.instagram.com/pseudepigram/
       - title: <s>twitter poems</s>
