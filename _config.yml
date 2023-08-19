@@ -33,7 +33,7 @@ url: https://knucklebones.rip
 permalink: /:slug.html
 
 # Build settings
-theme: no-style-please
+remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
