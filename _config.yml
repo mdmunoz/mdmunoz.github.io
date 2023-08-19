@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   on cravens quickly hackles raise,</br>
   and cackles praise his razor wit.
 
-url: https://mdmunoz.github.io/
-baseurl: "/knucklebones"
+url: https://knucklebones.rip/
+baseurl: "/"
 
 
 permalink: /:slug.html
