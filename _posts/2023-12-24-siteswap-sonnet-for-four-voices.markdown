@@ -4,6 +4,8 @@ title:  "Siteswap Sonnet for Four Voices"
 date:   2023-12-24 00:00:00 -0700
 ---
 
+*Each voice begins speaking one syllable after the previous voice begins, and continues in a loop, so word beginnings always interleave.*
+
 ### First:
 Around diagonals multidirectional algebra’s parameterized Within anxiety, underaticulates
 
