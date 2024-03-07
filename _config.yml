@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 url: https://knucklebones.rip/
 baseurl: "/"
-
+favicon: favicon.ico
 
 permalink: /:slug.html
 
