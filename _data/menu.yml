@@ -6,7 +6,7 @@ entries:
       - title: mixed metaphor’s surrealist
       - title: prosody delimits theology
 
-  - title: poems
+  - title: poems etc.
     post_list: true
   
   - title: links
@@ -17,6 +17,8 @@ entries:
         url: https://monologging.org/distillation/
       - title: distillation ii with jeffrey barken, saki, and laura kerr
         url: https://monologging.org/distillation-ii/
+      - title: interview with bold journey
+        url: https://boldjourney.com/news/meet-matthew-munoz/
       - title: podcast
         url: https://anchor.fm/knucklebones
       - title: <a rel="me" href="https://m.knucklebones.rip/@pseudepigram">mastodon poems</a>
