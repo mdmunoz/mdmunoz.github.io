@@ -27,14 +27,14 @@ description: >- # this means to ignore newlines
   and cackles praise his razor wit.
 
 url: https://knucklebones.rip/
-#baseurl: "/"
+baseurl: "/"
 favicon: favicon.ico
 
 permalink: /:slug.html
 
 # Build settings
-theme: no-style-please
-#remote_theme: riggraz/no-style-please
+#theme: no-style-please
+remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
