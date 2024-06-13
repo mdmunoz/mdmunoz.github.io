@@ -20,20 +20,21 @@
 
 title: Matthew Muñoz
 email: matthew@knucklebones.rip
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines
   When Raven slickly machinates,</br>
   that jackanapsing maven’s tricks</br>
   on cravens quickly hackles raise,</br>
   and cackles praise his razor wit.
 
 url: https://knucklebones.rip/
-baseurl: "/"
+#baseurl: "/"
 favicon: favicon.ico
 
 permalink: /:slug.html
 
 # Build settings
-remote_theme: riggraz/no-style-please
+theme: no-style-please
+#remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
