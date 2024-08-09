@@ -3,6 +3,9 @@ layout: post
 title:  "Emergence"
 date:   2022-11-30 00:00:00 -0700
 ---
+
+*Cf. “Hit List” by Skyclad*
+
 Everything is architecture:  
 Putative dividuation’s  
 More-or-less-adroitly flexured  
