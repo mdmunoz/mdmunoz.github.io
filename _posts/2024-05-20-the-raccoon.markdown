@@ -14,7 +14,7 @@ Disturbed to stoke its embers?
 Whose elegance there lingers?  
 What scalpels carved those fingers?  
   
-What subterfuge previsioned  
+What subterfuge partitioned  
 Stealth and ringed your tail with ribbons?  
 When that tail began its swishing  
 What prodigies of stitching  
@@ -32,4 +32,4 @@ Their true faces to each other?
 Raccoon Raccoon, your shadow  
 Across the twilit mallow  
 Was forecast by invention:  
-Who envisioned your dimensions?  
+Who previsioned your dimensions?  
