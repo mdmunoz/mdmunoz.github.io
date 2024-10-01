@@ -44,3 +44,8 @@ entries:
         url: mailto:matthew@knucklebones.rip
       - title: rss feed
         url: feed.xml
+        
+  - title: things i used to believe
+    entries:
+      - title: deontological dickering
+        url: /pdf/Munoz2016.pdf
