@@ -24,6 +24,10 @@ entries:
       - title: podcast
         url: https://podcasters.spotify.com/pod/show/knucklebones
       - title: <a rel="me" href="https://m.knucklebones.rip/@pseudepigram">mastodon poems</a>
+      - title: bluesky poems
+        url: https://bsky.app/profile/pseudepigram.bsky.social
+      - title: threads poems
+        url: https://www.threads.net/@pseudepigram
       - title: instagram poems
         url: https://www.instagram.com/pseudepigram/
       - title: youtube poems
