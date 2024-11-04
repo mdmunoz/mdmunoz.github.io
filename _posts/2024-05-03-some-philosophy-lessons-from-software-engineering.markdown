@@ -8,6 +8,8 @@ date:   2024-05-03 00:00:00 -0700
 
 - Ontologies trivially describe each other as special cases of themselves.
 
+- Completeness isn't correctness.
+
 - Recursion isn’t an inconsistency (or even a problem).
 
 - There are unlimited concepts adequate to the evidence.
