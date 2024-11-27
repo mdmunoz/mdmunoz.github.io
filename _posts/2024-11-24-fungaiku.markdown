@@ -4,1515 +4,1527 @@ title:  "Fungaiku"
 date:   2024-11-24 00:00:00 -0700
 ---
 
-*These ekphrastic poems are based on the fictional mushrooms of* Fungi of the Far Realms *by Alex R. Clements and Shuyi Zhang from The Melsonian Arts Council. Numbers indicate results of three six-sided dice.*
+<script>
+    function d(size) {
+        return Math.floor(Math.random() * size) + 1;
+    }
+    
+    function roll()
+    {
+        location.href = "#" + d(6) + d(6) + d(6);
+    }
+</script>
 
-
-111  
+*These ekphrastic poems are based on the fictional mushrooms of* Fungi of the Far Realms *by Alex R. Clements and Shuyi Zhang from The Melsonian Arts Council. Numbers indicate results of three six-sided dice.*  
+  
+<a href="javascript:roll()" id="roll">Roll.</a>
+  
+<h4 id="111">111</h4>  
   
 woodland’s chaste repose  
 swollen with abducted warmth  
 tasting my own blood  
   
   
-112  
+<h4 id="112">112</h4>  
   
 fugitive dismay  
 under earth’s empurpled veins  
 pickled sovereigns sit  
   
   
-113  
+<h4 id="113">113</h4>  
   
 inchoate organ’s  
 refulgence, obfuscation’s  
 quietus ashes  
   
   
-114  
+<h4 id="114">114</h4>  
   
 whorled deserts bridge  
 antler-tipped peripheries  
 juniper’s last sprigs  
   
   
-115  
+<h4 id="115">115</h4>  
   
 latent germs of life?  
 emerald ichor fusillade’s  
 indignant retort  
   
   
-116  
+<h4 id="116">116</h4>  
   
 connoisseur’s repose   
 colossal pinewood altar’s  
 consecrated wine  
   
   
-121  
+<h4 id="121">121</h4>  
   
 teeming eremite  
 stitches turn abandoned sky,  
 enervated earth  
   
   
-122  
+<h4 id="122">122</h4>  
   
 sin’s untended bruise:  
 interposing purity,  
 everyday manure  
   
   
-123  
+<h4 id="123">123</h4>  
   
 concentric decay’s  
 turbid pullulation hides  
 overflowing cups  
   
   
-124  
+<h4 id="124">124</h4>  
   
 fathoms’ surfacing  
 diurnal antiquity:  
 muffled twilit dreams  
   
   
-125  
+<h4 id="125">125</h4>  
   
 crabapples employ    
 gargoyle pareidolia    
 against peckish ghosts  
   
   
-126  
+<h4 id="126">126</h4>  
   
 syntax-castaway,  
 rhizomatic autochthon’s  
 recidivism  
   
   
-131  
+<h4 id="131">131</h4>  
   
 fingerprints dimple  
 tendered generosity,  
 presaging revenge   
   
   
-132  
+<h4 id="132">132</h4>  
   
 nauseated gore  
 swaddles woodgrain-naked grooves,  
 curdled sloughage-meal  
   
   
-133  
+<h4 id="133">133</h4>  
   
 in broadleaf dapples  
 ol’ shroomster politely touts  
 mild poisonings past  
   
   
-134  
+<h4 id="134">134</h4>  
   
 sallow platformed flesh  
 overlaps in islands, snares  
 skimming-weary wings  
   
   
-135  
+<h4 id="135">135</h4>  
   
 footthick stool leg props  
 broadening apologies  
 over humble things  
   
   
-136  
+<h4 id="136">136</h4>  
   
 days buckle under  
 overweening shadow dews  
 folktales stalk the sun  
   
   
-141  
+<h4 id="141">141</h4>  
   
 empty pincushion  
 everything invisible  
 reasserts itself  
   
   
-142  
+<h4 id="142">142</h4>  
   
 errant thoughts’ snaring  
 unwelcome publicity’s  
 most effluent crown  
   
   
-143  
+<h4 id="143">143</h4>  
   
 surreptitious gifts  
 token humiliations  
 accumulate here  
   
   
-144  
+<h4 id="144">144</h4>  
   
 mucous veils unfurl  
 immiscibly from within  
 pain displaces sight  
   
   
-145  
+<h4 id="145">145</h4>  
   
 infected acres  
 accord with incandescent  
 suffocation’s spread  
   
   
-146  
+<h4 id="146">146</h4>  
   
 siphoned lifeblood stains  
 florid in moderation,  
 absconds for polestars  
   
   
-151  
+<h4 id="151">151</h4>  
   
 before forests’ green  
 snowfall from recumbent stars  
 painted wilds pink  
   
   
-152  
+<h4 id="152">152</h4>  
   
 momently unspoiled  
 (suspending pervasive swamp),  
 poisonous always  
   
   
-153  
+<h4 id="153">153</h4>  
   
 anciently molded  
 fungible dusts recapture  
 their tufted ruins  
   
   
-154  
+<h4 id="154">154</h4>  
   
 unconfiscated  
 slight attachments’ distant sum  
 clinging to refuse  
   
   
-155  
+<h4 id="155">155</h4>  
   
 pendant expanses  
 ballast the unsteadily  
 isolated trunk  
   
   
-156  
+<h4 id="156">156</h4>  
   
 civilization’s  
 illicit interstices  
 court visitations  
   
   
-161  
+<h4 id="161">161</h4>  
   
 calm regains the steppe  
 desolations continue  
 underneath the crown  
   
   
-162  
+<h4 id="162">162</h4>  
   
 sunray adsorption  
 dulcet tendrils rove the rocks  
 tender oranges  
   
   
-163  
+<h4 id="163">163</h4>  
   
 the woodland seasons,  
 palate-flensing ladder-climbs  
 hungry denizens  
   
   
-164  
+<h4 id="164">164</h4>  
   
 harlequin snowbanks  
 celebrate an ultimate  
 triumph over Spring  
   
   
-165  
+<h4 id="165">165</h4>  
   
 inkwell unopened  
 microcosmic latitudes  
 signify themselves  
   
   
-166  
+<h4 id="166">166</h4>  
   
 discontented cud  
 sallies from antechambered  
 domestication  
   
   
-211  
+<h4 id="211">211</h4>  
   
 cupped expectance gleams  
 hushed spectators stake the pale  
 contestants embrace  
   
   
-212  
+<h4 id="212">212</h4>  
   
 coquettish cascades’  
 coruscant catalepsis  
 cadences clockwork  
   
   
-213  
+<h4 id="213">213</h4>  
   
 paintbrush branches leach  
 spare recalcitrance, outline  
 immiscible rills  
   
   
-214  
+<h4 id="214">214</h4>  
   
 beaded plasm-shine  
 caps blood-dimpled wellsprings, stems  
 curiosity  
   
   
-215  
+<h4 id="215">215</h4>  
   
 unearthed long before  
 alighting labyrinthine  
 eulogies lie still  
   
   
-216  
+<h4 id="216">216</h4>  
   
 votive morsels peek  
 above the inundation  
 pre-consecrated  
   
   
-221  
+<h4 id="221">221</h4>  
   
 regorgent deadwood  
 peekingly outflares itself  
 resurrective stains  
   
   
-222  
+<h4 id="222">222</h4>  
   
 stoneweight tanglescape  
 follicle effigy left  
 telltale underhill  
   
   
-223  
+<h4 id="223">223</h4>  
   
 split-lip mock deathstroke  
 pallor ashes washable  
 bruises hereafter  
   
   
-224  
+<h4 id="224">224</h4>  
   
 wind-egg’s overcast  
 thaws on each meridian’s  
 limpid habitant  
   
   
-225  
+<h4 id="225">225</h4>  
   
 ingested outgrowth  
 becomingly familiar  
 budded company  
   
   
-226  
+<h4 id="226">226</h4>  
   
 rugose sour-cone  
 sallowfold moss grotto-mold  
 tensile modesty  
   
   
-231  
+<h4 id="231">231</h4>  
   
 pallbearers breathing  
 fairer decomposition  
 forward composure  
   
   
-232  
+<h4 id="232">232</h4>  
   
 hooded maidenhead’s  
 impassionate ablutions  
 pucker ingénues  
   
   
-233  
+<h4 id="233">233</h4>  
   
 onto lowsunk fogs  
 filaments of raindrop storm  
 from distant groundswells  
   
   
-234  
+<h4 id="234">234</h4>  
   
 purled cloak hem low-bows  
 picking-sweet along seasons  
 redemption of sins  
   
   
-235  
+<h4 id="235">235</h4>  
   
 ductile nostril-whiffs  
 snuffle sinusoidal dust’s  
 woodbine helices  
   
   
-236  
+<h4 id="236">236</h4>  
   
 propinquity is  
 realizing knothole weeps  
 backfill axehole crust  
   
   
-241  
+<h4 id="241">241</h4>  
   
 stygian bellows’  
 overcast hyperboles  
 out-syzygy pink  
   
   
-242  
+<h4 id="242">242</h4>  
   
 tragicomedies  
 of historiography:  
 death-caponata  
   
   
-243  
+<h4 id="243">243</h4>  
   
 rye entails the heap  
 ungrounded ambivalence  
 articulated  
   
   
-244  
+<h4 id="244">244</h4>  
   
 flotsam counterfeits  
 a-sail, the old scars open  
 unburied plunder  
   
   
-245  
+<h4 id="245">245</h4>  
   
 tinsel zests trade winds  
 for purchase, sounding tendril  
 abruptions return  
   
   
-246  
+<h4 id="246">246</h4>  
   
 whether raptors tread  
 tomorrow lightly hazards  
 green stakes on greensward  
   
   
-251  
+<h4 id="251">251</h4>  
   
 bouquets absented  
 measure remnant undisguised  
 doppelgänger gorse  
   
   
-252  
+<h4 id="252">252</h4>  
   
 harvest exemptions  
 barometric rubescents’  
 hedgerowed nicety  
   
   
-253  
+<h4 id="253">253</h4>  
   
 steady gurgles drown  
 unceasingly, expiring  
 porous lutulence  
   
   
-254  
+<h4 id="254">254</h4>  
   
 glass-hung cyprus eye  
 clandestine deposition  
 alternates askance  
   
   
-255  
+<h4 id="255">255</h4>  
   
 anniversary  
 glister-fruits from leafmold shucks  
 hidden paring rives  
   
   
-256  
+<h4 id="256">256</h4>  
   
 red-fin contusions  
 puzzle out unsalted air  
 with benthic distaste  
   
   
-261  
+<h4 id="261">261</h4>  
   
 fervid encounter’s  
 sympathetic redolence  
 singes afterwards  
   
   
-262  
+<h4 id="262">262</h4>  
   
 purple vitriol  
 fingerlings to better mouth  
 than disavowal  
   
   
-263  
+<h4 id="263">263</h4>  
   
 skyscape focuses  
 on foreshortened horizons  
 (reckoned in footfalls)  
   
   
-264  
+<h4 id="264">264</h4>  
   
 polyp-hedron rind  
 indicative of insides’  
 indelectation  
   
   
-265  
+<h4 id="265">265</h4>  
   
 confluence rescues  
 comestible stowaway  
 perpetually  
   
   
-266  
+<h4 id="266">266</h4>  
   
 thoracic heartspur  
 pinpointing satiety  
 with sourer hungers  
   
   
-311  
+<h4 id="311">311</h4>  
   
 lost morass’ pale  
 undercarriage, stratagems  
 triangulated  
   
   
-312  
+<h4 id="312">312</h4>  
   
 selenic gloaming  
 unweatherable figments  
 eventualize  
   
   
-313  
+<h4 id="313">313</h4>  
   
 furzes evidence  
 intergenerational  
 counterfluency  
   
   
-314  
+<h4 id="314">314</h4>  
   
 retreating fringes  
 still extruding apple-rind  
 from incertitude  
   
   
-315  
+<h4 id="315">315</h4>  
   
 incapacity  
 uncreasing furrowed margins  
 into emptiness  
   
   
-316  
+<h4 id="316">316</h4>  
   
 quicksilver mimics  
 metallurgic admixture’s  
 aureate tincture  
   
   
-321  
+<h4 id="321">321</h4>  
   
 yewey scaffolding  
 bolstered webwork residue  
 teeth’s and tongues’ reprieve  
   
   
-322  
+<h4 id="322">322</h4>  
   
 archivists digest  
 salutary palimpsests  
 collaterally  
   
   
-323  
+<h4 id="323">323</h4>  
   
 lamentless remains  
 alien posterity’s  
 little epitaph  
   
   
-324  
+<h4 id="324">324</h4>  
   
 gwimcey saboteurs  
 woven into crocuses  
 stiffen in the wind  
   
   
-325  
+<h4 id="325">325</h4>  
   
 diametric pole  
 from everywhere the nails grow  
 smaller with seasons  
   
   
-326  
+<h4 id="326">326</h4>  
   
 riverbank cast-offs  
 recapture their carapace  
 through its fissure-craw  
   
   
-331  
+<h4 id="331">331</h4>  
   
 patinated seep  
 opportune attendants blush  
 undue empathy  
   
   
-332  
+<h4 id="332">332</h4>  
   
 impacted deadfall  
 aftermath irruptions screw  
 lumens into space  
   
   
-333  
+<h4 id="333">333</h4>  
   
 just alacrity  
 abates, valor only grows  
 slowly on the vine  
   
   
-334  
+<h4 id="334">334</h4>  
   
 lies of emission  
 (fetor is my countersign):  
 apples into flesh  
   
   
-335  
+<h4 id="335">335</h4>  
   
 inverse acorn cap  
 vacantly concentrating  
 nectar from the bees  
   
   
-336  
+<h4 id="336">336</h4>  
   
 consubstantially  
 sacerdotal/saccharine  
 fanfare ambrosia  
   
   
-341  
+<h4 id="341">341</h4>  
   
 cloistered symmetry’s  
 periwinkle treacle-molds  
 abandoned unmade  
   
   
-342  
+<h4 id="342">342</h4>  
   
 heartwood nematode  
 alternates ultimatums  
 hearsays overpraise  
   
   
-343  
+<h4 id="343">343</h4>  
   
 beagle scrutiny  
 shunted into jubilance  
 tumbles over dunes  
   
   
-344  
+<h4 id="344">344</h4>  
   
 discreetly aloft  
 raindrops on the hummingbird’s  
 dayglow parasol  
   
   
-345  
+<h4 id="345">345</h4>  
   
 barely hovering  
 dewdrops over dragonflies’  
 rainbow umbrella  
   
   
-346  
+<h4 id="346">346</h4>  
   
 fractional totem  
 actualizations splay  
 unguessed euphony  
   
   
-351  
+<h4 id="351">351</h4>  
   
 artless scalding steeps  
 diffusing concentration  
 through monotony  
   
   
-352  
+<h4 id="352">352</h4>  
   
 ambassador’s crest  
 flagging which cannot belong  
 to anyone else  
   
   
-353  
+<h4 id="353">353</h4>  
   
 chrysalis hex tap  
 spigoting monstrosity  
 in docile ingots  
   
   
-354  
+<h4 id="354">354</h4>  
   
 windswept cape-cap wells  
 spangled with candescent veins  
 sessile counter-moons  
   
   
-355  
+<h4 id="355">355</h4>  
   
 co-conspirators:  
 boldly-guarded catacombs’  
 flowstone fluff-hoards loaf  
   
   
-356  
+<h4 id="356">356</h4>  
   
 hilltop semaphore  
 limbless daydream pantomime  
 indefinitely  
   
   
-361  
+<h4 id="361">361</h4>  
   
 proactive salvage  
 tentacles insinuate  
 refluxed barrow-dregs  
   
   
-362  
+<h4 id="362">362</h4>  
   
 fretful decanters’  
 shellac-plunging (fungible  
 mantles abducting)  
   
   
-363  
+<h4 id="363">363</h4>  
   
 ascending scales eat  
 stepwise golden negatives  
 further into reach  
   
   
-364  
+<h4 id="364">364</h4>  
   
 penetralia  
 inner defoliation  
 recrimination  
   
   
-365  
+<h4 id="365">365</h4>  
   
 wildflower copse  
 diminutive sunbeams wilt  
 everything but sound  
   
   
-366  
+<h4 id="366">366</h4>  
   
 scale-mail agonist’s  
 immutable, mnemonic  
 stationary quest  
   
   
-411  
+<h4 id="411">411</h4>  
   
 taffy-foot flaneur  
 exchanges anchor aspects,  
 sauntering aweigh  
   
   
-412  
+<h4 id="412">412</h4>  
   
 signposted groundworks  
 refurnish underpinnings  
 their indistinction  
   
   
-413  
+<h4 id="413">413</h4>  
   
 stoppered catchment holds  
 polyp-complement contents  
 inconsequential  
   
   
-414  
+<h4 id="414">414</h4>  
   
 drifting liaisons’  
 clandestine optimism  
 scuttling away  
   
   
-415  
+<h4 id="415">415</h4>  
   
 conifer wave-break  
 recission’s acerbity  
 cerulean stays  
   
   
-416  
+<h4 id="416">416</h4>  
   
 faith imbalances  
 infamous palliative’s  
 curative pallor  
   
   
-421  
+<h4 id="421">421</h4>  
   
 actual malaise  
 underlying overlays  
 untimely exposed  
   
   
-422  
+<h4 id="422">422</h4>  
   
 discarded elm leaves  
 quizzical droplet faces  
 the entire sky  
   
   
-423  
+<h4 id="423">423</h4>  
   
 unwoven fabric  
 inevitabilities’  
 gradient ascent  
   
   
-424  
+<h4 id="424">424</h4>  
   
 tucked velvet cushions  
 languid contamination’s  
 eldest professor  
   
   
-425  
+<h4 id="425">425</h4>  
   
 compunded withdrawal  
 reflexively imitates  
 outermost insights  
   
   
-426  
+<h4 id="426">426</h4>  
   
 constitutional  
 absentminded scuttlebutt  
 tracking altitudes  
   
   
-431  
+<h4 id="431">431</h4>  
   
 umami lingers  
 beyond appreciation  
 throughout groundwater  
   
   
-432  
+<h4 id="432">432</h4>  
   
 timber-lurker spoor  
 adrenaline and trunksleeve  
 counterfactuals  
   
   
-433  
+<h4 id="433">433</h4>  
   
 slit cuticle looms  
 (or whichever’s the inverse):  
 moon before the clouds  
   
   
-434  
+<h4 id="434">434</h4>  
   
 buckling sediment  
 swelters: perseveration’s  
 fastidious milk  
   
   
-435  
+<h4 id="435">435</h4>  
   
 liverwort shambles  
 undergird the overlord’s  
 perpendictory  
   
   
-436  
+<h4 id="436">436</h4>  
   
 collusion between  
 supernal benignities,  
 unconsciousnesses  
   
   
-441  
+<h4 id="441">441</h4>  
   
 over boulder-clefts  
 stepped desaturation juts  
 air between my toes  
   
   
-442  
+<h4 id="442">442</h4>  
   
 cobweb aesthetics:  
 aloof abhorrence contacts  
 strands abruptly gray  
   
   
-443  
+<h4 id="443">443</h4>  
   
 overdrawn, absent  
 fungimen: identical,  
 exigent outcasts  
   
   
-444  
+<h4 id="444">444</h4>  
   
 spectrum tassels vouch  
 radiant vicinities  
 shuttering themselves  
   
   
-445  
+<h4 id="445">445</h4>  
   
 prosaic backwoods  
 redacted punctuation  
 irrefutable  
   
   
-446  
+<h4 id="446">446</h4>  
   
 tacit avowal:  
 irreplaceability-  
 memorabilia  
   
   
-451  
+<h4 id="451">451</h4>  
   
 rot-bare marrow chalk:  
 every life-precipitate  
 decomposited  
   
   
-452  
+<h4 id="452">452</h4>  
   
 phantasmagoric  
 captivity / tedious  
 metabolism  
   
   
-453  
+<h4 id="453">453</h4>  
   
 oaken covenant  
 animal facsimiles  
 contriving decades  
   
   
-454  
+<h4 id="454">454</h4>  
   
 rhizomorph sigils  
 disguising connotation  
 with fortuity  
   
   
-455  
+<h4 id="455">455</h4>  
   
 orange litterfall  
 conflagration upstages  
 opalescent smut  
   
   
-456  
+<h4 id="456">456</h4>  
   
 scribbling over faults  
 distracted geology  
 hesitates across  
   
   
-461  
+<h4 id="461">461</h4>  
   
 infested layers  
 indexing bygone hardship,  
 forthcoming distaste  
   
   
-462  
+<h4 id="462">462</h4>  
   
 interfacing lawns’  
 orthopraxis-fugitives’  
 lilac catharsis  
   
   
-463  
+<h4 id="463">463</h4>  
   
 coming to the point,  
 unhappy performance’s  
 interchangeable  
   
   
-464  
+<h4 id="464">464</h4>  
   
 minuter hermits’  
 descending alternation,  
 sometime victimhood  
   
   
-465  
+<h4 id="465">465</h4>  
   
 elysian streams  
 beading through derelict bones  
 ineffable piss  
   
   
-466  
+<h4 id="466">466</h4>  
   
 chromatic scanlines’  
 effervescent puddle-foam  
 leavens ecstasy  
   
   
-511  
+<h4 id="511">511</h4>  
   
 unprepossessing  
 isolation’s aroma  
 entices repose  
   
   
-512  
+<h4 id="512">512</h4>  
   
 arrow heavenward,  
 idiosyncrasy strikes  
 with adjacency  
   
   
-513  
+<h4 id="513">513</h4>  
   
 stockpiled simile  
 waypoints solicit margins’  
 immediacy  
   
   
-514  
+<h4 id="514">514</h4>  
   
 pastel waterstone  
 bedlam acumination  
 perforates surmise  
   
   
-515  
+<h4 id="515">515</h4>  
   
 gastric janitor,  
 dysfunctional placenta,  
 oxbow bezoar  
   
   
-516  
+<h4 id="516">516</h4>  
   
 ashes obscuring  
 adoration’s exacting  
 immediacy  
   
   
-521  
+<h4 id="521">521</h4>  
   
 mute inclination  
 hazel wand cantilevers  
 milquetoast flatulence  
   
   
-522  
+<h4 id="522">522</h4>  
   
 lunar aspirant  
 operatives activate  
 next interregnum  
   
   
-523  
+<h4 id="523">523</h4>  
   
 butterfly candles  
 another downpour rescues  
 from efficacy  
   
   
-524  
+<h4 id="524">524</h4>  
   
 digressing commons  
 historiography scrawls  
 missives akimbo  
   
   
-525  
+<h4 id="525">525</h4>  
   
 after abjection  
 upstarts nosing color-space  
 eavesdrop gratitude  
   
   
-526  
+<h4 id="526">526</h4>  
   
 forest ministry  
 whetted propotiations'  
 midseason tension  
   
   
-531  
+<h4 id="531">531</h4>  
   
 velvet sustenance  
 indulges beneath disdain  
 miasma's excise  
   
   
-532  
+<h4 id="532">532</h4>  
   
 assimilating  
 longstanding acquaintances  
 subliminally  
   
   
-533  
+<h4 id="533">533</h4>  
   
 straddling outreach  
 wasabi allegations  
 in potentia  
   
   
-534  
+<h4 id="534">534</h4>  
   
 solubility:  
 ruminant indulgences,  
 savorless landscape  
   
   
-535  
+<h4 id="535">535</h4>  
   
 inadequacies  
 extemporaneously  
 accommodated  
   
   
-536  
+<h4 id="536">536</h4>  
   
 gnashing obstructions  
 acoustically discloses  
 ambient distress  
   
   
-541  
+<h4 id="541">541</h4>  
   
 punctual headway  
 scrimshawing indulgent bones  
 with small verities  
   
   
-542  
+<h4 id="542">542</h4>  
   
 buckshit mentation  
 dilutions trickle downstream   
 stolidly grayscale  
   
   
-543  
+<h4 id="543">543</h4>  
   
 catacomb gewgaws  
 tabulating preambles  
 to abdication  
   
   
-544  
+<h4 id="544">544</h4>  
   
 twenty-eight-spotted  
 ravening consecrations'  
 godhead adjacence  
   
   
-545  
+<h4 id="545">545</h4>  
   
 woven reproachments:  
 defenseless inattention's  
 already elapsed  
   
   
-546  
+<h4 id="546">546</h4>  
   
 benighted presence  
 concretely uncandescent  
 puddling hollows  
   
   
-551  
+<h4 id="551">551</h4>  
   
 noontide vagabond  
 coating the underside on  
 someone else’s shoes  
   
   
-552  
+<h4 id="552">552</h4>  
   
 paint-fleck kumquat fuzz  
 covetously vampires  
 lackluster decor  
   
   
-553  
+<h4 id="553">553</h4>  
   
 propinquity wends  
 strobing absentmindedness  
 across mountainsides  
   
   
-554  
+<h4 id="554">554</h4>  
   
 cloven to slivers  
 pivoting around the boss  
 holding together  
   
   
-555  
+<h4 id="555">555</h4>  
   
 brimming trisector  
 pigment repositories  
 raindrops piñata  
   
   
-556  
+<h4 id="556">556</h4>  
   
 alcove sediment  
 seasoning desolation,  
 populous darkness  
   
   
-561  
+<h4 id="561">561</h4>  
   
 inquiry balloons  
 quiescent autodidact’s  
 cerebral outburst  
   
   
-562  
+<h4 id="562">562</h4>  
   
 frictive asymptote  
 asphalt traction gravity  
 savors inertia  
   
   
-563  
+<h4 id="563">563</h4>  
   
 inaccessible  
 nestling inches underground  
 cannot uncoil  
   
   
-564  
+<h4 id="564">564</h4>  
   
 longitudinal  
 droplet accretion rebound  
 personality  
   
   
-565  
+<h4 id="565">565</h4>  
   
 pariah morning  
 wash me with the river-stones  
 placid whitewater  
   
   
-566  
+<h4 id="566">566</h4>  
   
 mountaintop seabed’s  
 desultory medusas,  
 hydra furniture  
   
   
-611  
+<h4 id="611">611</h4>  
   
 beyond discernment  
 autonomic usurper  
 counting seventeen  
   
   
-612  
+<h4 id="612">612</h4>  
   
 dorsal battlements’  
 reciprocal ambuscade,  
 broidered nursery  
   
   
-613  
+<h4 id="613">613</h4>  
   
 bittersweet spoonful  
 harrowing intensation  
 sharply attenuated  
   
   
-614  
+<h4 id="614">614</h4>  
   
 sepia patches  
 seasonable sanctity  
 breaks, unexpected  
   
   
-615  
+<h4 id="615">615</h4>  
   
 septennial stripes  
 cover other intervals  
 moiré overlap  
   
   
-616  
+<h4 id="616">616</h4>  
   
 play the page of cups  
 nugatory bacchanals  
 augur perfidy  
   
   
-621  
+<h4 id="621">621</h4>  
   
 philanthropical  
 pissoir-hatch confessional  
 dolloping largesse  
   
   
-622  
+<h4 id="622">622</h4>  
   
 obdurate lignin  
 relaxes concentration  
 putrefying thoughts  
   
   
-623  
+<h4 id="623">623</h4>  
   
 littlest thunderhead  
 galvanic immunity  
 incapacitates  
   
   
-624  
+<h4 id="624">624</h4>  
   
 heuristic glosses  
 ostentation camouflage  
 divulges absence  
   
   
-625  
+<h4 id="625">625</h4>  
   
 inviscid splashes  
 recolor overlapping  
 iridescent paths  
   
   
-626  
+<h4 id="626">626</h4>  
   
 cloud quartet grounding  
 further dissatisfactions  
 moistened lullabies  
   
   
-631  
+<h4 id="631">631</h4>  
   
 blustery nuance  
 unstinting podunk shindig  
 decocts ambrosia  
   
   
-632  
+<h4 id="632">632</h4>  
   
 placid gravitas  
 occulted-conclave soirees  
 distilling ichor  
   
   
-633  
+<h4 id="633">633</h4>  
   
 rowan-ingested   
 inefficacious echoes  
 ensorcelled compost  
   
   
-634  
+<h4 id="634">634</h4>  
   
 moulder-vestiges  
 porcelain stratigraphy  
 (everything is teeth)  
   
   
-635  
+<h4 id="635">635</h4>  
   
 glimmer silhouette  
 castoffs short-handed gleaners  
 fasten to themselves  
   
   
-636  
+<h4 id="636">636</h4>  
   
 pause beside tree trunks  
 corridors already tried  
 disclosing nothing  
   
   
-641  
+<h4 id="641">641</h4>  
   
 reliquary crumbs  
 enjoying particulate  
 immortality  
   
   
-642  
+<h4 id="642">642</h4>  
   
 uninventoried:  
 ostentatious-abstention  
 inordinacy  
   
   
-643  
+<h4 id="643">643</h4>  
   
 gullying around  
 topological-pinwheel  
 mereology  
   
   
-644  
+<h4 id="644">644</h4>  
   
 magenta touchstones  
 obliviate, monochrome  
 ambiance fountains  
   
   
-645  
+<h4 id="645">645</h4>  
   
 feculent bog dregs  
 burgeoning lotus florets  
 unbiased fungus  
   
   
-646  
+<h4 id="646">646</h4>  
   
 garnished subsistence  
 dispensable oblations  
 reciprocated  
   
   
-651  
+<h4 id="651">651</h4>  
   
 tonic recursion  
 swallowing incarnations  
 into eschewal  
   
   
-652  
+<h4 id="652">652</h4>  
   
 oblique approaches  
 affrictive coarsening licks  
 precise scimit’ry  
   
   
-653  
+<h4 id="653">653</h4>  
   
 suffocations reach  
 neglected homestead ashes  
 tardily often  
   
   
-654  
+<h4 id="654">654</h4>  
   
 follicle quotient  
 willows guage vitality  
 scraggily squozen  
   
   
-655  
+<h4 id="655">655</h4>  
   
 pressing conundrum  
 quagmire simulacrum  
 apothem outflow  
   
   
-656  
+<h4 id="656">656</h4>  
   
 stoppered enchantment  
 poised atop the conic stool  
 of disillusion  
   
   
-661  
+<h4 id="661">661</h4>  
   
 curt exhalation  
 hurtling meadowlands under  
 diaspora trails  
   
   
-662  
+<h4 id="662">662</h4>  
   
 forgotten garlic  
 unvarnished-lumber-plated  
 ungulate hors d’oeuvre  
   
   
-663  
+<h4 id="663">663</h4>  
   
 outline empathy  
 ontogenic analogue  
 earthquake’s ultrasound  
   
   
-664  
+<h4 id="664">664</h4>  
   
 disparate tipoffs  
 punctuate arrhythmia  
 daybreak unwinding  
   
   
-665  
+<h4 id="665">665</h4>  
   
 helmets intertwine  
 hirsute bulwark tinderbox  
 filament arrays  
   
   
-666  
+<h4 id="666">666</h4>  
   
 impressive diction  
 recitation negatives  

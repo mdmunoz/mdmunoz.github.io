@@ -17,3 +17,5 @@ date:   2022-10-22 00:00:00 -0700
 Ａ　ＥＶＥＲＹＢＯＤＹ　Ｒ
 Ｔ　　　Ｒ　　　　　　　Ｄ
 ＥＸＴＲＡＶＡＧＡＮＺＡＳ</pre>
+
+Cf. [Dave's Scrabblegrams](https://www.davesscrabblegrams.com)
