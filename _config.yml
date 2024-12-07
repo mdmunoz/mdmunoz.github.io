@@ -21,10 +21,12 @@
 title: Matthew Muñoz
 email: matthew@knucklebones.rip
 description: >- # this means to ignore newlines
+  <a href="pdf/TriSyll.pdf">
   When Raven slickly machinates,</br>
   that jackanapsing maven’s tricks</br>
   on cravens quickly hackles raise,</br>
   and cackles praise his razor wit.
+  </a>
 
 url: https://knucklebones.rip/
 baseurl: "/"
