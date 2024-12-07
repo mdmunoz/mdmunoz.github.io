@@ -44,6 +44,8 @@ entries:
         url: mailto:matthew@knucklebones.rip
       - title: rss feed
         url: feed.xml
+      - title: riggraz' no-style-please theme
+        url: https://github.com/riggraz/no-style-please
         
   - title: things i used to believe
     entries:
