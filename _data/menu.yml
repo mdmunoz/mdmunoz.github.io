@@ -6,7 +6,7 @@ entries:
       - title: mixed metaphor’s surrealist
       - title: prosody delimits theology
 
-  - title: poems etc.
+  - title: poems &c
     post_list: true
   
   - title: links
@@ -44,7 +44,7 @@ entries:
         url: mailto:matthew@knucklebones.rip
       - title: rss feed
         url: feed.xml
-      - title: riggraz' no-style-please theme
+      - title: riggraz’ no-style-please theme
         url: https://github.com/riggraz/no-style-please
         
   - title: things i used to believe
