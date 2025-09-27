@@ -30,7 +30,7 @@ No one understands my insistence that this is my favorite thing, so here’s a l
 - *The Horse’s Mouth*, Joyce Gary
 - *House of Houses*, Kevin L. Donihe
 - *House of Leaves*, Mark Z. Danielewski
-- *Humanity Is The Devil*, Joedan Krall
+- *Humanity Is The Devil*, Jordan Krall
 - *I Will Rot Without You*, Danger Slater
 - *Ice*, Anna Kavan
 - *The Infernal Desire Machines of Doctor Hoffman*, Angela Carter
