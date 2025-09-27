@@ -29,6 +29,7 @@ No one understands my insistence that this is my favorite thing, so here’s a l
 - *The Hike*, Drew Magary
 - *The Horse’s Mouth*, Joyce Gary
 - *House of Houses*, Kevin L. Donihe
+- *House of Leaves*, Mark Z. Danielewski
 - *Humanity Is The Devil*, Joedan Krall
 - *I Will Rot Without You*, Danger Slater
 - *Ice*, Anna Kavan
@@ -42,6 +43,7 @@ No one understands my insistence that this is my favorite thing, so here’s a l
 - *Omensetter’s Luck*, William H. Gass
 - *The Open Curtain*, Brian Evanson
 - *Other People*, Martin Amis
+- *Piranesi*, Susanna Clarke
 - *Salmon*, Sebastian Castillo
 - *Seeing Red*, Lina Meruane
 - *Solaris*, Stanisław Lem
