@@ -25,6 +25,7 @@ No one understands my insistence that this is my favorite thing, so here’s a l
 - *Earwig*, Brian Catling
 - *The False Messiah*, Leonard Wolf
 - *The Flight to Lucifer*, Harold Bloom
+- *Foucault’s Pendulum*, Umberto Eco
 - *The Fun We’ve Had*, Michael J. Seidlinger
 - *The Hearing Trumpet*, Leonora Carrington
 - *The Hike*, Drew Magary
