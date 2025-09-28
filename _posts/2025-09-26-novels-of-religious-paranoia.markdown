@@ -17,6 +17,7 @@ No one understands my insistence that this is my favorite thing, so here’s a l
 - *The Blue Fox*, Sjón
 - *Blue Lard*, Vladimir Sorokin
 - *Corey Fah Does Social Mobility*, Isabel Waidner
+- *The Course of the Heart*, M. John Harrison
 - *Cows*, Matthew Stokoe
 - *The Crystal World*, J. G. Ballard
 - *Die Empty*, Kirk Jones
@@ -38,6 +39,7 @@ No one understands my insistence that this is my favorite thing, so here’s a l
 - *The Master and Margarita*, Mikhail Bulgakov
 - *Messiah*, Gore Vidal
 - *My Idea of Fun*, Will Self
+- *Naked Lunch*, William S. Burroughs
 - *Nefando*, Mónica Ojeda
 - *The Obscene Bird of Night*, José Donoso
 - *Omensetter’s Luck*, William H. Gass
