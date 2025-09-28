@@ -48,6 +48,7 @@ No one understands my insistence that this is my favorite thing, so here’s a l
 - *The Open Curtain*, Brian Evanson
 - *Other People*, Martin Amis
 - *Piranesi*, Susanna Clarke
+- *Portraits and Ashes*, John Pistelli
 - *Salmon*, Sebastian Castillo
 - *Seeing Red*, Lina Meruane
 - *Solaris*, Stanisław Lem
