@@ -36,6 +36,7 @@ No one understands my insistence that this is my favorite thing, so here’s a l
 - *I Will Rot Without You*, Danger Slater
 - *Ice*, Anna Kavan
 - *The Infernal Desire Machines of Doctor Hoffman*, Angela Carter
+- *The Invention of Morel*, Adolfo Bioy Casares
 - *Là-bas*, Joris-Karl Huysmans
 - *The Master and Margarita*, Mikhail Bulgakov
 - *Messiah*, Gore Vidal
