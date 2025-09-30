@@ -6,57 +6,63 @@ date:   2025-09-26 00:00:00 -0700
 
 No one understands my insistence that this is my favorite thing, so here’s a list. Please [send suggestions](mailto:matthew@knucklebones.rip).
 
-- *A Handbook of American Prayer*, Lucius Shepard
-- *A Void*, Georges Perec
-- *Animal Money*, Michael Cisco
-- *Annihilation*, Jeff VanderMeer
-- *Antkind*, Charlie Kaufman
-- *Basal Ganglia*, Matthew Revert
-- *The Beauty*, Aliya Whiteley
-- *The Black Dog Eats The City*, Chris Kelso
-- *The Blue Fox*, Sjón
-- *Blue Lard*, Vladimir Sorokin
-- *Corey Fah Does Social Mobility*, Isabel Waidner
-- *The Course of the Heart*, M. John Harrison
-- *Cows*, Matthew Stokoe
-- *The Crystal World*, J. G. Ballard
-- *Die Empty*, Kirk Jones
-- *Dreams of Amputation*, Gary Shipley
-- *Earwig*, Brian Catling
-- *The False Messiah*, Leonard Wolf
-- *The Flight to Lucifer*, Harold Bloom
-- *Foucault’s Pendulum*, Umberto Eco
-- *The Fun We’ve Had*, Michael J. Seidlinger
-- *The Hearing Trumpet*, Leonora Carrington
-- *The Hike*, Drew Magary
-- *The Horse’s Mouth*, Joyce Gary
-- *House of Houses*, Kevin L. Donihe
-- *House of Leaves*, Mark Z. Danielewski
-- *Humanity Is The Devil*, Jordan Krall
-- *I Will Rot Without You*, Danger Slater
-- *Ice*, Anna Kavan
-- *The Infernal Desire Machines of Doctor Hoffman*, Angela Carter
-- *The Invention of Morel*, Adolfo Bioy Casares
-- *Là-bas*, Joris-Karl Huysmans
-- *The Master and Margarita*, Mikhail Bulgakov
-- *Messiah*, Gore Vidal
-- *My Idea of Fun*, Will Self
-- *Naked Lunch*, William S. Burroughs
-- *Nefando*, Mónica Ojeda
-- *The Obscene Bird of Night*, José Donoso
-- *Omensetter’s Luck*, William H. Gass
-- *The Open Curtain*, Brian Evanson
-- *Other People*, Martin Amis
-- *Piranesi*, Susanna Clarke
-- *Portraits and Ashes*, John Pistelli
-- *Salmon*, Sebastian Castillo
-- *Seeing Red*, Lina Meruane
-- *Solaris*, Stanisław Lem
-- *Solenoid*, Mircea Cărtărescu
-- *Threats*, Amelia Gray
-- *The Transmigration of Timothy Archer*, Philip K. Dick
-- *The Trial*, Franz Kafka
-- *The Twenty Days of Turin*, Giorgio De Maria
-- *Unassigned Territory*, Kem Nunn
-- *Wise Blood*, Flannery O’Connor
-- *You Dreamed of Empires*, Álvaro Enrigue
+- Adolfo Bioy Casares, *The Invention of Morel*
+- Aliya Whiteley, *The Beauty*
+- Álvaro Enrigue, *You Dreamed of Empires*
+- Amelia Gray, *Threats*
+- Angela Carter, *The Infernal Desire Machines of Doctor Hoffman*
+- Anna Kavan, *Ice*
+- Brian Catling, *Earwig*
+- Brian Evanson, *The Open Curtain*
+- Charlie Kaufman, *Antkind*
+- Chris Kelso, *The Black Dog Eats The City*
+- Danger Slater, *I Will Rot Without You*
+- Drew Magary, *The Hike*
+- Flannery O’Connor, *Wise Blood*
+- Franz Kafka, *The Trial*
+- Garrett Cook, *Archelon Ranch*
+- Gary Shipley, *Dreams of Amputation*
+- George Mangels, *Frank’s World*
+- Georges Bataille, *Story of the Eye*
+- Georges Perec, *A Void*
+- Giorgio De Maria, *The Twenty Days of Turin*
+- Gore Vidal, *Messiah*
+- Harold Bloom, *The Flight to Lucifer*
+- Haruki Murakami, *The Wind-Up Bird Chronicle*
+- Isabel Waidner, *Corey Fah Does Social Mobility*
+- J. G. Ballard, *The Crystal World*
+- Jeff VanderMeer, *Annihilation*
+- Joe Orton, *Head to Toe*
+- John Pistelli, *Portraits and Ashes*
+- Jordan Krall, *Humanity Is The Devil*
+- Joris-Karl Huysmans, *Là-bas*
+- José Donoso, *The Obscene Bird of Night*
+- Joyce Gary, *The Horse’s Mouth*
+- Kem Nunn, *Unassigned Territory*
+- Kevin L. Donihe, *House of Houses*
+- Kirk Jones, *Die Empty*
+- Kōbō Abe, *Secret Rendezvous*
+- Leonard Wolf, *The False Messiah*
+- Leonora Carrington, *The Hearing Trumpet*
+- Lina Meruane, *Seeing Red*
+- Lucius Shepard, *A Handbook of American Prayer*
+- M. John Harrison, *The Course of the Heart*
+- Mark Z. Danielewski, *House of Leaves*
+- Martin Amis, *Other People*
+- Matthew Revert, *Basal Ganglia*
+- Matthew Stokoe, *Cows*
+- Michael Cisco, *Animal Money*
+- Michael J. Seidlinger, *The Fun We’ve Had*
+- Mikhail Bulgakov, *The Master and Margarita*
+- Mircea Cărtărescu, *Solenoid*
+- Mónica Ojeda, *Nefando*
+- Philip K. Dick, *The Transmigration of Timothy Archer*
+- Sebastian Castillo, *Salmon*
+- Sjón, *The Blue Fox*
+- Stanisław Lem, *Solaris*
+- Susanna Clarke, *Piranesi*
+- Umberto Eco, *Foucault’s Pendulum*
+- Vladimir Sorokin, *Blue Lard*
+- Will Self, *My Idea of Fun*
+- William H. Gass, *Omensetter’s Luck*
+- William S. Burroughs, *Naked Lunch*
