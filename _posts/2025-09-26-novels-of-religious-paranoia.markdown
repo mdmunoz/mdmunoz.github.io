@@ -14,6 +14,7 @@ No one understands my insistence that this is my favorite thing, so here’s a l
 - Anna Kavan, *Ice*
 - Brian Catling, *Earwig*
 - Brian Evanson, *The Open Curtain*
+- Carlton Mellick III, *Razor Wire Pubic Hair*
 - Charlie Kaufman, *Antkind*
 - Chris Kelso, *The Black Dog Eats The City*
 - Danger Slater, *I Will Rot Without You*
@@ -49,6 +50,7 @@ No one understands my insistence that this is my favorite thing, so here’s a l
 - M. John Harrison, *The Course of the Heart*
 - Mark Z. Danielewski, *House of Leaves*
 - Martin Amis, *Other People*
+- Matt Hlinak, *DoG*
 - Matthew Revert, *Basal Ganglia*
 - Matthew Stokoe, *Cows*
 - Michael Cisco, *Animal Money*
