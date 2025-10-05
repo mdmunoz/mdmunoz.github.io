@@ -4,7 +4,7 @@ title:  "Novels of Religious Paranoia and/or Ontological Psychosis"
 date:   2025-09-26 00:00:00 -0700
 ---
 
-No one understands my insistence that this is my favorite thing, so here’s a list. Please [send suggestions](mailto:matthew@knucklebones.rip).
+No one understands my insistence that this is my favorite thing, so here’s a list (one per author for brevity). Please [send suggestions](mailto:matthew@knucklebones.rip).
 
 - Adolfo Bioy Casares, *The Invention of Morel*
 - Aliya Whiteley, *The Beauty*
@@ -61,6 +61,7 @@ No one understands my insistence that this is my favorite thing, so here’s a l
 - Sjón, *The Blue Fox*
 - Stanisław Lem, *Solaris*
 - Susanna Clarke, *Piranesi*
+- Thomas Pynchon, *The Crying of Lot 49*
 - Umberto Eco, *Foucault’s Pendulum*
 - Vladimir Sorokin, *Blue Lard*
 - Will Self, *My Idea of Fun*

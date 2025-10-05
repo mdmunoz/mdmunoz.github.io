@@ -38,6 +38,8 @@ entries:
         url: feed.xml
       - title: riggraz’ no-style-please theme
         url: https://github.com/riggraz/no-style-please
+      - title: ia writer fonts
+        url: https://github.com/iaolo/iA-Fonts
         
   - title: things i used to believe
     entries:

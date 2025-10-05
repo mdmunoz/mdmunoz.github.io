@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "iA Writer Duo S";
+    src: url("/font/iAWriterDuoS-Regular.woff2") format("woff2"),
+    url("/font/iAWriterDuoS-Regular.woff") format("woff"),
+    url("/font/iAWriterDuoS-Regular.eot") format("eot");
+}
+
+body {
+  font-family: "iA Writer Duo S", monospace !important;
+}
