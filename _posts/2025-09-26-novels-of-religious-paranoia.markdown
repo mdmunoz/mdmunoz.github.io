@@ -6,6 +6,13 @@ date:   2025-09-26 00:00:00 -0700
 
 No one understands my insistence that this is my favorite thing, so here’s a list (one per author for brevity). Please [send suggestions](mailto:matthew@knucklebones.rip).
 
+*When you believe in things  
+That you don’t understand  
+Then you suffer*  
+  
+—Stevie Wonder
+
+
 - Adolfo Bioy Casares, *The Invention of Morel*
 - Aliya Whiteley, *The Beauty*
 - Álvaro Enrigue, *You Dreamed of Empires*
@@ -65,6 +72,7 @@ No one understands my insistence that this is my favorite thing, so here’s a l
 - Susanna Clarke, *Piranesi*
 - Thomas Pynchon, *The Crying of Lot 49*
 - Umberto Eco, *Foucault’s Pendulum*
+- Victor Pelevin, *Buddha’s Little Finger*
 - Vladimir Sorokin, *Blue Lard*
 - Will Self, *My Idea of Fun*
 - William H. Gass, *Omensetter’s Luck*
