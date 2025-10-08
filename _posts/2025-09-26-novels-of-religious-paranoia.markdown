@@ -30,6 +30,7 @@ Then you suffer*
 - Franz Kafka, *The Trial*
 - Garrett Cook, *Archelon Ranch*
 - Gary Shipley, *Dreams of Amputation*
+- Geoff Ryman, *Lust*
 - George Mangels, *Frank’s World*
 - Georges Bataille, *Story of the Eye*
 - Georges Perec, *A Void*
