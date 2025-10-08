@@ -9,10 +9,9 @@ No one understands my insistence that this is my favorite thing, so here’s a l
 *When you believe in things  
 That you don’t understand  
 Then you suffer*  
+—Stevie Wonder  
   
-—Stevie Wonder
-
-
+  
 - Adolfo Bioy Casares, *The Invention of Morel*
 - Aliya Whiteley, *The Beauty*
 - Álvaro Enrigue, *You Dreamed of Empires*
@@ -24,6 +23,7 @@ Then you suffer*
 - Carlton Mellick III, *Razor Wire Pubic Hair*
 - Charlie Kaufman, *Antkind*
 - Chris Kelso, *The Black Dog Eats The City*
+- Clarice Lispector, *The Passion According to G.H.*
 - Danger Slater, *I Will Rot Without You*
 - Drew Magary, *The Hike*
 - Flannery O’Connor, *Wise Blood*

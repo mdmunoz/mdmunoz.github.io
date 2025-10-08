@@ -4,7 +4,6 @@ title:  "Jesus Limericks"
 date:   2023-02-19 00:00:00 -0700
 ---
 *And he said unto them, Unto you it is given to know the mystery of the kingdom of God: but unto them that are without, all these things are done in parables: That seeing they may see, and not perceive; and hearing they may hear, and not understand; lest at any time they should be converted, and their sins should be forgiven them.*  
-  
 —Mark 4:11-12  
   
   
