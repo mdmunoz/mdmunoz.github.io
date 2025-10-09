@@ -13,6 +13,7 @@ Then you suffer*
   
   
 - Adolfo Bioy Casares, *The Invention of Morel*
+- Alfred Jarry, *Exploits and Opinions of Dr. Faustroll, Pataphysician*
 - Aliya Whiteley, *The Beauty*
 - Álvaro Enrigue, *You Dreamed of Empires*
 - Amelia Gray, *Threats*
@@ -24,6 +25,7 @@ Then you suffer*
 - Charlie Kaufman, *Antkind*
 - Chris Kelso, *The Black Dog Eats The City*
 - Clarice Lispector, *The Passion According to G.H.*
+- Comte de Lautréamont, *Les Chants de Maldoror*
 - Danger Slater, *I Will Rot Without You*
 - David Ohle, *Motorman*
 - Drew Magary, *The Hike*
@@ -68,6 +70,7 @@ Then you suffer*
 - Mircea Cărtărescu, *Solenoid*
 - Mónica Ojeda, *Nefando*
 - Philip K. Dick, *The Transmigration of Timothy Archer*
+- Reza Negarestani, *Cyclonopedia: Complicity with Anonymous Materials*
 - Salman Rushdie, *The Satanic Verses*
 - Sebastian Castillo, *Salmon*
 - Sjón, *The Blue Fox*
