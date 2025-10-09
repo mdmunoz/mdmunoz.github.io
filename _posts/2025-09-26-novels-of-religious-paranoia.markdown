@@ -25,6 +25,7 @@ Then you suffer*
 - Chris Kelso, *The Black Dog Eats The City*
 - Clarice Lispector, *The Passion According to G.H.*
 - Danger Slater, *I Will Rot Without You*
+- David Ohle, *Motorman*
 - Drew Magary, *The Hike*
 - Flannery O’Connor, *Wise Blood*
 - Franz Kafka, *The Trial*
@@ -67,6 +68,7 @@ Then you suffer*
 - Mircea Cărtărescu, *Solenoid*
 - Mónica Ojeda, *Nefando*
 - Philip K. Dick, *The Transmigration of Timothy Archer*
+- Salman Rushdie, *The Satanic Verses*
 - Sebastian Castillo, *Salmon*
 - Sjón, *The Blue Fox*
 - Stanisław Lem, *Solaris*
