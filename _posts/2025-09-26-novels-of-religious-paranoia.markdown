@@ -59,6 +59,7 @@ Then you suffer*
 - Lina Meruane, *Seeing Red*
 - Lucius Shepard, *A Handbook of American Prayer*
 - M. John Harrison, *The Course of the Heart*
+- Marc Behm, *The Eye of the Beholder*
 - Mark Z. Danielewski, *House of Leaves*
 - Martin Amis, *Other People*
 - Matt Hlinak, *DoG*
