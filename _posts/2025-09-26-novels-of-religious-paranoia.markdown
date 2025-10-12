@@ -38,6 +38,7 @@ Then you suffer*
 - Georges Bataille, *Story of the Eye*
 - Georges Perec, *A Void*
 - Giorgio De Maria, *The Twenty Days of Turin*
+- G. K. Chesterton, *The Man Who Was Thursday*
 - Gore Vidal, *Messiah*
 - Harold Bloom, *The Flight to Lucifer*
 - Haruki Murakami, *The Wind-Up Bird Chronicle*
