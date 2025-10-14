@@ -31,6 +31,7 @@ Then you suffer*
 - Drew Magary, *The Hike*
 - Flannery O’Connor, *Wise Blood*
 - Franz Kafka, *The Trial*
+- G. K. Chesterton, *The Man Who Was Thursday*
 - Garrett Cook, *Archelon Ranch*
 - Gary Shipley, *Dreams of Amputation*
 - Geoff Ryman, *Lust*
@@ -38,11 +39,11 @@ Then you suffer*
 - Georges Bataille, *Story of the Eye*
 - Georges Perec, *A Void*
 - Giorgio De Maria, *The Twenty Days of Turin*
-- G. K. Chesterton, *The Man Who Was Thursday*
 - Gore Vidal, *Messiah*
 - Harold Bloom, *The Flight to Lucifer*
 - Haruki Murakami, *The Wind-Up Bird Chronicle*
 - Isabel Waidner, *Corey Fah Does Social Mobility*
+- Italo Calvino, *If on a winter's night a traveler*
 - J. G. Ballard, *The Crystal World*
 - Jeff VanderMeer, *Annihilation*
 - Joe Orton, *Head to Toe*
@@ -55,6 +56,7 @@ Then you suffer*
 - Kevin L. Donihe, *House of Houses*
 - Kirk Jones, *Die Empty*
 - Kōbō Abe, *Secret Rendezvous*
+- Kurt Vonnegut, *Cat’s Cradle*
 - Leonard Wolf, *The False Messiah*
 - Leonora Carrington, *The Hearing Trumpet*
 - Lina Meruane, *Seeing Red*
