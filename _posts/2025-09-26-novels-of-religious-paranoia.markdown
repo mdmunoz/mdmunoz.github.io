@@ -14,6 +14,7 @@ Then you suffer*
   
 - Adolfo Bioy Casares, *The Invention of Morel*
 - Alfred Jarry, *Exploits and Opinions of Dr. Faustroll, Pataphysician*
+- Algernon Blackwood, *The Willows*
 - Aliya Whiteley, *The Beauty*
 - Álvaro Enrigue, *You Dreamed of Empires*
 - Amelia Gray, *Threats*
