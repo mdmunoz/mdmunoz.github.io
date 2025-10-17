@@ -4,6 +4,8 @@ title:  "Sennaari Chant"
 date:   2025-02-07 00:00:00 -0700
 ---
 
+*In the* Chants of Sennaar *Anchorites’ language*
+
 not-exile tower-plural-die
 
 advent collapse

@@ -4,6 +4,8 @@ title:  "Šindel’s Orloj Hours"
 date:   2024-11-29 00:00:00 -0700
 ---
 
+*In the bell-ringing sequence of the Prague astronomical clock*
+
 I  
 am  
 not  

@@ -4,6 +4,8 @@ title:  "Narayani Poems"
 date:   2024-03-20 00:00:00 -0700
 ---
 
+*In* Myst III: Exile *poetic glyphs*
+
 **changing questions control belief.**
 
 <img class="ioda" alt="Four Myst III Narayani glyphs composed of quarter-circle arcs." src="/svg/myst/CHANGE_QUESTION_CONTROL_BELIEVE.svg" width="100%" height="100%">
