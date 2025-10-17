@@ -4,7 +4,7 @@ title:  "Novels of Religious Paranoia and/or Ontological Psychosis"
 date:   2025-09-26 00:00:00 -0700
 ---
 
-No one understands my insistence that this is my favorite thing, so here’s a list (one per author for brevity). Please [send suggestions](mailto:matthew@knucklebones.rip).
+No one accepts my insistence that this is my favorite thing, so here’s a list (one per author for brevity). Please [send suggestions](mailto:matthew@knucklebones.rip).
 
 *When you believe in things  
 That you don’t understand  
