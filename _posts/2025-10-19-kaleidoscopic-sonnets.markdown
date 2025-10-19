@@ -12,7 +12,7 @@ date:   2025-10-18 00:00:00 -0700
 
 *Manually-hallucinated sense and minority pronunciations imposed on dictionary words (randomly chosen within the poem’s formal restrictions)*  
   
-# Ozymandias  
+## Ozymandias  
   
 <span class="red">D</span>issociate select amnesiac<span class="red">s’</span>  
 avail<span class="red">.</span> <span class="red">C</span>andela<span class="red">s</span> badge rheology<span class="red">,</span>  
@@ -29,7 +29,7 @@ craw<span class="red">ed</span> patrimony<span class="red">,</span> pad illustri
 <span class="red">(</span>convivial<span class="red">,</span> contemptible<span class="red">)</span> fjord<span class="red">s,</span> crouch<span class="red">.</span>  
 <span class="red">V</span>eterinarian<span class="red">s</span> gain countrym<span class="red">e</span>n<span class="red">.</span>  
   
-# Shakespearian  
+## Shakespearian  
   
 <span class="red">Q</span>uadrennial acacia<span class="red">s</span> knock shoe<span class="red">s.</span> <span class="red">M</span>aestro<span class="red">’s</span>  
 accelerometer<span class="red">-</span>choice shorthand<span class="red">s</span> horny<span class="red">,</span>  
@@ -46,7 +46,7 @@ penurious mind<span class="red">-</span>interruption<span class="red">s</span> m
 elite depositar<span class="red">ies. G</span>yrocompass  
 protrude<span class="red">s</span> complaint<span class="red">:</span> proof<span class="red">’s</span> ineradicable<span class="red">.</span>  
   
-# Spenserian  
+## Spenserian  
   
 <span class="red">P</span>eculiar<span class="red">,</span> meteoric<span class="red">,</span> finite<span class="red">,</span> torn<span class="red">:</span>  
 extraordinary mozzarella<span class="red">. H</span>owdy<span class="red">,</span>  
@@ -63,7 +63,7 @@ insufferable<span class="red">. B</span>ar whorl<span class="red">-</span>spoon<
 anthropomorphism<span class="red">. G</span>azelle<span class="red">s’</span> cheap linden<span class="red">-</span>  
 phenomenolog<span class="red">ies,</span> swamp<span class="red">-</span>blest<span class="red">,</span> bounce <span class="red">(</span>image<span class="red">).</span>  
   
-# Byronic  
+## Byronic  
   
 <span class="red">P</span>repare enthusiastic cheerleader<span class="red">s’</span>  
 improbable broil<span class="red">:</span> doddering datura<span class="red">.</span>  
@@ -80,7 +80,7 @@ conciliatory<span class="red">. K</span>it<span class="red">-</span>oligarchy<sp
 rheology vent<span class="red">s</span> grainy storyteller<span class="red">s.</span>  
 <span class="red">P</span>robationary neigh<span class="red">s</span> harp everybody<span class="red">.</span>  
   
-# Miltonic  
+## Miltonic  
   
 <span class="red">T</span>oday<span class="red">,</span> sax <span class="red">(</span>his persuasion<span class="red">)</span> zest<span class="red">s</span> murk<span class="red">,</span> spurn<span class="red">s,</span>  
 accommodate<span class="red">s. E</span>mpower<span class="red">ed,</span> wide stall<span class="red">s’</span> bombast<span class="red">’s</span>  
@@ -97,7 +97,7 @@ inaccuracy<span class="red">. D</span>arken<span class="red">ed</span> book<span
 impugn econometric turntable<span class="red">s</span>  
 <span class="red">(</span>hallucinatory<span class="red">,</span> eradicable<span class="red">).</span>  
   
-# Onegin  
+## Onegin  
   
 <span class="red">S</span>uggestible<span class="red">,</span> austere caught<span class="red">-</span>canister  
 committee<span class="red">s’</span> eigenvalue<span class="red">:</span> sidestep<span class="red">. C</span>annot  
@@ -114,7 +114,7 @@ recess <span class="red">(</span>vaginal<span class="red">)</span> notebook<span
 depreciate yam<span class="red">-</span>chaise executor<span class="red">s.</span>  
 <span class="red">M</span>inicomputer<span class="red">s</span> quad<span class="red">-</span>flake megahertz<span class="red">.</span>  
   
-# Petrarchan  
+## Petrarchan  
   
 <span class="red">A</span>bsurd<span class="red">,</span> smug lateral<span class="red">s</span> flew<span class="red">,</span> brag<span class="red">ged. E</span>longate  
 yam<span class="red">s’</span> revelry<span class="red">,</span> along exogenous  
