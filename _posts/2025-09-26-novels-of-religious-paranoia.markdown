@@ -29,6 +29,7 @@ Then you suffer*
 - Comte de Lautréamont, *Les Chants de Maldoror*
 - Danger Slater, *I Will Rot Without You*
 - David Ohle, *Motorman*
+- Dennis Cooper, *The Marbled Swarm*
 - Drew Magary, *The Hike*
 - Flannery O’Connor, *Wise Blood*
 - Franz Kafka, *The Trial*
