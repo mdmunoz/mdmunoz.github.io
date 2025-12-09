@@ -14,4 +14,4 @@ date:   2024-05-03 00:00:00 -0700
 
 - There are unlimited concepts adequate to the evidence.
 
-- The simplest explanation is rarely useful or correct.
+- The simplest explanation is rarely useful or instructive.
