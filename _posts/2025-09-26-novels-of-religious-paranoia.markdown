@@ -78,6 +78,7 @@ Then you suffer*
 - Philip K. Dick, *The Transmigration of Timothy Archer*
 - Reza Negarestani, *Cyclonopedia: Complicity with Anonymous Materials*
 - Salman Rushdie, *The Satanic Verses*
+- Samuel R. Delany, *Dhalgren*
 - Sebastian Castillo, *Salmon*
 - Sjón, *The Blue Fox*
 - Stanisław Lem, *Solaris*
