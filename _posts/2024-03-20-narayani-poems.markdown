@@ -16,7 +16,7 @@ chaotic momentum spurs flow.
 
 <img class="ioda" alt="Four Myst III Narayani glyphs composed of quarter-circle arcs." src="/svg/myst/CHAOS_MOMENTUM_SPUR_FLOW.svg" width="100%" height="100%">
 
-ovdiscoveries encourage mutual growth.
+discoveries encourage mutual growth.
 
 <img class="ioda" alt="Four Myst III Narayani glyphs composed of quarter-circle arcs." src="/svg/myst/DISCOVER_ENCOURAGE_MUTUAL_GROWTH.svg" width="100%" height="100%">
 
