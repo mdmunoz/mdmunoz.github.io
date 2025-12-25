@@ -31,6 +31,7 @@ Then you suffer*
 - David Ohle, *Motorman*
 - Dennis Cooper, *The Marbled Swarm*
 - Drew Magary, *The Hike*
+- Elaine Kraf, *House of Madelaine*
 - Flannery O’Connor, *Wise Blood*
 - Franz Kafka, *The Trial*
 - G. K. Chesterton, *The Man Who Was Thursday*
