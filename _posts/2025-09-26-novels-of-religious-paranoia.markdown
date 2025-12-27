@@ -32,6 +32,7 @@ Then you suffer*
 - Dennis Cooper, *The Marbled Swarm*
 - Drew Magary, *The Hike*
 - Elaine Kraf, *House of Madelaine*
+- Flann O’Brien, *The Third Policeman*
 - Flannery O’Connor, *Wise Blood*
 - Franz Kafka, *The Trial*
 - G. K. Chesterton, *The Man Who Was Thursday*
@@ -84,6 +85,7 @@ Then you suffer*
 - Sjón, *The Blue Fox*
 - Stanisław Lem, *Solaris*
 - Susanna Clarke, *Piranesi*
+- Thomas Carlyle, *Sartor Resartus*
 - Thomas Pynchon, *The Crying of Lot 49*
 - Umberto Eco, *Foucault’s Pendulum*
 - Victor Pelevin, *Buddha’s Little Finger*
