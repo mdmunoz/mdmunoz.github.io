@@ -20,4 +20,4 @@ on coral conjunctivities of teeth;
 susurrus, irretrievably soft-spoken;  
   
 Ouroboros’ disaffected fumes;  
-Traverse-dimensioned funguses in bloom.
+traverse-dimensioned funguses in bloom.
