@@ -89,6 +89,7 @@
 		<outline text="Emotional Supernova" type="rss" xmlUrl="http://simx.me/supernova/rss.xml" htmlUrl="http://simx.me/supernova/index.html" title="Emotional Supernova"/>
 		<outline text="Éphéméride des Chimères" type="rss" xmlUrl="https://chimeride.tumblr.com/rss" htmlUrl="https://chimeride.tumblr.com/" title="Éphéméride des Chimères"/>
 		<outline text="Eraserhead Press" type="rss" xmlUrl="https://eraserheadpress.com/feed/" htmlUrl="https://eraserheadpress.com/" title="Eraserhead Press"/>
+		<outline text="esoteric.codes" type="rss" xmlUrl="https://esoteric.codes/rss" htmlUrl="https://esoteric.codes/" title="esoteric.codes"/>
 		<outline text="Evan Dahm" type="rss" xmlUrl="https://evandahm.tumblr.com/rss" htmlUrl="https://evandahm.tumblr.com/" title="Evan Dahm"/>
 		<outline text="Evil Mad Scientist Laboratories" type="rss" xmlUrl="https://www.evilmadscientist.com/feed/" htmlUrl="https://www.evilmadscientist.com/" title="Evil Mad Scientist Laboratories"/>
 		<outline text="False Knees" type="rss" xmlUrl="https://falseknees.com/rss.xml" htmlUrl="https://www.falseknees.com/" title="False Knees"/>
@@ -163,6 +164,7 @@
 		<outline text="LMNT" type="rss" xmlUrl="https://lmnt.me/feed.xml" htmlUrl="https://lmnt.me/" title="LMNT"/>
 		<outline text="Lost Pages" type="rss" xmlUrl="https://tsojcanth.wordpress.com/feed/" htmlUrl="https://tsojcanth.wordpress.com/" title="Lost Pages"/>
 		<outline text="Lovecraft eZine" type="rss" xmlUrl="https://lovecraftzine.com/feed/" htmlUrl="https://lovecraftzine.com/" title="Lovecraft eZine"/>
+		<outline text="A Lovely Harmless Monster" type="rss" xmlUrl="https://mattbee.zone/rss.xml" htmlUrl="https://mattbee.zone/blog" title="A Lovely Harmless Monster"/>
 		<outline text="Luke Gearing" type="rss" xmlUrl="https://lukegearing.blot.im/feed.rss" htmlUrl="https://lukegearing.blot.im/" title="Luke Gearing"/>
 		<outline text="the m john harrison blog" type="rss" xmlUrl="https://ambientehotel.wordpress.com/feed/" htmlUrl="https://ambientehotel.wordpress.com/" title="the m john harrison blog"/>
 		<outline text="Madness Heart Press" type="rss" xmlUrl="https://madnessheart.press/feed/" htmlUrl="https://madnessheart.press/" title="Madness Heart Press"/>
@@ -177,6 +179,7 @@
 		<outline text="Melon’s Thoughts" type="rss" xmlUrl="https://thoughts.melonking.net/atom/" htmlUrl="https://thoughts.melonking.net/" title="Melon’s Thoughts"/>
 		<outline text="The Merry Mushmen" type="rss" xmlUrl="https://www.themerrymushmen.com/feed/" htmlUrl="https://www.themerrymushmen.com/" title="The Merry Mushmen"/>
 		<outline text="Michael Heilemann" type="rss" xmlUrl="https://binarybonsai.com/blog?format=rss" htmlUrl="https://binarybonsai.com/" title="Michael Heilemann"/>
+		<outline text="Michel Fortin" type="rss" xmlUrl="https://michelf.ca/blog/atom/" htmlUrl="https://michelf.ca/" title="Michel Fortin"/>
 		<outline text="Mister Frank" type="rss" xmlUrl="https://frankjedler.blogspot.com/feeds/posts/default" htmlUrl="https://frankjedler.blogspot.com/" title="Mister Frank"/>
 		<outline text="Molly White" type="rss" xmlUrl="https://blog.mollywhite.net/feed.xml" htmlUrl="https://blog.mollywhite.net/" title="Molly White"/>
 		<outline text="Monster Manual Sewn From Pants" type="rss" xmlUrl="https://monstermanualsewnfrompants.blogspot.com/feeds/posts/default" htmlUrl="https://monstermanualsewnfrompants.blogspot.com/" title="Monster Manual Sewn From Pants"/>
@@ -288,6 +291,7 @@
 		<outline text="Ubiktune Latest News" type="rss" xmlUrl="https://ubiktune.com/feed" htmlUrl="https://ubiktune.com/" title="Ubiktune Latest News"/>
 		<outline text="Uncomics" type="rss" xmlUrl="https://uncomics.org/feed.xml" htmlUrl="https://uncomics.org/" title="Uncomics"/>
 		<outline text="Under the Microscope" type="rss" xmlUrl="https://weblog.rogueamoeba.com/feed/" htmlUrl="https://weblog.rogueamoeba.com/" title="Under the Microscope"/>
+		<outline text="Unsung" type="rss" xmlUrl="https://unsung.aresluna.org/feed.xml" htmlUrl="https://unsung.aresluna.org/" title="Unsung"/>
 		<outline text="Unturned Hovel" type="rss" xmlUrl="https://unturnedhovel.bearblog.dev/feed/" htmlUrl="https://unturnedhovel.bearblog.dev/" title="Unturned Hovel"/>
 		<outline text="Urbanomic" type="rss" xmlUrl="https://www.urbanomic.com/feed/" htmlUrl="https://www.urbanomic.com/" title="Urbanomic"/>
 		<outline text="VAULTS OF VAARN" type="rss" xmlUrl="https://vaultsofvaarn.com/feed/" htmlUrl="https://vaultsofvaarn.com/" title="VAULTS OF VAARN"/>
@@ -302,6 +306,7 @@
 		<outline text="Wizard Fight Club" type="rss" xmlUrl="https://wizardfightclub.blogspot.com/feeds/posts/default" htmlUrl="https://wizardfightclub.blogspot.com/" title="Wizard Fight Club"/>
 		<outline text="Wizard Thief Fighter" type="rss" xmlUrl="https://wizardthieffighter.blogspot.com/feeds/posts/default" htmlUrl="https://wizardthieffighter.blogspot.com/" title="Wizard Thief Fighter"/>
 		<outline text="Words &amp; Other Sorcery" type="rss" xmlUrl="https://www.josephrlewis.com/feed/" htmlUrl="https://www.josephrlewis.com/" title="Words &amp; Other Sorcery"/>
+		<outline text="The Works of Egan" type="rss" xmlUrl="https://theworksofegan.net/feed.xml" htmlUrl="https://theworksofegan.net/" title="The Works of Egan"/>
 		<outline text="World of Ortix" type="rss" xmlUrl="https://worldofortix.blogspot.com/feeds/posts/default" htmlUrl="https://worldofortix.blogspot.com/" title="World of Ortix"/>
 		<outline text="worm-in-a-rock god" type="rss" xmlUrl="https://wiarg.pseudonymjones.com/feed/" htmlUrl="https://wiarg.pseudonymjones.com/" title="worm-in-a-rock god"/>
 		<outline text="Xenon Elasmotherium" type="rss" xmlUrl="https://lukarejec.substack.com/feed" htmlUrl="https://lukarejec.substack.com/" title="Xenon Elasmotherium"/>
