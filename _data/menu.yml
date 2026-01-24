@@ -36,6 +36,8 @@ entries:
         url: https://librivox.org/reader/13865
       - title: email
         url: mailto:matthew@knucklebones.rip
+      - title: blogroll
+        url: blogroll.html
       - title: rss feed
         url: feed.xml
       - title: riggraz’ no-style-please theme
