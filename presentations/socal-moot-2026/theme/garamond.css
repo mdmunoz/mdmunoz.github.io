@@ -1,0 +1,140 @@
+/* Fonts */
+@font-face {
+  font-family: 'iA Garamond';
+  font-feature-settings: 'dlig' 1;
+  font-style: normal;
+  font-weight: 400 700;
+  src: url('fonts/iAGaramond.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'iA Garamond Italic';
+  font-feature-settings: 'dlig' 1;
+  font-style: italic;
+  font-weight: 400 700;
+  src: url('fonts/iAGaramondItalic.woff2') format('woff2');
+}
+
+:root {
+  --font-weight-h1: 400;
+  --font-weight-h2: 434;
+  --font-weight-h3: 415;
+  --font-weight-h4: 450;
+  --font-weight-h5: 489;
+  --font-weight-h6: 623;
+  --font-weight-p: 415;
+  --font-weight-header-and-footer: 450;
+
+  --font-variation-settings-h1: 'ytuc' 65;
+  --font-variation-settings-h2: 'ytuc' 1;
+  --font-variation-settings-h3: 'ytuc' 35;
+  --font-variation-settings-h4: 'ytuc' 50;
+  --font-variation-settings-h5: 'ytuc' 1;
+  --font-variation-settings-h6: 'ytuc' 1;
+  --font-variation-settings-p: 'ytuc' 1;
+  --font-variation-settings-header-footer: 'ytuc' 1;
+
+  --line-height-h1: 1.2;
+  --line-height-h2: 1.3;
+  --line-height-h3: 1.4;
+  --line-height-h4: 1.5;
+  --line-height-h5: 1.3;
+  --line-height-h6: 1.5;
+  --line-height-p: 1.5;
+
+  --letter-spacing-h1: 0%;
+  --letter-spacing-h2: 8%;
+  --letter-spacing-h3: 0%;
+  --letter-spacing-h4: 0%;
+  --letter-spacing-h5: 0%;
+  --letter-spacing-h6: 10%;
+  --letter-spacing-p: 0%;
+
+  --case-h1: inherit;
+  --case-h2: uppercase;
+  --case-h3: inherit;
+  --case-h4: inherit;
+  --case-h5: inherit;
+  --case-h6: uppercase;
+  --case-p: inherit;
+}
+
+.dark {
+  --font-weight-h1: 400;
+  --font-weight-h2: 400;
+  --font-weight-h3: 400;
+  --font-weight-h4: 415;
+  --font-weight-h5: 441;
+  --font-weight-h6: 489;
+  --font-weight-p: 400;
+  --font-weight-header-and-footer: 400;
+}
+
+.element-group {
+  --p-base-size: 56;
+  --h1-offset: 32;
+  --h2-offset: 16;
+  --h3-offset: 8.25;
+  --h4-offset: 0;
+  --h5-offset: -12;
+  --h6-offset: -24;
+  --h6-small-offset: -32;
+  --blockquote-offset: 9;
+  --heading-dynamic-offset: 0;
+  --li-dynamic-offset: -2;
+
+  --p-mobile-base-size: 20;
+  --h1-mobile-offset: 24;
+  --h2-mobile-offset: 10;
+  --h3-mobile-offset: 6;
+  --h4-mobile-offset: 2;
+  --h5-mobile-offset: -1.5;
+  --h6-mobile-offset: -7;
+  --blockquote-mobile-offset: 3;
+  --heading-mobile-dynamic-offset: 0;
+  --li-mobile-dynamic-offset: -1;
+
+  --scale-factor-h1: 1;
+  --scale-factor-h2: 0.88;
+  --scale-factor-h3: 1;
+  --scale-factor-h4: 1;
+  --scale-factor-h5: 1;
+  --scale-factor-h6: 1;
+  --scale-factor-blockquote: 1;
+  --scale-factor-th: 0.75;
+  --scale-factor-td: 0.9;
+
+  --margin-base: 8;
+
+  --paragraph-spacing: 0;
+  --paragraph-indentation: 1em;
+
+  --margin-h1: 0.1em;
+  --margin-h2: 0.12em;
+  --margin-h3: 0.2em;
+  --margin-h4: 0.1em;
+  --margin-h5: 0.12em;
+  --margin-h6: 0.33em;
+  --margin-p: 0.14em;
+}
+
+:root {
+  --text-horizontal-align-layout-cover: center;
+  --text-vertical-align-layout-cover: center;
+  --text-horizontal-align-layout-title: center;
+  --text-vertical-align-layout-title: center;
+  --text-horizontal-align-layout-section: center;
+  --text-vertical-align-layout-section: center;
+  --text-horizontal-align-layout-default: center;
+  --text-vertical-align-layout-default: center;
+  --text-horizontal-align-layout-caption: center;
+  --text-vertical-align-layout-split: center;
+  --text-vertical-align-layout-3-column: center;
+}
+
+.element-group h4,
+.element-group i,
+.element-group em {
+  font-family: 'iA Garamond Italic', Helvetica, Arial, sans-serif;
+  font-style: italic;
+}

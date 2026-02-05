@@ -1,0 +1,72 @@
+{
+  "Name": "Garamond",
+  "Version": "1.0.3",
+  "Author": "iA",
+  "ShortDescription": "Classic Book Design",
+  "LongDescription": "Inspired by Renaissance typography, this style emphasizes readability, elegance, and proportion, echoing the traditions of classic printed books.",
+  "Css": "garamond.css",
+  "TitleFont": "iA Garamond",
+  "BodyFont": "iA Garamond",
+  "CssClasses": "variable-size-headings",
+  "LayoutExamples": [
+    {
+      "Name": "Title and Image",
+      "Markdown": "# Title\n With some text.\n\n/Theme/image1.jpg"
+    },
+    {
+      "Name": "Image",
+      "Markdown": "/Theme/image1.jpg"
+    },
+    {
+      "Name": "Subtitle and Image",
+      "Markdown": "## Subtitle\n\n/Theme/image1.jpg"
+    },
+    {
+      "Name": "Two Images",
+      "Markdown": "/Theme/image1.jpg\n\n/Theme/image2.jpg"
+    },
+    {
+      "Name": "Three Images",
+      "Markdown": "/Theme/image1.jpg\n\n/Theme/image2.jpg\n\n/Theme/image3.jpg"
+    },
+
+    {
+      "Name": "Image and Caption",
+      "Markdown": "/Theme/image1.jpg\n\n#### Caption"
+    },
+    {
+      "Name": "Caption and Image",
+      "Markdown": "#### Caption\n\n/Theme/image1.jpg"
+    },
+
+    {
+      "Name": "Title (H1) and Background",
+      "Markdown": "/Theme/image2.jpg\nBackground: true\nfilter: darken\n\n# TITLE\n#### with background"
+    },
+    {
+      "Name": "Title (H2) and Background",
+      "Markdown": "/Theme/image2.jpg\nBackground: true\nfilter: darken\n\n## SUBTITLE\n#### with background"
+    },
+    {
+      "Name": "Three Columns",
+      "Markdown": "Layout: Columns\n### Heading\n\tThis is content for the paragraph in the first column. This is content for the paragraph in the first column. This is the content for the paragraph in the first column. This is content for the paragraph in the first column.\n\n### Heading\n\tThis is content for the paragraph in the second column. This is content for paragraph three in the second column. This is the content for the paragraph in the second column. This is content for the paragraph in the second column.\n\n### Heading\n\tThis is content for the paragraph in the third column. This is content for the paragraph in the third column. This is the content for the paragraph in the third column. This is content for the paragraph in the third column."
+    },
+    {
+      "Name": "Title and 2 columns",
+      "Markdown": "Layout: Title-and-Columns\n### Heading\n\n\tThis is the content for the paragraph in the first column. This is the content for the paragraph in the first column. This is the content for the paragraph in the first column. This is the content for the paragraph in the first column.\n\n\tThis is the content for the paragraph in the second column. This is the content for the paragraph in the second column. This is the content for the paragraph in the second column. This is the content for the paragraph in the second column."
+    },
+    {
+      "Name": "Title And 3 Columns",
+      "Markdown": "Layout: Title-and-Columns\n### Heading\n\n\this is the content for the paragraph in the first column. This is the content for the paragraph in the first column. This is the content for the paragraph in the first column. This is the content for the paragraph in the first column.\n\n\tThis is the content for the paragraph in the second column. This is the content for the paragraph in the second column. This is the content for the paragraph in the second column. This is the content for the paragraph in the second column.\n\n\tThis is the content for the paragraph in the third column. This is the content for the paragraph in the third column. This is the content for the paragraph in the third column. This is the content for the paragraph in the third column."
+    },
+
+    {
+      "Name": "Title with Background",
+      "Markdown": "/Theme/image5.jpg\nBackground: true\n\n# TITLE\n#### with background"
+    },
+    {
+      "Name": "Subtitle with Background",
+      "Markdown": "/Theme/image5.jpg\nBackground: true\n\n## SUBTITLE\n#### with background"
+    }
+  ]
+}
