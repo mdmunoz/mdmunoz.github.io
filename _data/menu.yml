@@ -9,13 +9,14 @@ entries:
   - title: poems <i>etc.</i>
     post_list: true
 
-  - title: presentations
-    entries:
-      - title: socal moot 2026
-        url: presentations/socal-moot-2026
-
   - title: links
     entries:
+      - title: blogroll
+        url: blogroll.html
+      - title: rss feed
+        url: feed.xml
+      - title: email
+        url: mailto:matthew@knucklebones.rip
       - title: anguiped chapbook
         url: https://paperviewbooks.pt/books/anguiped/
       - title: ekphrastic review with saki
@@ -24,6 +25,8 @@ entries:
         url: https://monologging.org/distillation/
       - title: distillation ii with jeffrey barken, saki, and laura kerr
         url: https://monologging.org/distillation-ii/
+      - title: socal moot 2026
+        url: presentations/socal-moot-2026
       - title: <a rel="me" href="https://m.knucklebones.rip/@pseudepigram">mastodon</a>
       - title: bluesky
         url: https://bsky.app/profile/knucklebones.rip
@@ -39,12 +42,6 @@ entries:
         url: https://www.youtube.com/playlist?list=PL-T0rUROII89PcYt3lV6vfRioPek41UTQ
       - title: public domain audiobooks
         url: https://librivox.org/reader/13865
-      - title: email
-        url: mailto:matthew@knucklebones.rip
-      - title: blogroll
-        url: blogroll.html
-      - title: rss feed
-        url: feed.xml
       - title: riggraz’ no-style-please theme
         url: https://github.com/riggraz/no-style-please
       - title: ia writer fonts
