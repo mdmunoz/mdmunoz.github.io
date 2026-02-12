@@ -1,3 +1,5 @@
+:root { color-scheme: dark; }
+
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   filter: invert(1);
