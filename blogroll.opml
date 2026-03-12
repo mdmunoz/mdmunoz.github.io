@@ -15,6 +15,7 @@
 		<outline text="Abstract Comics" type="rss" xmlUrl="https://abstractcomics.blogspot.com/feeds/posts/default" htmlUrl="https://abstractcomics.blogspot.com/" title="Abstract Comics"/>
 		<outline text="Absurdist Horror" type="rss" xmlUrl="https://absurdisthorror.substack.com/feed" htmlUrl="https://absurdisthorror.substack.com/" title="Absurdist Horror"/>
 		<outline text="Ajay Ramachandran's Blog" type="rss" xmlUrl="https://blog.ajay.app/rss.xml" htmlUrl="https://blog.ajay.app/" title="Ajay Ramachandran's Blog"/>
+		<outline text="Alex McLean" type="rss" xmlUrl="https://slab.org/feed/" htmlUrl="https://slab.org/" title="Alex McLean"/>
 		<outline text="Alex Schroeder’s Diary" type="rss" xmlUrl="https://alexschroeder.ch/view/index.rss" htmlUrl="https://alexschroeder.ch/" title="Alex Schroeder’s Diary"/>
 		<outline text="Alpaca" type="rss" xmlUrl="https://algorithmicpattern.org/feed/" htmlUrl="https://algorithmicpattern.org/" title="Alpaca"/>
 		<outline text="Amanda P." type="rss" xmlUrl="https://weirdwonder.bearblog.dev/feed/" htmlUrl="https://www.weirdwonder.net/" title="Amanda P."/>
@@ -110,6 +111,7 @@
 		<outline text="esoteric.codes" type="rss" xmlUrl="https://esoteric.codes/rss" htmlUrl="https://esoteric.codes/" title="esoteric.codes"/>
 		<outline text="Evan Dahm" type="rss" xmlUrl="https://evandahm.tumblr.com/rss" htmlUrl="https://evandahm.tumblr.com/" title="Evan Dahm"/>
 		<outline text="Evil Mad Scientist Laboratories" type="rss" xmlUrl="https://www.evilmadscientist.com/feed/" htmlUrl="https://www.evilmadscientist.com/" title="Evil Mad Scientist Laboratories"/>
+		<outline text="Exist Otherwise" type="rss" xmlUrl="https://existotherwise.com/rss/" htmlUrl="https://existotherwise.com/" title="Exist Otherwise"/>
 		<outline text="Failure Tolerated" type="rss" xmlUrl="https://www.failuretolerated.com/feed.rss" htmlUrl="https://www.failuretolerated.com/" title="Failure Tolerated"/>
 		<outline text="False Knees" type="rss" xmlUrl="https://falseknees.com/rss.xml" htmlUrl="https://www.falseknees.com/" title="False Knees"/>
 		<outline text="False Machine" type="rss" xmlUrl="https://falsemachine.blogspot.com/feeds/posts/default" htmlUrl="https://falsemachine.blogspot.com/" title="False Machine"/>
@@ -176,7 +178,7 @@
 		<outline text="Katherine Montalto" type="rss" xmlUrl="http://katherinemontalto.com/feed/" htmlUrl="http://katherinemontalto.com/" title="Katherine Montalto"/>
 		<outline text="Katherine Yang" type="rss" xmlUrl="https://kayserifserif.place/feed.xml" htmlUrl="https://kayserifserif.place/" title="Katherine Yang"/>
 		<outline text="ThE KC of COmics Green" type="rss" xmlUrl="https://kcggggg.tumblr.com/rss" htmlUrl="https://kcggggg.tumblr.com/" title="ThE KC of COmics Green"/>
-		<outline text="KEITH BURGUN GAMES" type="rss" xmlUrl="https://keithburgun.net/feed/" htmlUrl="https://keithburgun.net/" title="KEITH BURGUN GAMES"/>
+		<outline text="KEITH BURGUN GAMES" type="rss" xmlUrl="https://keithburgun.net/feed/" htmlUrl="https://keithburgun.net/articles/" title="KEITH BURGUN GAMES"/>
 		<outline text="Keith James Comics" type="rss" xmlUrl="https://keithjamescomics.tumblr.com/rss" htmlUrl="https://keithjamescomics.tumblr.com/" title="Keith James Comics"/>
 		<outline text="Kicks Condor" type="rss" xmlUrl="https://www.kickscondor.com/feed.xml" htmlUrl="https://www.kickscondor.com/" title="Kicks Condor"/>
 		<outline text="Kids Prefer Cheese" type="rss" xmlUrl="http://mungowitzend.blogspot.com/feeds/posts/default" htmlUrl="http://mungowitzend.blogspot.com/" title="Kids Prefer Cheese"/>
@@ -241,6 +243,7 @@
 		<outline text="Objective Development's Blog" type="rss" xmlUrl="https://obdev.at/rss/" htmlUrl="https://obdev.at/blog" title="Objective Development's Blog"/>
 		<outline text="Oglaf!" type="rss" xmlUrl="https://www.oglaf.com/feeds/rss/" htmlUrl="https://www.oglaf.com/latest/" title="Oglaf!"/>
 		<outline text="One Foot Tsunami" type="rss" xmlUrl="https://onefoottsunami.com/feed/atom/" htmlUrl="https://onefoottsunami.com/" title="One Foot Tsunami"/>
+		<outline text="ONLY POEMS DAILY" type="rss" xmlUrl="https://www.onlypoemsdaily.com/feed" htmlUrl="https://www.onlypoemsdaily.com/" title="ONLY POEMS DAILY"/>
 		<outline text="ooh.directory blog" type="rss" xmlUrl="https://ooh.directory/blog/feeds/posts.xml" htmlUrl="https://ooh.directory/blog/" title="ooh.directory blog"/>
 		<outline text="ooh.directory recently added blogs" type="rss" xmlUrl="https://ooh.directory/feeds/recently-added.xml" htmlUrl="https://ooh.directory/" title="ooh.directory recently added blogs"/>
 		<outline text="Orange Juice Liberation Front" type="rss" xmlUrl="https://orangejuiceliberationfront.com/feed.xml" htmlUrl="https://orangejuiceliberationfront.com/" title="Orange Juice Liberation Front"/>
@@ -254,9 +257,11 @@
 		<outline text="Paths Peculiar" type="rss" xmlUrl="https://www.wistedt.net/feed/" htmlUrl="https://www.wistedt.net/" title="Paths Peculiar"/>
 		<outline text="Patrick Alexander’s Personal Internet" type="rss" xmlUrl="https://www.chickennation.com/feed/" htmlUrl="https://www.chickennation.com/" title="Patrick Alexander’s Personal Internet"/>
 		<outline text="Pegana Press" type="rss" xmlUrl="https://peganapress.blogspot.com/feeds/posts/default" htmlUrl="https://peganapress.blogspot.com/" title="Pegana Press"/>
+		<outline text="PENELOPE" type="rss" xmlUrl="https://penelope.hypotheses.org/feed" htmlUrl="https://penelope.hypotheses.org/" title="PENELOPE"/>
 		<outline text="Penteract’s Substack" type="rss" xmlUrl="https://penteract.substack.com/feed" htmlUrl="https://penteract.substack.com/" title="Penteract’s Substack"/>
 		<outline text="Perry Bible Fellowship" type="rss" xmlUrl="https://pbfcomics.com/feed/" htmlUrl="https://pbfcomics.com/" title="Perry Bible Fellowship"/>
 		<outline text="Pixel Envy" type="rss" xmlUrl="https://pxlnv.com/feed/json/" htmlUrl="https://pxlnv.com/" title="Pixel Envy"/>
+		<outline text="pjamesstuart" type="rss" xmlUrl="https://pjamesstuart.substack.com/feed" htmlUrl="https://pjamesstuart.substack.com/" title="pjamesstuart"/>
 		<outline text="pketh.org" type="rss" xmlUrl="https://pketh.org/feed.xml" htmlUrl="https://pketh.org/" title="pketh.org"/>
 		<outline text="Playful Void" type="rss" xmlUrl="https://idlecartulary.com/feed/" htmlUrl="https://idlecartulary.com/" title="Playful Void"/>
 		<outline text="Poetic Program, Typographic System" type="rss" xmlUrl="https://rmfrt.substack.com/feed" htmlUrl="https://rmfrt.substack.com/" title="Poetic Program, Typographic System"/>
@@ -297,6 +302,7 @@
 		<outline text="Secret Society" type="rss" xmlUrl="https://hodgman.substack.com/feed" htmlUrl="https://hodgman.substack.com/" title="Secret Society"/>
 		<outline text="serif of nottingblog" type="rss" xmlUrl="https://serifofnottingham.blogspot.com/feeds/posts/default" htmlUrl="https://serifofnottingham.blogspot.com/" title="serif of nottingblog"/>
 		<outline text="The Shape of Everything" type="rss" xmlUrl="https://shapeof.com/feed.json" htmlUrl="https://shapeof.com/" title="The Shape of Everything"/>
+		<outline text="Shen Comix" type="rss" xmlUrl="https://shencomix.tumblr.com/rss" htmlUrl="https://shencomix.tumblr.com/" title="Shen Comix"/>
 		<outline text="Sidney Icarus" type="rss" xmlUrl="https://sidneyicarus.wordpress.com/feed/" htmlUrl="https://sidneyicarus.wordpress.com/" title="Sidney Icarus"/>
 		<outline text="sidski" type="rss" xmlUrl="https://kjelsrud.dev/rss.xml" htmlUrl="https://kjelsrud.dev/" title="sidski"/>
 		<outline text="The Sigilist" type="rss" xmlUrl="https://thesigilist.tumblr.com/rss" htmlUrl="https://thesigilist.tumblr.com/" title="The Sigilist"/>
@@ -349,6 +355,7 @@
 		<outline text="wavebeem.com" type="rss" xmlUrl="https://www.wavebeem.com/feed.xml" htmlUrl="https://www.wavebeem.com/" title="wavebeem.com"/>
 		<outline text="Waxy.org" type="rss" xmlUrl="https://waxy.org/feed/" htmlUrl="https://waxy.org/" title="Waxy.org"/>
 		<outline text="Weather Factory" type="rss" xmlUrl="https://weatherfactory.biz/feed/" htmlUrl="https://weatherfactory.biz/" title="Weather Factory"/>
+		<outline text="Weaving codes – coding weaves" type="rss" xmlUrl="https://kairotic.org/feed/" htmlUrl="https://kairotic.org/" title="Weaving codes – coding weaves"/>
 		<outline text="Web3 is Going Just Great" type="rss" xmlUrl="https://www.web3isgoinggreat.com/feed.xml" htmlUrl="https://web3isgoinggreat.com/feed.xml" title="Web3 is Going Just Great"/>
 		<outline text="Weird Wonder" type="rss" xmlUrl="https://weirdwonder.substack.com/feed" htmlUrl="https://weirdwonder.substack.com/" title="Weird Wonder"/>
 		<outline text="What's Up, Fraidycat?" type="rss" xmlUrl="https://fraidyc.at/blog/feed.xml" htmlUrl="https://fraidyc.at/blog/" title="What's Up, Fraidycat?"/>
