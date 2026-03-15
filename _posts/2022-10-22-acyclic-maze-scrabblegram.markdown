@@ -18,4 +18,6 @@ date:   2022-10-22 00:00:00 -0700
 Ｔ　　　Ｒ　　　　　　　Ｄ
 ＥＸＴＲＡＶＡＧＡＮＺＡＳ</pre>
 
+*De-initialism-ization by [Saki](https://sakitheartist.com)*
+
 *Cf. [Dave's Scrabblegrams](https://www.davesscrabblegrams.com)*
