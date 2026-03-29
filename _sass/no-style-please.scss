@@ -138,3 +138,19 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+a:link {
+  color: LightSeaGreen;
+}
+
+a:visited {
+  color: DarkSlateBlue;
+}
+
+a:hover {
+  color: DarkCyan;
+}
+
+a:active {
+  color: LightSalmon;
+}
