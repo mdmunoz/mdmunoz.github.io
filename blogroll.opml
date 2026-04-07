@@ -162,6 +162,7 @@
 		<outline text="Grindhouse Press" type="rss" xmlUrl="https://grindhousepress.com/feed/" htmlUrl="https://grindhousepress.com/" title="Grindhouse Press"/>
 		<outline text="Grove of the Gourd Dwarf" type="rss" xmlUrl="https://gourd-dwarf.bearblog.dev/feed/" htmlUrl="https://gourd-dwarf.bearblog.dev/" title="Grove of the Gourd Dwarf"/>
 		<outline text="Grumpy Gamer" type="rss" xmlUrl="https://grumpygamer.com/index.xml" htmlUrl="https://grumpygamer.com/" title="Grumpy Gamer"/>
+		<outline text="Gunnerkrigg and All Else" type="rss" xmlUrl="https://gunnerkrigg.tumblr.com/rss" htmlUrl="https://gunnerkrigg.tumblr.com/" title="Gunnerkrigg and All Else"/>
 		<outline text="Gunnerkrigg Court" type="rss" xmlUrl="https://www.gunnerkrigg.com/rss.xml" htmlUrl="http://www.gunnerkrigg.com/" title="Gunnerkrigg Court"/>
 		<outline text="GUTSLUT PRESS" type="rss" xmlUrl="https://gutslutpress.com/feed/" htmlUrl="https://gutslutpress.com/" title="GUTSLUT PRESS"/>
 		<outline text="GUTTER" type="rss" xmlUrl="https://thatguttershow.tumblr.com/rss" htmlUrl="https://thatguttershow.tumblr.com/" title="GUTTER"/>
@@ -175,6 +176,7 @@
 		<outline text="Hilander RPGs" type="rss" xmlUrl="https://hilanderrpgs.bearblog.dev/feed/" htmlUrl="https://hilanderrpgs.bearblog.dev/" title="Hilander RPGs"/>
 		<outline text="Hilarity Comics" type="rss" xmlUrl="https://hilaritycomics.tumblr.com/rss" htmlUrl="https://hilaritycomics.tumblr.com/" title="Hilarity Comics"/>
 		<outline text="The Home Page of Jay Tholen" type="rss" xmlUrl="https://jaytholen.net/rss.xml" htmlUrl="https://jaytholen.net/" title="The Home Page of Jay Tholen"/>
+		<outline text="Homestuck: Beyond Canon" type="rss" xmlUrl="https://beyondcanon.com/story/feed" htmlUrl="https://www.beyondcanon.com//story" title="Homestuck: Beyond Canon"/>
 		<outline text="Hotel Paintings" type="rss" xmlUrl="https://hotelpaintings.neocities.org/feed.xml" htmlUrl="https://hotelpaintings.neocities.org/" title="Hotel Paintings"/>
 		<outline text="The HPLHS Store" type="rss" xmlUrl="https://store.hplhs.org/blogs/news.atom" htmlUrl="https://store.hplhs.org/blogs/news" title="The HPLHS Store"/>
 		<outline text="Hypercritical" type="rss" xmlUrl="https://hypercritical.co/feeds/main" htmlUrl="http://hypercritical.co/" title="Hypercritical"/>
@@ -257,6 +259,7 @@
 		<outline text="Molly White" type="rss" xmlUrl="https://blog.mollywhite.net/feed.xml" htmlUrl="https://blog.mollywhite.net/" title="Molly White"/>
 		<outline text="Molly White’s microblog feed" type="rss" xmlUrl="https://www.mollywhite.net/micro/feed.xml" htmlUrl="https://www.mollywhite.net//micro/feed.xml" title="Molly White’s microblog feed"/>
 		<outline text="monologging" type="rss" xmlUrl="https://monologging.org/feed/" htmlUrl="https://monologging.org/" title="monologging"/>
+		<outline text="Monster Brains" type="rss" xmlUrl="https://monster-brains.tumblr.com/rss" htmlUrl="https://monster-brains.tumblr.com/" title="Monster Brains"/>
 		<outline text="Monster Manual Sewn From Pants" type="rss" xmlUrl="https://monstermanualsewnfrompants.blogspot.com/feeds/posts/default" htmlUrl="https://monstermanualsewnfrompants.blogspot.com/" title="Monster Manual Sewn From Pants"/>
 		<outline text="MRCATTEARS" type="rss" xmlUrl="https://mrcattears.com/feed" htmlUrl="https://mrcattears.com/" title="MRCATTEARS"/>
 		<outline text="muffinlabs.com" type="rss" xmlUrl="https://muffinlabs.com/atom.xml" htmlUrl="https://muffinlabs.com/" title="muffinlabs.com"/>
@@ -371,6 +374,7 @@
 		<outline text="StrangeBooks.com" type="rss" xmlUrl="https://strangebooks.com/feed/" htmlUrl="https://strangebooks.com/" title="StrangeBooks.com"/>
 		<outline text="Subliminal Surgery" type="rss" xmlUrl="https://subliminal.surgery/feed/" htmlUrl="https://subliminal.surgery/" title="Subliminal Surgery"/>
 		<outline text="submersible press" type="rss" xmlUrl="https://submersiblepress.wordpress.com/feed/" htmlUrl="https://submersiblepress.wordpress.com/" title="submersible press"/>
+		<outline text="Supper Mario Broth" type="rss" xmlUrl="https://bsky.app/profile/did:plc:heeihz7xdhf7dbjx4befobqw/rss" htmlUrl="https://bsky.app/profile/mariobrothblog.bsky.social" title="Supper Mario Broth"/>
 		<outline text="Supper Mario Broth" type="rss" xmlUrl="https://www.suppermariobroth.com/rss" htmlUrl="https://www.suppermariobroth.com/" title="Supper Mario Broth"/>
 		<outline text="Sven Dahlstrand" type="rss" xmlUrl="https://dahlstrand.net/feed.xml" htmlUrl="https://dahlstrand.net/" title="Sven Dahlstrand"/>
 		<outline text="Swordfish Islands" type="rss" xmlUrl="https://blog.swordfish.press/feeds/posts/default" htmlUrl="https://blog.swordfish.press/" title="Swordfish Islands"/>

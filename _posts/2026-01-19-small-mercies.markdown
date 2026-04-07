@@ -11,4 +11,4 @@ weathervaning dandelion parachutes;
 pollen motley waxing over honeybees;  
 lichen dander sidled into granite seams;  
 lithic testimonies, percolation-leached;  
-spirit-exhalations from suspended yeast.
+spirit-evocations from suspended yeast.
