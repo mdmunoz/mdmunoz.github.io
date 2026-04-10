@@ -78,6 +78,7 @@ Then you suffer*
 - Mircea Cărtărescu, *Solenoid*
 - Mónica Ojeda, *Nefando*
 - Philip K. Dick, *The Transmigration of Timothy Archer*
+- Ralph Ellison, *Invisible Man*
 - Reza Negarestani, *Cyclonopedia: Complicity with Anonymous Materials*
 - Robert Aickman, *The Model*
 - Salman Rushdie, *The Satanic Verses*
