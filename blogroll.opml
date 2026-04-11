@@ -391,6 +391,7 @@
 		<outline text="SFUltra" type="rss" xmlUrl="https://feeds.libsyn.com/99804/rss" htmlUrl="https://www.patreon.com/SFULTRA" title="SFUltra"/>
 		<outline text="The Shape of Everything" type="rss" xmlUrl="https://shapeof.com/feed.json" htmlUrl="https://shapeof.com/" title="The Shape of Everything"/>
 		<outline text="Shen Comix" type="rss" xmlUrl="https://shencomix.tumblr.com/rss" htmlUrl="https://shencomix.tumblr.com/" title="Shen Comix"/>
+		<outline text="sideblog for the siterunner of bogleech.com" type="rss" xmlUrl="https://bogleech.tumblr.com/rss" htmlUrl="https://bogleech.tumblr.com/" title="sideblog for the siterunner of bogleech.com"/>
 		<outline text="Sidney Icarus" type="rss" xmlUrl="https://sidneyicarus.wordpress.com/feed/" htmlUrl="https://sidneyicarus.wordpress.com/" title="Sidney Icarus"/>
 		<outline text="sidski" type="rss" xmlUrl="https://kjelsrud.dev/rss.xml" htmlUrl="https://kjelsrud.dev/" title="sidski"/>
 		<outline text="The Sigilist" type="rss" xmlUrl="https://thesigilist.tumblr.com/rss" htmlUrl="https://thesigilist.tumblr.com/" title="The Sigilist"/>

@@ -391,6 +391,7 @@ title: Blogroll
 - [SFUltra](https://www.patreon.com/SFULTRA) \[[feed](https://feeds.libsyn.com/99804/rss)\]
 - [The Shape of Everything](https://shapeof.com/) \[[feed](https://shapeof.com/feed.json)\]
 - [Shen Comix](https://shencomix.tumblr.com/) \[[feed](https://shencomix.tumblr.com/rss)\]
+- [sideblog for the siterunner of bogleech.com](https://bogleech.tumblr.com/) \[[feed](https://bogleech.tumblr.com/rss)\]
 - [Sidney Icarus](https://sidneyicarus.wordpress.com/) \[[feed](https://sidneyicarus.wordpress.com/feed/)\]
 - [sidski](https://kjelsrud.dev/) \[[feed](https://kjelsrud.dev/rss.xml)\]
 - [The Sigilist](https://thesigilist.tumblr.com/) \[[feed](https://thesigilist.tumblr.com/rss)\]
