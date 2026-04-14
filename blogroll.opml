@@ -18,6 +18,7 @@
 		<outline text="The Acorn Afloat" type="rss" xmlUrl="https://acornafloat.blogspot.com/feeds/posts/default" htmlUrl="https://acornafloat.blogspot.com/" title="The Acorn Afloat"/>
 		<outline text="Adel Faure ⏚🍉" type="rss" xmlUrl="https://mastodon.art/@adelfaure.rss" htmlUrl="https://mastodon.art/@adelfaure" title="Adel Faure ⏚🍉"/>
 		<outline text="Ajay Ramachandran's Blog" type="rss" xmlUrl="https://blog.ajay.app/rss.xml" htmlUrl="https://blog.ajay.app/" title="Ajay Ramachandran's Blog"/>
+		<outline text="Alex Guenther" type="rss" xmlUrl="https://bsky.app/profile/did:plc:iyx7swahjywigtwtbahg5ahl/rss" title="Alex Guenther"/>
 		<outline text="Alex McLean" type="rss" xmlUrl="https://slab.org/feed/" htmlUrl="https://slab.org/" title="Alex McLean"/>
 		<outline text="Alex Schroeder’s Diary" type="rss" xmlUrl="https://alexschroeder.ch/view/index.rss" htmlUrl="https://alexschroeder.ch/" title="Alex Schroeder’s Diary"/>
 		<outline text="Alfred Valley" type="rss" xmlUrl="https://bsky.app/profile/did:plc:gebbm7q7zctsxvkt4v7hyijm/rss" htmlUrl="https://bsky.app/profile/alfredvalley.bsky.social" title="Alfred Valley"/>
@@ -314,7 +315,6 @@
 		<outline text="Objective Development's Blog" type="rss" xmlUrl="https://obdev.at/rss/" htmlUrl="https://obdev.at/blog" title="Objective Development's Blog"/>
 		<outline text="Oglaf!" type="rss" xmlUrl="https://www.oglaf.com/feeds/rss/" htmlUrl="https://www.oglaf.com/latest/" title="Oglaf!"/>
 		<outline text="One Foot Tsunami" type="rss" xmlUrl="https://onefoottsunami.com/feed/atom/" htmlUrl="https://onefoottsunami.com/" title="One Foot Tsunami"/>
-		<outline text="The Onion Politics" type="rss" xmlUrl="https://theonion.com/politics/feed/" htmlUrl="https://theonion.com/politics/" title="The Onion Politics"/>
 		<outline text="ooh.directory blog" type="rss" xmlUrl="https://ooh.directory/blog/feeds/posts.xml" htmlUrl="https://ooh.directory/blog/" title="ooh.directory blog"/>
 		<outline text="ooh.directory recently added blogs" type="rss" xmlUrl="https://ooh.directory/feeds/recently-added.xml" htmlUrl="https://ooh.directory/" title="ooh.directory recently added blogs"/>
 		<outline text="Orange Juice Liberation Front" type="rss" xmlUrl="https://orangejuiceliberationfront.com/feed.xml" htmlUrl="https://orangejuiceliberationfront.com/" title="Orange Juice Liberation Front"/>
@@ -414,8 +414,8 @@
 		<outline text="StrangeBooks.com" type="rss" xmlUrl="https://strangebooks.com/feed/" htmlUrl="https://strangebooks.com/" title="StrangeBooks.com"/>
 		<outline text="Subliminal Surgery" type="rss" xmlUrl="https://subliminal.surgery/feed/" htmlUrl="https://subliminal.surgery/" title="Subliminal Surgery"/>
 		<outline text="submersible press" type="rss" xmlUrl="https://submersiblepress.wordpress.com/feed/" htmlUrl="https://submersiblepress.wordpress.com/" title="submersible press"/>
-		<outline text="Supper Mario Broth" type="rss" xmlUrl="https://www.suppermariobroth.com/rss" htmlUrl="https://www.suppermariobroth.com/" title="Supper Mario Broth"/>
 		<outline text="Supper Mario Broth" type="rss" xmlUrl="https://bsky.app/profile/did:plc:heeihz7xdhf7dbjx4befobqw/rss" htmlUrl="https://bsky.app/profile/mariobrothblog.bsky.social" title="Supper Mario Broth"/>
+		<outline text="Supper Mario Broth" type="rss" xmlUrl="https://www.suppermariobroth.com/rss" htmlUrl="https://www.suppermariobroth.com/" title="Supper Mario Broth"/>
 		<outline text="Sven Dahlstrand" type="rss" xmlUrl="https://dahlstrand.net/feed.xml" htmlUrl="https://dahlstrand.net/" title="Sven Dahlstrand"/>
 		<outline text="Sword Breaker" type="rss" xmlUrl="https://anchor.fm/s/6ee6424/podcast/rss" htmlUrl="https://podcasters.spotify.com/pod/show/sword-breaker" title="Sword Breaker"/>
 		<outline text="Swordfish Islands" type="rss" xmlUrl="https://blog.swordfish.press/feeds/posts/default" htmlUrl="https://blog.swordfish.press/" title="Swordfish Islands"/>
@@ -448,8 +448,8 @@
 		<outline text="Urbanomic" type="rss" xmlUrl="https://www.urbanomic.com/feed/" htmlUrl="https://www.urbanomic.com/" title="Urbanomic"/>
 		<outline text="VAULTS OF VAARN" type="rss" xmlUrl="https://vaultsofvaarn.com/feed/" htmlUrl="https://vaultsofvaarn.com/" title="VAULTS OF VAARN"/>
 		<outline text="Victoria Waddle" type="rss" xmlUrl="https://victoriawaddle.com/feed/" htmlUrl="http://victoriawaddle.com/" title="Victoria Waddle"/>
-		<outline text="WAKE ISLAND" type="rss" xmlUrl="https://anchor.fm/s/ee865a8/podcast/rss" htmlUrl="https://podcasters.spotify.com/pod/show/wake-island" title="WAKE ISLAND"/>
 		<outline text="Wake Island" type="rss" xmlUrl="https://wakeisland.substack.com/feed" htmlUrl="https://wakeisland.substack.com/" title="Wake Island"/>
+		<outline text="WAKE ISLAND" type="rss" xmlUrl="https://anchor.fm/s/ee865a8/podcast/rss" htmlUrl="https://podcasters.spotify.com/pod/show/wake-island" title="WAKE ISLAND"/>
 		<outline text="wavebeem.com" type="rss" xmlUrl="https://www.wavebeem.com/feed.xml" htmlUrl="https://www.wavebeem.com/" title="wavebeem.com"/>
 		<outline text="The Waveform Generators" type="rss" xmlUrl="https://thewaveformgenerators.blogspot.com/feeds/posts/default" htmlUrl="https://thewaveformgenerators.blogspot.com/" title="The Waveform Generators"/>
 		<outline text="Waxy.org" type="rss" xmlUrl="https://waxy.org/feed/" htmlUrl="https://waxy.org/" title="Waxy.org"/>
