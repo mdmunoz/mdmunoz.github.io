@@ -40,6 +40,7 @@ As a follow-up to [the previous post](/novels-of-religious-paranoia.html), hereâ
 - Peter Weir, *The Truman Show*
 - Phil Tippett, *Mad God*
 - The Quays, *Institute Benjamenta*
+- Richard Kelly, *Donnie Darko*
 - Ridley Scott, *Blade Runner*
 - Robert Eggers, *The Lighthouse*
 - Robert Schwentke, *Seneca â€“ On the Creation of Earthquakes*
