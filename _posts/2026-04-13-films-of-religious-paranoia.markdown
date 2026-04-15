@@ -41,6 +41,7 @@ As a follow-up to [the previous post](/novels-of-religious-paranoia.html), hereâ
 - Phil Tippett, *Mad God*
 - The Quays, *Institute Benjamenta*
 - Richard Kelly, *Donnie Darko*
+- Richard Linklater, *A Scanner Darkly*
 - Ridley Scott, *Blade Runner*
 - Robert Eggers, *The Lighthouse*
 - Robert Schwentke, *Seneca â€“ On the Creation of Earthquakes*

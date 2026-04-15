@@ -30,6 +30,7 @@ Then you suffer*
 - Danger Slater, *I Will Rot Without You*
 - David Ohle, *Motorman*
 - Dennis Cooper, *The Marbled Swarm*
+- Douglas Lain, *After the Saucers Landed*
 - Drew Magary, *The Hike*
 - Elaine Kraf, *House of Madelaine*
 - Flann O’Brien, *The Third Policeman*
