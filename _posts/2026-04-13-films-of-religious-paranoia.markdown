@@ -32,6 +32,7 @@ As a follow-up to [the previous post](/novels-of-religious-paranoia.html), here�
 - Jan Švankmajer, *Faust*
 - Jens Lien, *The Bothersome Man*
 - John Carpenter, *Cigarette Burns*
+- Jordan Peele, *Nope*
 - Kaneto Shindō, *Onibaba*
 - Lucile Hadžihalilović, *Earwig*
 - Matthew Holness, *Possum*

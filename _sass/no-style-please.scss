@@ -39,6 +39,10 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+pre, code {
+  font-family: "iA Writer Mono S", monospace;
+}
+
 @font-face {
     font-family: "iA Writer Duo S";
     src: url("/font/iAWriterDuoS-Regular.woff2") format("woff2"),
@@ -73,6 +77,15 @@ body {
     url("/font/iAWriterDuoS-BoldItalic.eot") format("eot");
     font-weight: bold;
     font-style: italic;
+}
+
+@font-face {
+    font-family: "iA Writer Mono S";
+    src: url("/font/iAWriterMonoS-Regular.woff2") format("woff2"),
+    url("/font/iAWriterMonoS-Regular.woff") format("woff"),
+    url("/font/iAWriterMonoS-Regular.eot") format("eot");
+    font-weight: normal;
+    font-style: normal;
 }
 
 .post-meta { text-align: right; }
