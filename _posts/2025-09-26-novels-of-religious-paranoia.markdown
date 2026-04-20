@@ -89,6 +89,7 @@ Then you suffer*
 - Stanisław Lem, *Solaris*
 - Susanna Clarke, *Piranesi*
 - Thomas Carlyle, *Sartor Resartus*
+- Thomas Ligotti, *My Work Is Not Yet Done*
 - Thomas Pynchon, *The Crying of Lot 49*
 - Umberto Eco, *Foucault’s Pendulum*
 - Victor Pelevin, *Buddha’s Little Finger*
