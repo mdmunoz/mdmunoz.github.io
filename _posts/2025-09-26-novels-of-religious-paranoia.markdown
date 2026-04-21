@@ -4,6 +4,8 @@ title:  "Novels of Religious Paranoia and/or Ontological Psychosis"
 date:   2025-09-26 00:00:00 -0700
 ---
 
+A genre frankensteined from bits of horror, weird fiction, bizarro, fantasy, science fiction, surrealism, southern gothic, magical realism, and metafiction.
+
 No one accepts my insistence that this is my favorite thing, so here’s a list (one per author for brevity). Please [send suggestions](mailto:matthew@knucklebones.rip).
 
 *When you believe in things  
@@ -20,8 +22,11 @@ Then you suffer*
 - Amelia Gray, *Threats*
 - Angela Carter, *The Infernal Desire Machines of Doctor Hoffman*
 - Anna Kavan, *Ice*
+- Ben Arzate, *Elaine*
+- Bradley Sands, *Liquid Status*
 - Brian Catling, *Earwig*
 - Brian Evanson, *The Open Curtain*
+- Cameron Pierce, *Ass Goblins of Auschwitz*
 - Carlton Mellick III, *Razor Wire Pubic Hair*
 - Charlie Kaufman, *Antkind*
 - Chris Kelso, *The Black Dog Eats The City*
@@ -50,6 +55,7 @@ Then you suffer*
 - Isabel Waidner, *Corey Fah Does Social Mobility*
 - Italo Calvino, *If on a winter's night a traveler*
 - J. G. Ballard, *The Crystal World*
+- J. Peter W., *Giraffe Carcass*
 - Jeff VanderMeer, *Annihilation*
 - Joe Orton, *Head to Toe*
 - John Pistelli, *Portraits and Ashes*

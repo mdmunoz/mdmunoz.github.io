@@ -20,8 +20,8 @@
 		<outline text="Ajay Ramachandran's Blog" type="rss" xmlUrl="https://blog.ajay.app/rss.xml" htmlUrl="https://blog.ajay.app/" title="Ajay Ramachandran's Blog"/>
 		<outline text="Alex McLean" type="rss" xmlUrl="https://slab.org/feed/" htmlUrl="https://slab.org/" title="Alex McLean"/>
 		<outline text="Alex Schroeder’s Diary" type="rss" xmlUrl="https://alexschroeder.ch/view/index.rss" htmlUrl="https://alexschroeder.ch/" title="Alex Schroeder’s Diary"/>
-		<outline text="Alfred Valley" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGdZCiy0njLA7DsSEcUo5PQ" htmlUrl="https://www.youtube.com/channel/UCGdZCiy0njLA7DsSEcUo5PQ" title="Alfred Valley"/>
 		<outline text="Alfred Valley" type="rss" xmlUrl="https://bsky.app/profile/did:plc:gebbm7q7zctsxvkt4v7hyijm/rss" htmlUrl="https://bsky.app/profile/alfredvalley.bsky.social" title="Alfred Valley"/>
+		<outline text="Alfred Valley" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGdZCiy0njLA7DsSEcUo5PQ" htmlUrl="https://www.youtube.com/channel/UCGdZCiy0njLA7DsSEcUo5PQ" title="Alfred Valley"/>
 		<outline text="Alpaca" type="rss" xmlUrl="https://algorithmicpattern.org/feed/" htmlUrl="https://algorithmicpattern.org/" title="Alpaca"/>
 		<outline text="Amanda P." type="rss" xmlUrl="https://weirdwonder.bearblog.dev/feed/" htmlUrl="https://www.weirdwonder.net/" title="Amanda P."/>
 		<outline text="Amphetamine Sulphate" type="rss" xmlUrl="https://amphetaminesulphate.substack.com/feed" htmlUrl="https://amphetaminesulphate.substack.com/" title="Amphetamine Sulphate"/>
@@ -79,6 +79,7 @@
 		<outline text="Broken Sleep Books" type="rss" xmlUrl="https://www.brokensleepbooks.com/blog-feed.xml" htmlUrl="https://www.brokensleepbooks.com/blog" title="Broken Sleep Books"/>
 		<outline text="The Buckblog" type="rss" xmlUrl="https://feeds.feedburner.com/buckblog" htmlUrl="http://weblog.jamisbuck.org/" title="The Buckblog"/>
 		<outline text="Bug Speaking" type="rss" xmlUrl="https://insectghost.tumblr.com/rss" htmlUrl="https://insectghost.tumblr.com/" title="Bug Speaking"/>
+		<outline text="bugs and monsters, eyes and teeth" type="rss" xmlUrl="https://bowelfly.tumblr.com/rss" htmlUrl="https://bowelfly.tumblr.com/" title="bugs and monsters, eyes and teeth"/>
 		<outline text="Burger Digest" type="rss" xmlUrl="https://burgerdigest.com/feed.xml" htmlUrl="https://burgerdigest.com/" title="Burger Digest"/>
 		<outline text="Byte-Size Haiku" type="rss" xmlUrl="https://m.knucklebones.rip/@bytesizehaiku.rss" htmlUrl="https://m.knucklebones.rip/@bytesizehaiku" title="Byte-Size Haiku"/>
 		<outline text="C22" type="rss" xmlUrl="https://c22press.wordpress.com/feed/" htmlUrl="https://c22press.wordpress.com/" title="C22"/>
@@ -403,6 +404,7 @@
 		<outline text="Sidney Icarus" type="rss" xmlUrl="https://sidneyicarus.wordpress.com/feed/" htmlUrl="https://sidneyicarus.wordpress.com/" title="Sidney Icarus"/>
 		<outline text="sidski" type="rss" xmlUrl="https://kjelsrud.dev/rss.xml" htmlUrl="https://kjelsrud.dev/" title="sidski"/>
 		<outline text="The Sigilist" type="rss" xmlUrl="https://thesigilist.tumblr.com/rss" htmlUrl="https://thesigilist.tumblr.com/" title="The Sigilist"/>
+		<outline text="The Signum Scene" type="rss" xmlUrl="https://feeds.fireside.fm/signumsymposia/rss" htmlUrl="https://signumsymposia.fireside.fm/" title="The Signum Scene"/>
 		<outline text="SIGPIPE 13" type="rss" xmlUrl="https://sigpipe.macromates.com/feed/" htmlUrl="https://sigpipe.macromates.com/" title="SIGPIPE 13"/>
 		<outline text="Silver Sprocket" type="rss" xmlUrl="https://www.silversprocket.net/feed/" htmlUrl="https://www.silversprocket.net/" title="Silver Sprocket"/>
 		<outline text="Silverarm" type="rss" xmlUrl="https://silverarmpress.com/feed/" htmlUrl="https://silverarmpress.com/" title="Silverarm"/>
