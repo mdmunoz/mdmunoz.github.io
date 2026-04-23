@@ -103,3 +103,5 @@ Then you suffer*
 - Will Self, *My Idea of Fun*
 - William H. Gass, *Omensetter’s Luck*
 - William S. Burroughs, *Naked Lunch*
+
+*Cf. [films](/films-of-religious-paranoia.html)*
