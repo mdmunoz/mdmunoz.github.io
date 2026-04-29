@@ -29,6 +29,7 @@ Then you suffer*
 - Cameron Pierce, *Ass Goblins of Auschwitz*
 - Carlton Mellick III, *Razor Wire Pubic Hair*
 - Charlie Kaufman, *Antkind*
+- China Miéville, *The Last Days of New Paris*
 - Chris Kelso, *The Black Dog Eats The City*
 - Clarice Lispector, *The Passion According to G.H.*
 - Comte de Lautréamont, *Les Chants de Maldoror*
