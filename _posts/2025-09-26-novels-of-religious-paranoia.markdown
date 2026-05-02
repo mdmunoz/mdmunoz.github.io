@@ -36,6 +36,7 @@ Then you suffer*
 - Danger Slater, *I Will Rot Without You*
 - David Ohle, *Motorman*
 - Dennis Cooper, *The Marbled Swarm*
+- Derek McCormack, *Castle Faggot*
 - Douglas Lain, *After the Saucers Landed*
 - Drew Magary, *The Hike*
 - Elaine Kraf, *House of Madelaine*
@@ -82,6 +83,7 @@ Then you suffer*
 - Matthew Stokoe, *Cows*
 - Michael Cisco, *Animal Money*
 - Michael J. Seidlinger, *The Fun We’ve Had*
+- Mike Kleine, *Arafat Mountain*
 - Mikhail Bulgakov, *The Master and Margarita*
 - Mircea Cărtărescu, *Solenoid*
 - Mónica Ojeda, *Nefando*
