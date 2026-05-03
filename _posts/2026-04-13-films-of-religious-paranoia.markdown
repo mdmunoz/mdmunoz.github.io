@@ -49,6 +49,7 @@ As a follow-up to [the previous post](/novels-of-religious-paranoia.html), hereâ
 - Satoshi Kon, *Perfect Blue*
 - Shinya Tsukamoto, *Tetsuo: The Iron Man*
 - Shozin Fukui, *964 Pinocchio*
+- Stuart Gordon, *From Beyond*
 - Terry Gilliam, *Brazil*
 - Tom Stoppard, *Rosencrantz & Guildenstern Are Dead*
 - Vasilis Katsoupis, *Inside*
