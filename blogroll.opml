@@ -20,8 +20,8 @@
 		<outline text="Ajay Ramachandran's Blog" type="rss" xmlUrl="https://blog.ajay.app/rss.xml" htmlUrl="https://blog.ajay.app/" title="Ajay Ramachandran's Blog"/>
 		<outline text="Alex McLean" type="rss" xmlUrl="https://slab.org/feed/" htmlUrl="https://slab.org/" title="Alex McLean"/>
 		<outline text="Alex Schroeder’s Diary" type="rss" xmlUrl="https://alexschroeder.ch/view/index.rss" htmlUrl="https://alexschroeder.ch/" title="Alex Schroeder’s Diary"/>
-		<outline text="Alfred Valley" type="rss" xmlUrl="https://bsky.app/profile/did:plc:gebbm7q7zctsxvkt4v7hyijm/rss" htmlUrl="https://bsky.app/profile/alfredvalley.bsky.social" title="Alfred Valley"/>
 		<outline text="Alfred Valley" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGdZCiy0njLA7DsSEcUo5PQ" htmlUrl="https://www.youtube.com/channel/UCGdZCiy0njLA7DsSEcUo5PQ" title="Alfred Valley"/>
+		<outline text="Alfred Valley" type="rss" xmlUrl="https://bsky.app/profile/did:plc:gebbm7q7zctsxvkt4v7hyijm/rss" htmlUrl="https://bsky.app/profile/alfredvalley.bsky.social" title="Alfred Valley"/>
 		<outline text="Alpaca" type="rss" xmlUrl="https://algorithmicpattern.org/feed/" htmlUrl="https://algorithmicpattern.org/" title="Alpaca"/>
 		<outline text="Amanda P." type="rss" xmlUrl="https://weirdwonder.bearblog.dev/feed/" htmlUrl="https://www.weirdwonder.net/" title="Amanda P."/>
 		<outline text="Amphetamine Sulphate" type="rss" xmlUrl="https://amphetaminesulphate.substack.com/feed" htmlUrl="https://amphetaminesulphate.substack.com/" title="Amphetamine Sulphate"/>
@@ -62,6 +62,7 @@
 		<outline text="Bizarro Central" type="rss" xmlUrl="https://www.bizarrocentral.com/feed/" htmlUrl="https://www.bizarrocentral.com/" title="Bizarro Central"/>
 		<outline text="bizarrojones" type="rss" xmlUrl="https://bizarrojones.wordpress.com/feed/" htmlUrl="https://bizarrojones.wordpress.com/" title="bizarrojones"/>
 		<outline text="Bizzong! The Weird and Wacky Fiction Podcast" type="rss" xmlUrl="https://feeds.libsyn.com/89423/rss" htmlUrl="https://projectentertainmentnetwork.com/shows/bizzong/" title="Bizzong! The Weird and Wacky Fiction Podcast"/>
+		<outline text="blark blog" type="rss" xmlUrl="https://blarkblog.blot.im/feed.rss" htmlUrl="https://blarkblog.blot.im/" title="blark blog"/>
 		<outline text="The Blasted Tree" type="rss" xmlUrl="http://www.theblastedtree.com/blog?format=rss" htmlUrl="http://www.theblastedtree.com/blog/" title="The Blasted Tree"/>
 		<outline text="BLDGBLOG" type="rss" xmlUrl="https://www.bldgblog.com/feed/" htmlUrl="https://www.bldgblog.com/" title="BLDGBLOG"/>
 		<outline text="bleeptrack" type="rss" xmlUrl="https://vis.social/@bleeptrack.rss" htmlUrl="https://vis.social/@bleeptrack" title="bleeptrack"/>
@@ -138,8 +139,8 @@
 		<outline text="DEEP DARK FEARS" type="rss" xmlUrl="https://deep-dark-fears.tumblr.com/rss" htmlUrl="https://deep-dark-fears.tumblr.com/" title="DEEP DARK FEARS"/>
 		<outline text="delovely" type="rss" xmlUrl="https://delovely.neocities.org/feed.xml" htmlUrl="https://delovely.neocities.org/" title="delovely"/>
 		<outline text="Delvers" type="rss" xmlUrl="https://delvers.thecomicseries.com/rss/" htmlUrl="https://delvers.thecomicseries.com/" title="Delvers"/>
-		<outline text="DEONTOLOGISTICS" type="rss" xmlUrl="https://deontologistics.co/feed/" htmlUrl="https://deontologistics.co/" title="DEONTOLOGISTICS"/>
 		<outline text="Deontologistics" type="rss" xmlUrl="https://deontologistics.substack.com/feed" htmlUrl="https://deontologistics.substack.com/" title="Deontologistics"/>
+		<outline text="DEONTOLOGISTICS" type="rss" xmlUrl="https://deontologistics.co/feed/" htmlUrl="https://deontologistics.co/" title="DEONTOLOGISTICS"/>
 		<outline text="derek beaulieu’s blog" type="rss" xmlUrl="https://derekbeaulieu.ca/feed/" htmlUrl="https://derekbeaulieu.ca/" title="derek beaulieu’s blog"/>
 		<outline text="Design Doc" type="rss" xmlUrl="https://feeds.megaphone.fm/designdoc" htmlUrl="http://oneshotpodcast.com/category/podcasts/design-doc/" title="Design Doc"/>
 		<outline text="design reboot" type="rss" xmlUrl="https://designreboot.blogspot.com/feeds/posts/default" htmlUrl="https://designreboot.blogspot.com/" title="design reboot"/>
@@ -314,6 +315,7 @@
 		<outline text="Marco.org" type="rss" xmlUrl="https://marco.org/rss" htmlUrl="https://marco.org/" title="Marco.org"/>
 		<outline text="Marian Christie" type="rss" xmlUrl="https://marianchristiepoetry.net/feed/" htmlUrl="https://marianchristiepoetry.net/" title="Marian Christie"/>
 		<outline text="Mark Jardine" type="rss" xmlUrl="https://markjardine.com/feed.atom" htmlUrl="https://markjardine.com/" title="Mark Jardine"/>
+		<outline text="Martian Migraine Press" type="rss" xmlUrl="https://martianmigrainepress.com/feed/" htmlUrl="https://martianmigrainepress.com/" title="Martian Migraine Press"/>
 		<outline text="Marty’s Newsletter" type="rss" xmlUrl="https://palmreport.substack.com/feed" htmlUrl="https://palmreport.substack.com/" title="Marty’s Newsletter"/>
 		<outline text="Mastodon Blog" type="rss" xmlUrl="https://blog.joinmastodon.org/index.xml" htmlUrl="https://blog.joinmastodon.org/" title="Mastodon Blog"/>
 		<outline text="Matt Bucher" type="rss" xmlUrl="https://www.mattbucher.com/feed/" htmlUrl="https://www.mattbucher.com/" title="Matt Bucher"/>
@@ -405,7 +407,6 @@
 		<outline text="Polyducks.co.uk" type="rss" xmlUrl="https://polyducks.co.uk/RSS-feed.xml" htmlUrl="https://www.polyducks.co.uk/" title="Polyducks.co.uk"/>
 		<outline text="The Poolga Blog" type="rss" xmlUrl="https://poolga.tumblr.com/rss" htmlUrl="https://poolga.tumblr.com/" title="The Poolga Blog"/>
 		<outline text="Post Position" type="rss" xmlUrl="https://nickm.com/post/feed/" htmlUrl="https://nickm.com/post" title="Post Position"/>
-		<outline text="postcardware.net" type="rss" xmlUrl="https://cyber.ms/@postcardware.rss" htmlUrl="https://cyber.ms/@postcardware" title="postcardware.net"/>
 		<outline text="potch has a website" type="rss" xmlUrl="https://potch.me/rss.xml" htmlUrl="https://potch.me/" title="potch has a website"/>
 		<outline text="Prismatic Wasteland" type="rss" xmlUrl="https://www.prismaticwasteland.com/blog?format=rss" htmlUrl="https://www.prismaticwasteland.com/" title="Prismatic Wasteland"/>
 		<outline text="prison of delusion" type="rss" xmlUrl="https://tomselleck69.tumblr.com/rss" htmlUrl="https://tomselleck69.tumblr.com/" title="prison of delusion"/>
@@ -481,6 +482,7 @@
 		<outline text="Space Penguin Ink" type="rss" xmlUrl="https://spacepenguin.ink/blogs/news.atom" htmlUrl="https://spacepenguin.ink/blogs/news" title="Space Penguin Ink"/>
 		<outline text="Spear Witch" type="rss" xmlUrl="https://spearwitch.com/blogs/news.atom" htmlUrl="https://spearwitch.com/blogs/news" title="Spear Witch"/>
 		<outline text="Spooky action at a distance" type="rss" xmlUrl="https://spooky.blot.im/feed.rss" htmlUrl="https://spooky.blot.im/" title="Spooky action at a distance"/>
+		<outline text="squiddd" type="rss" xmlUrl="https://squiddd.bearblog.dev/feed/" htmlUrl="https://squiddd.bearblog.dev/" title="squiddd"/>
 		<outline text="Stay Strange" type="rss" xmlUrl="https://staystrange.com/feed/" htmlUrl="https://staystrange.com/" title="Stay Strange"/>
 		<outline text="Stefan Bohacek" type="rss" xmlUrl="https://stefanbohacek.com/feed/" htmlUrl="https://stefanbohacek.com/" title="Stefan Bohacek"/>
 		<outline text="Strange Attractor" type="rss" xmlUrl="https://strangeattractor.co.uk/feed/" htmlUrl="http://strangeattractor.co.uk/" title="Strange Attractor"/>
@@ -524,8 +526,8 @@
 		<outline text="VAULTS OF VAARN" type="rss" xmlUrl="https://vaultsofvaarn.com/feed/" htmlUrl="https://vaultsofvaarn.com/" title="VAULTS OF VAARN"/>
 		<outline text="véronique" type="rss" xmlUrl="https://veronique.ink/feed/" htmlUrl="https://veronique.ink/" title="véronique"/>
 		<outline text="Victoria Waddle" type="rss" xmlUrl="https://victoriawaddle.com/feed/" htmlUrl="http://victoriawaddle.com/" title="Victoria Waddle"/>
-		<outline text="WAKE ISLAND" type="rss" xmlUrl="https://anchor.fm/s/ee865a8/podcast/rss" htmlUrl="https://podcasters.spotify.com/pod/show/wake-island" title="WAKE ISLAND"/>
 		<outline text="Wake Island" type="rss" xmlUrl="https://wakeisland.substack.com/feed" htmlUrl="https://wakeisland.substack.com/" title="Wake Island"/>
+		<outline text="WAKE ISLAND" type="rss" xmlUrl="https://anchor.fm/s/ee865a8/podcast/rss" htmlUrl="https://podcasters.spotify.com/pod/show/wake-island" title="WAKE ISLAND"/>
 		<outline text="wavebeem.com" type="rss" xmlUrl="https://www.wavebeem.com/feed.xml" htmlUrl="https://www.wavebeem.com/" title="wavebeem.com"/>
 		<outline text="The Waveform Generators" type="rss" xmlUrl="https://thewaveformgenerators.blogspot.com/feeds/posts/default" htmlUrl="https://thewaveformgenerators.blogspot.com/" title="The Waveform Generators"/>
 		<outline text="Waxy.org" type="rss" xmlUrl="https://waxy.org/feed/" htmlUrl="https://waxy.org/" title="Waxy.org"/>

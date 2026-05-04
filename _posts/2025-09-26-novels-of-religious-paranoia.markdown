@@ -22,6 +22,7 @@ Then you suffer*
 - Amelia Gray, *Threats*
 - Angela Carter, *The Infernal Desire Machines of Doctor Hoffman*
 - Anna Kavan, *Ice*
+- Anthony Trevino, *King Space Void*
 - Ben Arzate, *Elaine*
 - Bradley Sands, *Liquid Status*
 - Brian Catling, *Earwig*
@@ -52,6 +53,7 @@ Then you suffer*
 - Georges Perec, *A Void*
 - Giorgio De Maria, *The Twenty Days of Turin*
 - Gore Vidal, *Messiah*
+- H. P. Lovecraft, *The Dream-Quest of Unknown Kadath*
 - Harold Bloom, *The Flight to Lucifer*
 - Haruki Murakami, *The Wind-Up Bird Chronicle*
 - Isabel Waidner, *Corey Fah Does Social Mobility*
@@ -93,6 +95,7 @@ Then you suffer*
 - Robert Aickman, *The Model*
 - Salman Rushdie, *The Satanic Verses*
 - Samuel R. Delany, *Dhalgren*
+- Scott R. Jones, *DRILL*
 - Sebastian Castillo, *Salmon*
 - Sjón, *The Blue Fox*
 - Stanisław Lem, *Solaris*
