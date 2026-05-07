@@ -92,6 +92,7 @@ Then you suffer*
 - Philip K. Dick, *The Transmigration of Timothy Archer*
 - Ralph Ellison, *Invisible Man*
 - Reza Negarestani, *Cyclonopedia: Complicity with Anonymous Materials*
+- Rita Indiana, *Tentacle*
 - Robert Aickman, *The Model*
 - Salman Rushdie, *The Satanic Verses*
 - Samuel R. Delany, *Dhalgren*
