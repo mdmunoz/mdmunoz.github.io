@@ -4,7 +4,7 @@ title:  "Novels of Religious Paranoia and/or Ontological Psychosis"
 date:   2025-09-26 00:00:00 -0700
 ---
 
-A genre frankensteined from bits of horror, weird fiction, bizarro, fantasy, science fiction, surrealism, southern gothic, magical realism, and metafiction.
+A genre frankensteined from bits of horror, weird fiction, bizarro, fantasy, science fiction, surrealism, cyberpunk, southern gothic, magical realism, and metafiction.
 
 No one accepts my insistence that this is my favorite thing, so here’s a list (one per author for brevity). Please [send suggestions](mailto:matthew@knucklebones.rip).
 
@@ -23,6 +23,7 @@ Then you suffer*
 - Angela Carter, *The Infernal Desire Machines of Doctor Hoffman*
 - Anna Kavan, *Ice*
 - Anthony Trevino, *King Space Void*
+- B.R. Yeager, *Negative Space*
 - Ben Arzate, *Elaine*
 - Bradley Sands, *Liquid Status*
 - Brian Catling, *Earwig*
@@ -34,6 +35,7 @@ Then you suffer*
 - Chris Kelso, *The Black Dog Eats The City*
 - Clarice Lispector, *The Passion According to G.H.*
 - Comte de Lautréamont, *Les Chants de Maldoror*
+- D. Harlan Wilson, *Usurper*
 - Danger Slater, *I Will Rot Without You*
 - David Ohle, *Motorman*
 - Dennis Cooper, *The Marbled Swarm*
@@ -44,7 +46,7 @@ Then you suffer*
 - Flann O’Brien, *The Third Policeman*
 - Flannery O’Connor, *Wise Blood*
 - Franz Kafka, *The Trial*
-- G. K. Chesterton, *The Man Who Was Thursday*
+- G.K. Chesterton, *The Man Who Was Thursday*
 - Garrett Cook, *Archelon Ranch*
 - Gary Shipley, *Dreams of Amputation*
 - Geoff Ryman, *Lust*
@@ -53,12 +55,12 @@ Then you suffer*
 - Georges Perec, *A Void*
 - Giorgio De Maria, *The Twenty Days of Turin*
 - Gore Vidal, *Messiah*
-- H. P. Lovecraft, *The Dream-Quest of Unknown Kadath*
+- H.P. Lovecraft, *The Dream-Quest of Unknown Kadath*
 - Harold Bloom, *The Flight to Lucifer*
 - Haruki Murakami, *The Wind-Up Bird Chronicle*
 - Isabel Waidner, *Corey Fah Does Social Mobility*
 - Italo Calvino, *If on a winter's night a traveler*
-- J. G. Ballard, *The Crystal World*
+- J.G. Ballard, *The Crystal World*
 - J. Peter W., *Giraffe Carcass*
 - Jeff VanderMeer, *Annihilation*
 - Joe Orton, *Head to Toe*
@@ -89,6 +91,7 @@ Then you suffer*
 - Mikhail Bulgakov, *The Master and Margarita*
 - Mircea Cărtărescu, *Solenoid*
 - Mónica Ojeda, *Nefando*
+- Olga Ravn, *The Employees*
 - Philip K. Dick, *The Transmigration of Timothy Archer*
 - Ralph Ellison, *Invisible Man*
 - Reza Negarestani, *Cyclonopedia: Complicity with Anonymous Materials*
@@ -98,10 +101,12 @@ Then you suffer*
 - Samuel R. Delany, *Dhalgren*
 - Scott R. Jones, *DRILL*
 - Sebastian Castillo, *Salmon*
+- S.T. Cartledge, *The Orphanarium*
 - Sjón, *The Blue Fox*
 - Stanisław Lem, *Solaris*
 - Susanna Clarke, *Piranesi*
 - Thomas Carlyle, *Sartor Resartus*
+- Thomas Kendall, *How I Killed the Universal Man*
 - Thomas Ligotti, *My Work Is Not Yet Done*
 - Thomas Pynchon, *The Crying of Lot 49*
 - Umberto Eco, *Foucault’s Pendulum*

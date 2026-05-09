@@ -149,6 +149,7 @@
 		<outline text="Éphéméride des Chimères" type="rss" xmlUrl="https://chimeride.tumblr.com/rss" htmlUrl="https://chimeride.tumblr.com/" title="Éphéméride des Chimères"/>
 		<outline text="Eraserhead Press" type="rss" xmlUrl="https://eraserheadpress.com/feed/" htmlUrl="https://eraserheadpress.com/" title="Eraserhead Press"/>
 		<outline text="Erica Fustero" type="rss" xmlUrl="https://www.ericafustero.com/feed" htmlUrl="https://www.ericafustero.com/" title="Erica Fustero"/>
+		<outline text="Eryk Sawicki" type="rss" xmlUrl="https://eryksawicki.com/feed.rss" htmlUrl="https://eryksawicki.com/" title="Eryk Sawicki"/>
 		<outline text="esoteric.codes" type="rss" xmlUrl="https://esoteric.codes/rss" htmlUrl="https://esoteric.codes/" title="esoteric.codes"/>
 		<outline text="Evan Dahm" type="rss" xmlUrl="https://evandahm.tumblr.com/rss" htmlUrl="https://evandahm.tumblr.com/" title="Evan Dahm"/>
 		<outline text="Evil Mad Scientist Laboratories" type="rss" xmlUrl="https://www.evilmadscientist.com/feed/" htmlUrl="https://www.evilmadscientist.com/" title="Evil Mad Scientist Laboratories"/>
@@ -158,8 +159,9 @@
 		<outline text="Eye of Hydra" type="rss" xmlUrl="https://zenorogue.blogspot.com/feeds/posts/default" htmlUrl="https://zenorogue.blogspot.com/" title="Eye of Hydra"/>
 		<outline text="Failure Tolerated" type="rss" xmlUrl="https://www.failuretolerated.com/feed.rss" htmlUrl="https://www.failuretolerated.com/" title="Failure Tolerated"/>
 		<outline text="False Knees" type="rss" xmlUrl="https://falseknees.com/rss.xml" htmlUrl="https://www.falseknees.com/" title="False Knees"/>
-		<outline text="False Machine" type="rss" xmlUrl="https://falsemachine.blogspot.com/feeds/posts/default" htmlUrl="https://falsemachine.blogspot.com/" title="False Machine"/>
 		<outline text="False Machine" type="rss" xmlUrl="https://bsky.app/profile/did:plc:zi663gwmsutcebrdnxvxey62/rss" htmlUrl="https://bsky.app/profile/falsemachine.bsky.social" title="False Machine"/>
+		<outline text="False Machine" type="rss" xmlUrl="https://falsemachine.blogspot.com/feeds/posts/default" htmlUrl="https://falsemachine.blogspot.com/" title="False Machine"/>
+		<outline text="famousadolf" type="rss" xmlUrl="https://qgesqcymfpqykxgkrxiu.supabase.co/functions/v1/serve-feed?id=a45424a3-8728-402a-823f-dd1eea8d9f79" htmlUrl="https://www.instagram.com/famousadolf/" title="famousadolf"/>
 		<outline text="fck yr bookclub" type="rss" xmlUrl="https://fckyrbookclub.substack.com/feed" htmlUrl="https://fckyrbookclub.substack.com/" title="fck yr bookclub"/>
 		<outline text="FDA Unapproved" type="rss" xmlUrl="https://biomechanicalmush.tumblr.com/rss" htmlUrl="https://biomechanicalmush.tumblr.com/" title="FDA Unapproved"/>
 		<outline text="feel bad dispatch" type="rss" xmlUrl="https://benarzate.substack.com/feed" htmlUrl="https://benarzate.substack.com/" title="feel bad dispatch"/>
@@ -292,6 +294,7 @@
 		<outline text="Luke’s Wild Website" type="rss" xmlUrl="https://www.lkhrs.com/blog/rss/" htmlUrl="https://www.lkhrs.com/blog/" title="Luke’s Wild Website"/>
 		<outline text="the m john harrison blog" type="rss" xmlUrl="https://ambientehotel.wordpress.com/feed/" htmlUrl="https://ambientehotel.wordpress.com/" title="the m john harrison blog"/>
 		<outline text="Madness Heart Press" type="rss" xmlUrl="https://madnessheart.press/feed/" htmlUrl="https://madnessheart.press/" title="Madness Heart Press"/>
+		<outline text="MAGGS VIBO" type="rss" xmlUrl="https://www.maggsvibo.com/4/feed" htmlUrl="https://www.maggsvibo.com/blog" title="MAGGS VIBO"/>
 		<outline text="The Magniloquent Moth" type="rss" xmlUrl="https://themagniloquentmoth.blogspot.com/feeds/posts/default" htmlUrl="https://themagniloquentmoth.blogspot.com/" title="The Magniloquent Moth"/>
 		<outline text="MAHDI BCHATNIA" type="rss" xmlUrl="https://blog.mahdi.jp/feed.xml" htmlUrl="https://blog.mahdi.jp/" title="MAHDI BCHATNIA"/>
 		<outline text="Make Games" type="rss" xmlUrl="https://makegames.tumblr.com/rss" htmlUrl="https://makegames.tumblr.com/" title="Make Games"/>
@@ -302,7 +305,6 @@
 		<outline text="Mark Jardine" type="rss" xmlUrl="https://markjardine.com/feed.atom" htmlUrl="https://markjardine.com/" title="Mark Jardine"/>
 		<outline text="Martian Migraine Press" type="rss" xmlUrl="https://martianmigrainepress.com/feed/" htmlUrl="https://martianmigrainepress.com/" title="Martian Migraine Press"/>
 		<outline text="Marty’s Newsletter" type="rss" xmlUrl="https://palmreport.substack.com/feed" htmlUrl="https://palmreport.substack.com/" title="Marty’s Newsletter"/>
-		<outline text="Mastodon Blog" type="rss" xmlUrl="https://blog.joinmastodon.org/index.xml" htmlUrl="https://blog.joinmastodon.org/" title="Mastodon Blog"/>
 		<outline text="Matt Bucher" type="rss" xmlUrl="https://www.mattbucher.com/feed/" htmlUrl="https://www.mattbucher.com/" title="Matt Bucher"/>
 		<outline text="maya.land" type="rss" xmlUrl="https://maya.land/feed.xml" htmlUrl="https://maya.land/" title="maya.land"/>
 		<outline text="Mazirian's Garden" type="rss" xmlUrl="https://maziriansgarden.blogspot.com/feeds/posts/default" htmlUrl="https://maziriansgarden.blogspot.com/" title="Mazirian's Garden"/>
@@ -376,6 +378,7 @@
 		<outline text="Pegana Press" type="rss" xmlUrl="https://peganapress.blogspot.com/feeds/posts/default" htmlUrl="https://peganapress.blogspot.com/" title="Pegana Press"/>
 		<outline text="PENELOPE" type="rss" xmlUrl="https://penelope.hypotheses.org/feed" htmlUrl="https://penelope.hypotheses.org/" title="PENELOPE"/>
 		<outline text="Penteract’s Substack" type="rss" xmlUrl="https://penteract.substack.com/feed" htmlUrl="https://penteract.substack.com/" title="Penteract’s Substack"/>
+		<outline text="Peregrine Coast Press" type="rss" xmlUrl="https://peregrinecoast.press/en-us/blogs/news.atom" htmlUrl="https://peregrinecoast.press/en-us/blogs/news" title="Peregrine Coast Press"/>
 		<outline text="Perry Bible Fellowship" type="rss" xmlUrl="https://pbfcomics.com/feed/" htmlUrl="https://pbfcomics.com/" title="Perry Bible Fellowship"/>
 		<outline text="Pierre Menard" type="rss" xmlUrl="https://jareckiworld.tumblr.com/rss" htmlUrl="https://jareckiworld.tumblr.com/" title="Pierre Menard"/>
 		<outline text="PINEWIND" type="rss" xmlUrl="https://pinewind.bearblog.dev/feed/" htmlUrl="https://pinewind.bearblog.dev/" title="PINEWIND"/>
@@ -417,7 +420,6 @@
 		<outline text="Ritual Dust" type="rss" xmlUrl="https://ritualdust.com/index.xml" htmlUrl="http://ritualdust.com/about/" title="Ritual Dust"/>
 		<outline text="Robert (Bob) Bosch" type="rss" xmlUrl="https://mathstodon.xyz/@baabbaash.rss" htmlUrl="https://mathstodon.xyz/@baabbaash" title="Robert (Bob) Bosch"/>
 		<outline text="Robin Rendle" type="rss" xmlUrl="https://robinrendle.com/feed.xml" htmlUrl="https://robinrendle.com/" title="Robin Rendle"/>
-		<outline text="Roguelike Radio" type="rss" xmlUrl="http://www.roguelikeradio.com/feeds/posts/default" htmlUrl="http://www.roguelikeradio.com/" title="Roguelike Radio"/>
 		<outline text="RORY BLANK" type="rss" xmlUrl="https://www.kingofblood.com/rss" htmlUrl="https://www.kingofblood.com/" title="RORY BLANK"/>
 		<outline text="Roy Scholten" type="rss" xmlUrl="https://blog.royscholten.nl/posts/index.xml" htmlUrl="https://blog.royscholten.nl/posts/" title="Roy Scholten"/>
 		<outline text="Ryan Veeder" type="rss" xmlUrl="https://www.rcveeder.net/blog/feed/" htmlUrl="https://www.rcveeder.net/blog" title="Ryan Veeder"/>
@@ -430,6 +432,7 @@
 		<outline text="Save Vs. Dragon" type="rss" xmlUrl="https://savevsdragon.blogspot.com/feeds/posts/default" htmlUrl="https://savevsdragon.blogspot.com/" title="Save Vs. Dragon"/>
 		<outline text="Save vs. Worm" type="rss" xmlUrl="https://savevsworm.blogspot.com/feeds/posts/default" htmlUrl="https://savevsworm.blogspot.com/" title="Save vs. Worm"/>
 		<outline text="sawyerleeart" type="rss" xmlUrl="https://sawyerleeart.tumblr.com/rss" htmlUrl="https://sawyerleeart.tumblr.com/" title="sawyerleeart"/>
+		<outline text="Scarlet Imprint" type="rss" xmlUrl="https://scarletimprint.com/journal?format=rss" htmlUrl="https://scarletimprint.com/journal/" title="Scarlet Imprint"/>
 		<outline text="School Library Lady" type="rss" xmlUrl="https://schoollibrarylady.com/feed/" htmlUrl="https://schoollibrarylady.com/" title="School Library Lady"/>
 		<outline text="Scott McCloud" type="rss" xmlUrl="https://www.scottmccloud.com/feed/" htmlUrl="https://www.scottmccloud.com/" title="Scott McCloud"/>
 		<outline text="SCRAMPBONK" type="rss" xmlUrl="https://scrampbonk.com/feed.xml" htmlUrl="https://scrampbonk.com/" title="SCRAMPBONK"/>
@@ -445,6 +448,7 @@
 		<outline text="Sidney Icarus" type="rss" xmlUrl="https://sidneyicarus.wordpress.com/feed/" htmlUrl="https://sidneyicarus.wordpress.com/" title="Sidney Icarus"/>
 		<outline text="sidski" type="rss" xmlUrl="https://kjelsrud.dev/rss.xml" htmlUrl="https://kjelsrud.dev/" title="sidski"/>
 		<outline text="The Sigilist" type="rss" xmlUrl="https://thesigilist.tumblr.com/rss" htmlUrl="https://thesigilist.tumblr.com/" title="The Sigilist"/>
+		<outline text="Signum University" type="rss" xmlUrl="https://signumuniversity.org/feed/" htmlUrl="https://signumuniversity.org/" title="Signum University"/>
 		<outline text="SIGPIPE 13" type="rss" xmlUrl="https://sigpipe.macromates.com/feed/" htmlUrl="https://sigpipe.macromates.com/" title="SIGPIPE 13"/>
 		<outline text="Silver Sprocket" type="rss" xmlUrl="https://www.silversprocket.net/feed/" htmlUrl="https://www.silversprocket.net/" title="Silver Sprocket"/>
 		<outline text="Silverarm" type="rss" xmlUrl="https://silverarmpress.com/feed/" htmlUrl="https://silverarmpress.com/" title="Silverarm"/>
@@ -467,8 +471,8 @@
 		<outline text="StrangeBooks.com" type="rss" xmlUrl="https://strangebooks.com/feed/" htmlUrl="https://strangebooks.com/" title="StrangeBooks.com"/>
 		<outline text="Subliminal Surgery" type="rss" xmlUrl="https://subliminal.surgery/feed/" htmlUrl="https://subliminal.surgery/" title="Subliminal Surgery"/>
 		<outline text="submersible press" type="rss" xmlUrl="https://submersiblepress.wordpress.com/feed/" htmlUrl="https://submersiblepress.wordpress.com/" title="submersible press"/>
-		<outline text="Supper Mario Broth" type="rss" xmlUrl="https://www.suppermariobroth.com/rss" htmlUrl="https://www.suppermariobroth.com/" title="Supper Mario Broth"/>
 		<outline text="Supper Mario Broth" type="rss" xmlUrl="https://bsky.app/profile/did:plc:heeihz7xdhf7dbjx4befobqw/rss" htmlUrl="https://bsky.app/profile/mariobrothblog.bsky.social" title="Supper Mario Broth"/>
+		<outline text="Supper Mario Broth" type="rss" xmlUrl="https://www.suppermariobroth.com/rss" htmlUrl="https://www.suppermariobroth.com/" title="Supper Mario Broth"/>
 		<outline text="Sven Dahlstrand" type="rss" xmlUrl="https://dahlstrand.net/feed.xml" htmlUrl="https://dahlstrand.net/" title="Sven Dahlstrand"/>
 		<outline text="Swordfish Islands" type="rss" xmlUrl="https://blog.swordfish.press/feeds/posts/default" htmlUrl="https://blog.swordfish.press/" title="Swordfish Islands"/>
 		<outline text="Tales of the Grotesque and Dungeonesque" type="rss" xmlUrl="https://talesofthegrotesqueanddungeonesque.blogspot.com/feeds/posts/default" htmlUrl="https://talesofthegrotesqueanddungeonesque.blogspot.com/" title="Tales of the Grotesque and Dungeonesque"/>
