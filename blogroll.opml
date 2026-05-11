@@ -127,8 +127,8 @@
 		<outline text="DEEP DARK FEARS" type="rss" xmlUrl="https://deep-dark-fears.tumblr.com/rss" htmlUrl="https://deep-dark-fears.tumblr.com/" title="DEEP DARK FEARS"/>
 		<outline text="delovely" type="rss" xmlUrl="https://delovely.neocities.org/feed.xml" htmlUrl="https://delovely.neocities.org/" title="delovely"/>
 		<outline text="Delvers" type="rss" xmlUrl="https://delvers.thecomicseries.com/rss/" htmlUrl="https://delvers.thecomicseries.com/" title="Delvers"/>
-		<outline text="Deontologistics" type="rss" xmlUrl="https://deontologistics.substack.com/feed" htmlUrl="https://deontologistics.substack.com/" title="Deontologistics"/>
 		<outline text="DEONTOLOGISTICS" type="rss" xmlUrl="https://deontologistics.co/feed/" htmlUrl="https://deontologistics.co/" title="DEONTOLOGISTICS"/>
+		<outline text="Deontologistics" type="rss" xmlUrl="https://deontologistics.substack.com/feed" htmlUrl="https://deontologistics.substack.com/" title="Deontologistics"/>
 		<outline text="derek beaulieu’s blog" type="rss" xmlUrl="https://derekbeaulieu.ca/feed/" htmlUrl="https://derekbeaulieu.ca/" title="derek beaulieu’s blog"/>
 		<outline text="design reboot" type="rss" xmlUrl="https://designreboot.blogspot.com/feeds/posts/default" htmlUrl="https://designreboot.blogspot.com/" title="design reboot"/>
 		<outline text="The Desolation of Blog" type="rss" xmlUrl="https://lapcatsoftware.com/articles/atom.xml" htmlUrl="https://lapcatsoftware.com/articles/index.html" title="The Desolation of Blog"/>
@@ -229,7 +229,6 @@
 		<outline text="inessential.com" type="rss" xmlUrl="https://inessential.com/xml/rss.xml" htmlUrl="https://inessential.com/" title="inessential.com"/>
 		<outline text="Ironic Sans" type="rss" xmlUrl="https://ironicsans.ghost.io/rss/" htmlUrl="https://ironicsans.ghost.io/" title="Ironic Sans"/>
 		<outline text="ivndbt" type="rss" xmlUrl="https://ivndbt.com/rss.xml" htmlUrl="https://ivndbt.com/" title="ivndbt"/>
-		<outline text="J-T Kelly" type="rss" xmlUrl="https://bsky.app/profile/did:plc:uqqpq4setf3kpc2bqfugk33y/rss" htmlUrl="https://bsky.app/profile/j-tkelly.bsky.social" title="J-T Kelly"/>
 		<outline text="J-T's Poetry Thoughts" type="rss" xmlUrl="https://jtkellypoet.substack.com/feed" htmlUrl="https://jtkellypoet.substack.com/" title="J-T's Poetry Thoughts"/>
 		<outline text="j3s.sh" type="rss" xmlUrl="https://j3s.sh/feed.atom" htmlUrl="https://j3s.sh/" title="j3s.sh"/>
 		<outline text="James Knight" type="rss" xmlUrl="https://thebirdking.com/feed/" htmlUrl="https://thebirdking.com/" title="James Knight"/>
@@ -458,7 +457,6 @@
 		<outline text="skullfungus" type="rss" xmlUrl="https://bsky.app/profile/did:plc:dl42bhjvg4txbva5qjjqurdi/rss" htmlUrl="https://bsky.app/profile/skullfungus.bsky.social" title="skullfungus"/>
 		<outline text="SLIME MOLD" type="rss" xmlUrl="https://myxomycota.tumblr.com/rss" htmlUrl="https://myxomycota.tumblr.com/" title="SLIME MOLD"/>
 		<outline text="Slowest Thread" type="rss" xmlUrl="https://theslowestthread.substack.com/feed" htmlUrl="https://theslowestthread.substack.com/" title="Slowest Thread"/>
-		<outline text="Small Mario Findings" type="rss" xmlUrl="https://smallmariofindings.tumblr.com/rss" htmlUrl="https://smallmariofindings.tumblr.com/" title="Small Mario Findings"/>
 		<outline text="some cat blog" type="rss" xmlUrl="https://actuallysomecat.github.io/feed/feed.xml" htmlUrl="https://actuallysomecat.github.io/" title="some cat blog"/>
 		<outline text="Sortilege" type="rss" xmlUrl="https://sortilege.online/rss/" htmlUrl="https://sortilege.online/" title="Sortilege"/>
 		<outline text="Space Penguin Ink" type="rss" xmlUrl="https://spacepenguin.ink/blogs/news.atom" htmlUrl="https://spacepenguin.ink/blogs/news" title="Space Penguin Ink"/>
@@ -471,11 +469,10 @@
 		<outline text="StrangeBooks.com" type="rss" xmlUrl="https://strangebooks.com/feed/" htmlUrl="https://strangebooks.com/" title="StrangeBooks.com"/>
 		<outline text="Subliminal Surgery" type="rss" xmlUrl="https://subliminal.surgery/feed/" htmlUrl="https://subliminal.surgery/" title="Subliminal Surgery"/>
 		<outline text="submersible press" type="rss" xmlUrl="https://submersiblepress.wordpress.com/feed/" htmlUrl="https://submersiblepress.wordpress.com/" title="submersible press"/>
-		<outline text="Supper Mario Broth" type="rss" xmlUrl="https://bsky.app/profile/did:plc:heeihz7xdhf7dbjx4befobqw/rss" htmlUrl="https://bsky.app/profile/mariobrothblog.bsky.social" title="Supper Mario Broth"/>
-		<outline text="Supper Mario Broth" type="rss" xmlUrl="https://www.suppermariobroth.com/rss" htmlUrl="https://www.suppermariobroth.com/" title="Supper Mario Broth"/>
 		<outline text="Sven Dahlstrand" type="rss" xmlUrl="https://dahlstrand.net/feed.xml" htmlUrl="https://dahlstrand.net/" title="Sven Dahlstrand"/>
 		<outline text="Swordfish Islands" type="rss" xmlUrl="https://blog.swordfish.press/feeds/posts/default" htmlUrl="https://blog.swordfish.press/" title="Swordfish Islands"/>
 		<outline text="Tales of the Grotesque and Dungeonesque" type="rss" xmlUrl="https://talesofthegrotesqueanddungeonesque.blogspot.com/feeds/posts/default" htmlUrl="https://talesofthegrotesqueanddungeonesque.blogspot.com/" title="Tales of the Grotesque and Dungeonesque"/>
+		<outline text="taylor price" type="rss" xmlUrl="https://taylornprice.tumblr.com/rss" htmlUrl="https://taylornprice.tumblr.com/" title="taylor price"/>
 		<outline text="Tech Reflect" type="rss" xmlUrl="https://substack.techreflect.org/feed" htmlUrl="https://substack.techreflect.org/" title="Tech Reflect"/>
 		<outline text="Technological Supernova" type="rss" xmlUrl="http://simx.me/technonova/rss.xml" htmlUrl="http://simx.me/technonova/index.html" title="Technological Supernova"/>
 		<outline text="Tenebrous Press" type="rss" xmlUrl="https://tenebrouspress.substack.com/feed" htmlUrl="https://tenebrouspress.substack.com/" title="Tenebrous Press"/>

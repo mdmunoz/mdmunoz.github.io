@@ -4,7 +4,7 @@ title:  "Novels of Religious Paranoia and/or Ontological Psychosis"
 date:   2025-09-26 00:00:00 -0700
 ---
 
-A genre frankensteined from bits of horror, weird fiction, bizarro, fantasy, science fiction, surrealism, cyberpunk, southern gothic, magical realism, and metafiction.
+A genre frankensteined from bits of horror, weird fiction, bizarro, dystopia, fantasy, science fiction, dark academia, surrealism, cyberpunk, southern gothic, magical realism, and metafiction.
 
 No one accepts my insistence that this is my favorite thing, so here’s a list (one per author for brevity). Please [send suggestions](mailto:matthew@knucklebones.rip).
 
@@ -23,6 +23,7 @@ Then you suffer*
 - Angela Carter, *The Infernal Desire Machines of Doctor Hoffman*
 - Anna Kavan, *Ice*
 - Anthony Trevino, *King Space Void*
+- Arthur Machen, *The Great God Pan*
 - B.R. Yeager, *Negative Space*
 - Ben Arzate, *Elaine*
 - Bradley Sands, *Liquid Status*
@@ -40,6 +41,7 @@ Then you suffer*
 - David Ohle, *Motorman*
 - Dennis Cooper, *The Marbled Swarm*
 - Derek McCormack, *Castle Faggot*
+- Donna Tartt, *The Secret History*
 - Douglas Lain, *After the Saucers Landed*
 - Drew Magary, *The Hike*
 - Elaine Kraf, *House of Madelaine*
