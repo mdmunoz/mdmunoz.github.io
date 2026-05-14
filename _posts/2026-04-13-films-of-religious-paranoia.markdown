@@ -6,6 +6,7 @@ date:   2026-04-13 00:00:00 -0700
 
 As a follow-up to [the previous post](/novels-of-religious-paranoia.html), here’s a list (one per director for brevity). Please [send suggestions](mailto:matthew@knucklebones.rip).
 
+- Adrian Lyne, *Jacob’s Ladder*
 - Alejandro G. Iñárritu, *Birdman*
 - Alejandro Jodorowsky, *The Holy Mountain*
 - Aleksei German, *Hard to Be a God*
@@ -28,6 +29,7 @@ As a follow-up to [the previous post](/novels-of-religious-paranoia.html), here�
 - Gen Sekiguchi, *Survive Style 5+*
 - Guillermo del Toro, *Pan’s Labyrinth*
 - Hayao Miyazaki, *Spirited Away*
+- Higuchinsky, *Uzumaki*
 - Ingmar Bergman, *The Seventh Seal*
 - Jan Švankmajer, *Faust*
 - Jens Lien, *The Bothersome Man*

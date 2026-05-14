@@ -56,6 +56,7 @@ Then you suffer*
 - George Mangels, *Frank’s World*
 - Georges Bataille, *Story of the Eye*
 - Georges Perec, *A Void*
+- Gina Ranalli, *Wall of Kiss*
 - Giorgio De Maria, *The Twenty Days of Turin*
 - Gore Vidal, *Messiah*
 - H.P. Lovecraft, *The Dream-Quest of Unknown Kadath*
