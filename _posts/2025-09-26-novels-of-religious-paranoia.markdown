@@ -80,6 +80,7 @@ Then you suffer*
 - Kurt Vonnegut, *Cat’s Cradle*
 - Leonard Wolf, *The False Messiah*
 - Leonora Carrington, *The Hearing Trumpet*
+- Lewis Carroll, *Alice’s Adventures in Wonderland*
 - Lina Meruane, *Seeing Red*
 - Lucius Shepard, *A Handbook of American Prayer*
 - M. John Harrison, *The Course of the Heart*
