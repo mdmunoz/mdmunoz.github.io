@@ -14,6 +14,7 @@ Then you suffer*
 —Stevie Wonder  
   
   
+- Adam McOmber, *Jesus and John*
 - Adolfo Bioy Casares, *The Invention of Morel*
 - Alfred Jarry, *Exploits and Opinions of Dr. Faustroll, Pataphysician*
 - Algernon Blackwood, *The Willows*
@@ -25,6 +26,7 @@ Then you suffer*
 - Anthony Oliveira, *Dayspring*
 - Anthony Trevino, *King Space Void*
 - Arthur Machen, *The Great God Pan*
+- Austin James Hatch, *The Drip Drop Prophet*
 - B.R. Yeager, *Negative Space*
 - Ben Arzate, *Elaine*
 - Bradley Sands, *Liquid Status*
@@ -62,6 +64,7 @@ Then you suffer*
 - H.P. Lovecraft, *The Dream-Quest of Unknown Kadath*
 - Harold Bloom, *The Flight to Lucifer*
 - Haruki Murakami, *The Wind-Up Bird Chronicle*
+- Hunter S. Thompson, *Fear and Loathing in Las Vegas*
 - Isabel Waidner, *Corey Fah Does Social Mobility*
 - Italo Calvino, *If on a winter's night a traveler*
 - J.G. Ballard, *The Crystal World*

@@ -127,8 +127,8 @@
 		<outline text="DEEP DARK FEARS" type="rss" xmlUrl="https://deep-dark-fears.tumblr.com/rss" htmlUrl="https://deep-dark-fears.tumblr.com/" title="DEEP DARK FEARS"/>
 		<outline text="delovely" type="rss" xmlUrl="https://delovely.neocities.org/feed.xml" htmlUrl="https://delovely.neocities.org/" title="delovely"/>
 		<outline text="Delvers" type="rss" xmlUrl="https://delvers.thecomicseries.com/rss/" htmlUrl="https://delvers.thecomicseries.com/" title="Delvers"/>
-		<outline text="Deontologistics" type="rss" xmlUrl="https://deontologistics.substack.com/feed" htmlUrl="https://deontologistics.substack.com/" title="Deontologistics"/>
 		<outline text="DEONTOLOGISTICS" type="rss" xmlUrl="https://deontologistics.co/feed/" htmlUrl="https://deontologistics.co/" title="DEONTOLOGISTICS"/>
+		<outline text="Deontologistics" type="rss" xmlUrl="https://deontologistics.substack.com/feed" htmlUrl="https://deontologistics.substack.com/" title="Deontologistics"/>
 		<outline text="derek beaulieu’s blog" type="rss" xmlUrl="https://derekbeaulieu.ca/feed/" htmlUrl="https://derekbeaulieu.ca/" title="derek beaulieu’s blog"/>
 		<outline text="design reboot" type="rss" xmlUrl="https://designreboot.blogspot.com/feeds/posts/default" htmlUrl="https://designreboot.blogspot.com/" title="design reboot"/>
 		<outline text="The Desolation of Blog" type="rss" xmlUrl="https://lapcatsoftware.com/articles/atom.xml" htmlUrl="https://lapcatsoftware.com/articles/index.html" title="The Desolation of Blog"/>
@@ -374,6 +374,7 @@
 		<outline text="paloma’s journal" type="rss" xmlUrl="https://journal.palomakop.tv/rss" htmlUrl="http://journal.palomakop.tv/" title="paloma’s journal"/>
 		<outline text="The Panda’s Thumb" type="rss" xmlUrl="https://pandasthumb.org/feed" htmlUrl="https://pandasthumb.org/" title="The Panda’s Thumb"/>
 		<outline text="Panic Blog" type="rss" xmlUrl="https://blog.panic.com/feed/" htmlUrl="https://blog.panic.com/" title="Panic Blog"/>
+		<outline text="papercrisis" type="rss" xmlUrl="https://qgesqcymfpqykxgkrxiu.supabase.co/functions/v1/serve-feed?id=d9d0710f-8dac-4da5-9c31-0b5ec802cc8f" htmlUrl="https://www.instagram.com/papercrisis/" title="papercrisis"/>
 		<outline text="Paperposts" type="rss" xmlUrl="https://www.paperposts.me/feed.xml" htmlUrl="https://www.paperposts.me/" title="Paperposts"/>
 		<outline text="Papers &amp; Pencils" type="rss" xmlUrl="https://www.paperspencils.com/feed/" htmlUrl="https://www.paperspencils.com/" title="Papers &amp; Pencils"/>
 		<outline text="Parakeet" type="rss" xmlUrl="https://parakeet.co/feed.xml" htmlUrl="https://parakeet.co/" title="Parakeet"/>
