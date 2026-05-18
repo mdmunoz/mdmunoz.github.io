@@ -38,6 +38,7 @@ As a follow-up to [the previous post](/novels-of-religious-paranoia.html), here�
 - Kaneto Shindō, *Onibaba*
 - Lucile Hadžihalilović, *Earwig*
 - Matthew Holness, *Possum*
+- Mamoru Oshii, *Angel’s Egg*
 - Nicolas Winding Refn, *Bronson*
 - Peter Greenaway, *A Zed & Two Noughts*
 - Peter Weir, *The Truman Show*

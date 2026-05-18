@@ -4,7 +4,7 @@ title:  "Novels of Religious Paranoia and/or Ontological Psychosis"
 date:   2025-09-26 00:00:00 -0700
 ---
 
-A genre frankensteined from bits of horror, weird fiction, bizarro, dystopia, fantasy, gonzo, science fiction, dark academia, surrealism, oulipo, cyberpunk, decadence, southern gothic, 'pataphysics, magical realism, and metafiction.
+A genre frankensteined from bits of horror, weird fiction, bizarro, dystopia, fantasy, gonzo, science fiction, noir, dark academia, surrealism, oulipo, cyberpunk, decadence, southern gothic, 'pataphysics, magical realism, and metafiction.
 
 No one accepts my insistence that this is my favorite thing, so here’s a list (one per author for brevity). Please [send suggestions](mailto:matthew@knucklebones.rip).
 
@@ -21,6 +21,7 @@ Then you suffer*
 - Aliya Whiteley, *The Beauty*
 - Álvaro Enrigue, *You Dreamed of Empires*
 - Amelia Gray, *Threats*
+- Amos Tutuola, *The Palm-Wine Drinkard*
 - Angela Carter, *The Infernal Desire Machines of Doctor Hoffman*
 - Anna Kavan, *Ice*
 - Anthony Oliveira, *Dayspring*
@@ -101,9 +102,12 @@ Then you suffer*
 - Mircea Cărtărescu, *Solenoid*
 - Missouri Williams, *The Doloriad*
 - Mónica Ojeda, *Nefando*
+- Muriel Spark, *Memento Mori*
 - Olga Ravn, *The Employees*
+- Patrick Stuart, *Queen Mab’s Palace*
 - Philip K. Dick, *The Transmigration of Timothy Archer*
 - Ralph Ellison, *Invisible Man*
+- Raymond Roussel, *Impressions of Africa*
 - Reza Negarestani, *Cyclonopedia: Complicity with Anonymous Materials*
 - Richard Brautigan, *In Watermelon Sugar*
 - Rita Indiana, *Tentacle*
