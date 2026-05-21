@@ -4,8 +4,6 @@ title:  "Novels of Religious Paranoia and/or Ontological Psychosis"
 date:   2025-09-26 00:00:00 -0700
 ---
 
-A genre frankensteined from bits of horror, weird fiction, bizarro, dystopia, fantasy, gonzo, science fiction, noir, dark academia, surrealism, oulipo, cyberpunk, decadence, southern gothic, 'pataphysics, magical realism, and metafiction.
-
 No one accepts my insistence that this is my favorite thing, so here’s a list (one per author for brevity). Please [send suggestions](mailto:matthew@knucklebones.rip).
 
 *When you believe in things  
@@ -36,7 +34,6 @@ Then you suffer*
 - Cameron Pierce, *Ass Goblins of Auschwitz*
 - Carlton Mellick III, *Razor Wire Pubic Hair*
 - Charlie Kaufman, *Antkind*
-- China Miéville, *The Last Days of New Paris*
 - Chris Kelso, *The Black Dog Eats The City*
 - Clarice Lispector, *The Passion According to G.H.*
 - Comte de Lautréamont, *Les Chants de Maldoror*
@@ -102,7 +99,7 @@ Then you suffer*
 - Mircea Cărtărescu, *Solenoid*
 - Missouri Williams, *The Doloriad*
 - Mónica Ojeda, *Nefando*
-- Muriel Spark, *Memento Mori*
+- Nicholson Baker, *House of Holes*
 - Olga Ravn, *The Employees*
 - Patrick Stuart, *Queen Mab’s Palace*
 - Philip K. Dick, *The Transmigration of Timothy Archer*
