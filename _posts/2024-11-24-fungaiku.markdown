@@ -15,7 +15,7 @@ date:   2024-11-24 00:00:00 -0700
     }
 </script>
 
-*These ekphrastic poems are based on the fictional mushrooms of* Fungi of the Far Realms *by Alex R. Clements and Shuyi Zhang from The Melsonian Arts Council. Numbers indicate results of three six-sided dice.*  
+*You wander through regions illustrated by Alex R. Clements and Shuyi Zhang’s* Fungi of the Far Realms. *Straying from the path, you notice…*  
   
 <a href="javascript:roll()" id="roll">Roll.</a>
   
