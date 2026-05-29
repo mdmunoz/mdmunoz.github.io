@@ -28,6 +28,7 @@ Then you suffer*
 - Austin James Hatch, *The Drip Drop Prophet*
 - B.R. Yeager, *Negative Space*
 - Ben Arzate, *Elaine*
+- Blaise Cendrars, *Moravagine*
 - Bradley Sands, *Liquid Status*
 - Brian Catling, *Earwig*
 - Brian Evanson, *The Open Curtain*
@@ -102,6 +103,7 @@ Then you suffer*
 - Nicholson Baker, *House of Holes*
 - Olga Ravn, *The Employees*
 - Patrick Stuart, *Queen Mab’s Palace*
+- Paul Curran, *Left Hand*
 - Philip K. Dick, *The Transmigration of Timothy Archer*
 - Ralph Ellison, *Invisible Man*
 - Raymond Roussel, *Impressions of Africa*

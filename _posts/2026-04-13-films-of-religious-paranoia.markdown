@@ -40,6 +40,7 @@ As a follow-up to [the previous post](/novels-of-religious-paranoia.html), hereâ
 - Matthew Holness, *Possum*
 - Mamoru Oshii, *Angelâ€™s Egg*
 - Nicolas Winding Refn, *Bronson*
+- Paul Verhoeven, *Total Recall*
 - Peter Greenaway, *A Zed & Two Noughts*
 - Peter Weir, *The Truman Show*
 - Phil Tippett, *Mad God*
