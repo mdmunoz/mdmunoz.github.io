@@ -232,13 +232,13 @@
 		<outline text="The Hem Press Substack" type="rss" xmlUrl="https://hempress.substack.com/feed" htmlUrl="https://hempress.substack.com/" title="The Hem Press Substack"/>
 		<outline text="Heroic Geology of the Limestone Obelisk God" type="rss" xmlUrl="https://hglog.tumblr.com/rss" htmlUrl="https://hglog.tumblr.com/" title="Heroic Geology of the Limestone Obelisk God"/>
 		<outline text="Hesterglock’s Substack" type="rss" xmlUrl="https://hesterglock.substack.com/feed" htmlUrl="https://hesterglock.substack.com/" title="Hesterglock’s Substack"/>
-		<outline text="Highland Paranormal Society" type="rss" xmlUrl="https://www.hps.quest/feed" htmlUrl="https://www.hps.quest/" title="Highland Paranormal Society"/>
 		<outline text="Highland Paranormal Society" type="rss" xmlUrl="https://highlandparanormalsociety.tumblr.com/rss" htmlUrl="https://highlandparanormalsociety.tumblr.com/" title="Highland Paranormal Society"/>
+		<outline text="Highland Paranormal Society" type="rss" xmlUrl="https://www.hps.quest/feed" htmlUrl="https://www.hps.quest/" title="Highland Paranormal Society"/>
 		<outline text="Hilander RPGs" type="rss" xmlUrl="https://hilanderrpgs.bearblog.dev/feed/" htmlUrl="https://hilanderrpgs.bearblog.dev/" title="Hilander RPGs"/>
 		<outline text="Hilarity Comics" type="rss" xmlUrl="https://hilaritycomics.tumblr.com/rss" htmlUrl="https://hilaritycomics.tumblr.com/" title="Hilarity Comics"/>
 		<outline text="Historia Fabularum" type="rss" xmlUrl="https://ladyvictoriart.tumblr.com/rss" htmlUrl="https://ladyvictoriart.tumblr.com/" title="Historia Fabularum"/>
-		<outline text="Hollow Press" type="rss" xmlUrl="https://hollow-press.net/collections/lore-game-books.atom" htmlUrl="https://hollow-press.net/collections/all" title="Hollow Press"/>
 		<outline text="Hollow Press" type="rss" xmlUrl="https://hollow-press.tumblr.com/rss" htmlUrl="https://hollow-press.tumblr.com/" title="Hollow Press"/>
+		<outline text="Hollow Press" type="rss" xmlUrl="https://hollow-press.net/collections/lore-game-books.atom" htmlUrl="https://hollow-press.net/collections/all" title="Hollow Press"/>
 		<outline text="The Home Page of Jay Tholen" type="rss" xmlUrl="https://jaytholen.net/rss.xml" htmlUrl="https://jaytholen.net/" title="The Home Page of Jay Tholen"/>
 		<outline text="Hotel Paintings" type="rss" xmlUrl="https://hotelpaintings.neocities.org/feed.xml" htmlUrl="https://hotelpaintings.neocities.org/" title="Hotel Paintings"/>
 		<outline text="House of Kyle" type="rss" xmlUrl="https://houseofkyle.com/feed/" htmlUrl="https://houseofkyle.com/" title="House of Kyle"/>
@@ -304,6 +304,7 @@
 		<outline text="Le Chaudron Chromatique" type="rss" xmlUrl="https://chaudronchromatique.blogspot.com/feeds/posts/default" htmlUrl="https://chaudronchromatique.blogspot.com/" title="Le Chaudron Chromatique"/>
 		<outline text="Let’s Play Archive News" type="rss" xmlUrl="https://lparchive.org/newsrss" htmlUrl="https://lparchive.org/" title="Let’s Play Archive News"/>
 		<outline text="Lia Pas" type="rss" xmlUrl="https://liapas.com/feed/" htmlUrl="https://liapas.com/" title="Lia Pas"/>
+		<outline text="Lichendust" type="rss" xmlUrl="https://lichendust.com/microfeed.xml" htmlUrl="https://lichendust.com/microfeed" title="Lichendust"/>
 		<outline text="LIGHTHOUSE" type="rss" xmlUrl="https://j-tee.tumblr.com/rss" htmlUrl="https://j-tee.tumblr.com/" title="LIGHTHOUSE"/>
 		<outline text="Liss is More" type="rss" xmlUrl="https://www.caseyliss.com/rss" htmlUrl="https://www.caseyliss.com/" title="Liss is More"/>
 		<outline text="𝖑𝖎𝖙𝖙𝖑𝖊𝖇𝖎𝖙𝖘𝖕𝖆𝖈𝖊" type="rss" xmlUrl="https://mas.to/@littlebitspace.rss" htmlUrl="https://mas.to/@littlebitspace" title="𝖑𝖎𝖙𝖙𝖑𝖊𝖇𝖎𝖙𝖘𝖕𝖆𝖈𝖊"/>
@@ -350,7 +351,6 @@
 		<outline text="Michael Cisco" type="rss" xmlUrl="https://bsky.app/profile/did:plc:ahxvvsemrz6kdciexqmw4g5r/rss" htmlUrl="https://bsky.app/profile/michaelcisco.bsky.social" title="Michael Cisco"/>
 		<outline text="Michael Heilemann" type="rss" xmlUrl="https://binarybonsai.com/blog?format=rss" htmlUrl="https://binarybonsai.com/" title="Michael Heilemann"/>
 		<outline text="Michel Fortin" type="rss" xmlUrl="https://michelf.ca/blog/atom/" htmlUrl="https://michelf.ca/" title="Michel Fortin"/>
-		<outline text="Microfeed — Lichendust" type="rss" xmlUrl="https://lichendust.com/microfeed.xml" htmlUrl="https://lichendust.com/microfeed" title="Microfeed — Lichendust"/>
 		<outline text="Mike Driver" type="rss" xmlUrl="https://mikewdriver.tumblr.com/rss" htmlUrl="https://mikewdriver.tumblr.com/" title="Mike Driver"/>
 		<outline text="mismedleym" type="rss" xmlUrl="https://mismedleym.tumblr.com/rss" htmlUrl="https://mismedleym.tumblr.com/" title="mismedleym"/>
 		<outline text="Mister Frank" type="rss" xmlUrl="https://frankjedler.blogspot.com/feeds/posts/default" htmlUrl="https://frankjedler.blogspot.com/" title="Mister Frank"/>
