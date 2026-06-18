@@ -69,6 +69,7 @@ Then you suffer*
 - J.G. Ballard, *The Crystal World*
 - J. Peter W., *Giraffe Carcass*
 - Jeff VanderMeer, *Annihilation*
+- Jeremy Robert Johnson, *In The River*
 - Joe Orton, *Head to Toe*
 - John Pistelli, *Portraits and Ashes*
 - Jordan Krall, *Humanity Is The Devil*
@@ -84,6 +85,7 @@ Then you suffer*
 - Leonora Carrington, *The Hearing Trumpet*
 - Lewis Carroll, *Alice’s Adventures in Wonderland*
 - Lina Meruane, *Seeing Red*
+- Lisa Tuttle, *My Death*
 - Lucius Shepard, *A Handbook of American Prayer*
 - M. John Harrison, *The Course of the Heart*
 - Marc Behm, *The Eye of the Beholder*
@@ -102,6 +104,7 @@ Then you suffer*
 - Mónica Ojeda, *Nefando*
 - Nicholson Baker, *House of Holes*
 - Olga Ravn, *The Employees*
+- Otto Julius Bierbaum, *Samalio Pardulus*
 - Patrick Stuart, *Queen Mab’s Palace*
 - Paul Curran, *Left Hand*
 - Philip K. Dick, *The Transmigration of Timothy Archer*

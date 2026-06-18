@@ -27,6 +27,7 @@ As a follow-up to [the previous post](/novels-of-religious-paranoia.html), here�
 - David Lowery, *The Green Knight*
 - David Lynch, *Inland Empire*
 - Gen Sekiguchi, *Survive Style 5+*
+- Genki Kawamura, *Exit 8*
 - Guillermo del Toro, *Pan’s Labyrinth*
 - Hayao Miyazaki, *Spirited Away*
 - Higuchinsky, *Uzumaki*
@@ -35,11 +36,13 @@ As a follow-up to [the previous post](/novels-of-religious-paranoia.html), here�
 - Jens Lien, *The Bothersome Man*
 - John Carpenter, *Cigarette Burns*
 - Jordan Peele, *Nope*
+- Julia Ducournau, *Titane*
 - Kaneto Shindō, *Onibaba*
 - Lucile Hadžihalilović, *Earwig*
 - Matthew Holness, *Possum*
 - Mamoru Oshii, *Angel’s Egg*
 - Nicolas Winding Refn, *Bronson*
+- Paul Thomas Anderson, *Inherent Vice*
 - Paul Verhoeven, *Total Recall*
 - Peter Greenaway, *A Zed & Two Noughts*
 - Peter Weir, *The Truman Show*
