@@ -21,6 +21,7 @@
 		<outline text="The Clockwork Game Design Podcast" type="rss" xmlUrl="http://keithburgun.net/feed/podcast/" title="The Clockwork Game Design Podcast"/>
 		<outline text="The Collidescope Podcast" type="rss" xmlUrl="https://rss.buzzsprout.com/1849671.rss" title="The Collidescope Podcast"/>
 		<outline text="Concavity Show" type="rss" xmlUrl="https://feed.podbean.com/greatconcavity/feed.xml" title="Concavity Show"/>
+		<outline text="Crypto Critics' Corner" type="rss" xmlUrl="https://anchor.fm/s/4fa795b4/podcast/rss" title="Crypto Critics' Corner"/>
 		<outline text="The Darkened Threshold" type="rss" xmlUrl="https://rss.libsyn.com/shows/446121/destinations/3736617.xml" title="The Darkened Threshold"/>
 		<outline text="describe world" type="rss" xmlUrl="https://feeds.castos.com/9qo4v" title="describe world"/>
 		<outline text="Design Doc" type="rss" xmlUrl="https://feeds.megaphone.fm/designdoc" title="Design Doc"/>
@@ -36,6 +37,7 @@
 		<outline text="Into the Megadungeon" type="rss" xmlUrl="https://anchor.fm/s/d9a089c4/podcast/rss" title="Into the Megadungeon"/>
 		<outline text="Judge John Hodgman" type="rss" xmlUrl="https://feeds.simplecast.com/q8x9cVws" title="Judge John Hodgman"/>
 		<outline text="The Lands Remaining Podcast" type="rss" xmlUrl="https://rss.libsyn.com/shows/603870/destinations/5257220.xml" title="The Lands Remaining Podcast"/>
+		<outline text="The Long Library" type="rss" xmlUrl="https://rss.libsyn.com/shows/508008/destinations/4355738.xml" title="The Long Library"/>
 		<outline text="The Lost Bay Podcast" type="rss" xmlUrl="https://anchor.fm/s/4f2bdab4/podcast/rss" title="The Lost Bay Podcast"/>
 		<outline text="The Lovecraft Geek" type="rss" xmlUrl="https://app.talkshoe.com/rss-the-lovecraft-geek.xml" title="The Lovecraft Geek"/>
 		<outline text="Lyrical Ludology" type="rss" xmlUrl="https://feeds.redcircle.com/4dfc3671-a3d8-4018-89ff-dac8786292ca" title="Lyrical Ludology"/>
@@ -53,6 +55,7 @@
 		<outline text="Roguelike Radio" type="rss" xmlUrl="https://feeds.feedburner.com/RoguelikeRadio" title="Roguelike Radio"/>
 		<outline text="The Saucer Life" type="rss" xmlUrl="https://pinecast.com/feed/the-saucer-life" title="The Saucer Life"/>
 		<outline text="SFUltra" type="rss" xmlUrl="https://rss.libsyn.com/shows/99804/destinations/523386.xml" title="SFUltra"/>
+		<outline text="The Signum Scene" type="rss" xmlUrl="https://feeds.fireside.fm/signumsymposia/rss" title="The Signum Scene"/>
 		<outline text="Sword Breaker" type="rss" xmlUrl="https://anchor.fm/s/6ee6424/podcast/rss" title="Sword Breaker"/>
 		<outline text="Trampoline Hall" type="rss" xmlUrl="https://feeds.acast.com/public/shows/b0e660b5-a673-467e-8349-174078239145" title="Trampoline Hall"/>
 		<outline text="Trophy" type="rss" xmlUrl="https://rss.libsyn.com/shows/212855/destinations/1539077.xml" title="Trophy"/>
@@ -60,6 +63,7 @@
 		<outline text="Uncomics" type="rss" xmlUrl="https://uncomics.org/podcast.xml" title="Uncomics"/>
 		<outline text="Unwritten Earths Symposium" type="rss" xmlUrl="https://feeds.fireside.fm/unwrittenearths/rss" title="Unwritten Earths Symposium"/>
 		<outline text="Voluminous: The Letters of H.P. Lovecraft" type="rss" xmlUrl="https://rss.libsyn.com/shows/223031/destinations/1629950.xml" title="Voluminous: The Letters of H.P. Lovecraft"/>
+		<outline text="WAKE ISLAND" type="rss" xmlUrl="https://anchor.fm/s/ee865a8/podcast/rss" title="WAKE ISLAND"/>
 		<outline text="Weird Studies" type="rss" xmlUrl="https://feeds.megaphone.fm/IMP7332460748" title="Weird Studies"/>
 	</body>
 </opml>
