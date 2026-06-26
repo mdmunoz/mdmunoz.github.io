@@ -24,6 +24,8 @@ Then you suffer*
 - Anna Kavan, *Ice*
 - Anthony Oliveira, *Dayspring*
 - Anthony Trevino, *King Space Void*
+- Antoine Volodine, *The Monroe Girls*
+- Armonía Somers, *The Naked Woman*
 - Arthur Machen, *The Great God Pan*
 - Austin James Hatch, *The Drip Drop Prophet*
 - B.R. Yeager, *Negative Space*
@@ -68,6 +70,7 @@ Then you suffer*
 - Italo Calvino, *If on a winter's night a traveler*
 - J.G. Ballard, *The Crystal World*
 - J. Peter W., *Giraffe Carcass*
+- Jacques Sternberg, *The Employee*
 - Jeff VanderMeer, *Annihilation*
 - Jeremy Robert Johnson, *In The River*
 - Joe Orton, *Head to Toe*
@@ -91,6 +94,7 @@ Then you suffer*
 - Marc Behm, *The Eye of the Beholder*
 - Mark Z. Danielewski, *House of Leaves*
 - Martin Amis, *Other People*
+- Mathias Énard, *The Annual Banquet of the Gravediggers’ Guild*
 - Matt Hlinak, *DoG*
 - Matthew Revert, *Basal Ganglia*
 - Matthew Stokoe, *Cows*
@@ -114,6 +118,7 @@ Then you suffer*
 - Richard Brautigan, *In Watermelon Sugar*
 - Rita Indiana, *Tentacle*
 - Robert Aickman, *The Model*
+- Robert Shea and Robert Anton Wilson, *Illuminatus!*
 - Salman Rushdie, *The Satanic Verses*
 - Samuel R. Delany, *Dhalgren*
 - Scott R. Jones, *DRILL*

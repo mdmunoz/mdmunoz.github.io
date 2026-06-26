@@ -13,6 +13,8 @@ entries:
     entries:
       - title: blogroll
         url: blogroll.html
+      - title: podroll
+        url: podroll.html
       - title: rss feed
         url: feed.xml
       - title: email
