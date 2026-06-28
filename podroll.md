@@ -4,6 +4,7 @@ title: Podroll
 
 <a href="/podroll.opml" download>Download OPML file</a>
 
+- Adventure Tourism \[[feed](https://anchor.fm/s/7f9c0b88/podcast/rss)\]
 - Alex Schroeder: Halberds & Helmets \[[feed](https://alexschroeder.ch/podcast/hh.xml)\]
 - Ansible Uplink, a sci\-fi ttrpg review podcast \[[feed](https://anchor.fm/s/10a632120/podcast/rss)\]
 - Archaeological Fantasies Podcast \[[feed](https://anchor.fm/s/6b89199c/podcast/rss)\]
@@ -46,6 +47,7 @@ title: Podroll
 - Milk the Funk “The Podcast” \[[feed](https://www.milkthefunk.live/podcast?format=rss)\]
 - Molly White's Citation Needed \[[feed](https://www.spreaker.com/show/6019906/episodes/feed)\]
 - New Testament Review \[[feed](https://feeds.soundcloud.com/users/soundcloud:users:439505514/sounds.rss)\]
+- Not Worth Living \[[feed](https://anchor.fm/s/db42af78/podcast/rss)\]
 - NT Pod \[[feed](https://feeds2.feedburner.com/NTPod)\]
 - The Outer Dark \[[feed](https://www.thisishorror.co.uk/feed/theouterdark/)\]
 - Panic Podcast \[[feed](https://podcast.panic.com/index.xml)\]
@@ -56,7 +58,9 @@ title: Podroll
 - The Saucer Life \[[feed](https://pinecast.com/feed/the-saucer-life)\]
 - SFUltra \[[feed](https://rss.libsyn.com/shows/99804/destinations/523386.xml)\]
 - The Signum Scene \[[feed](https://feeds.fireside.fm/signumsymposia/rss)\]
+- Solve This Murder \[[feed](https://feed.podbean.com/www.solvethismurder.com/feed.xml)\]
 - Sword Breaker \[[feed](https://anchor.fm/s/6ee6424/podcast/rss)\]
+- Tales of What\!? \- A Bizarro Fiction Thing \[[feed](https://feeds.acast.com/public/shows/07b34429-3ba6-4992-b8ad-a427296cc1a1)\]
 - Trampoline Hall \[[feed](https://feeds.acast.com/public/shows/b0e660b5-a673-467e-8349-174078239145)\]
 - Trophy \[[feed](https://rss.libsyn.com/shows/212855/destinations/1539077.xml)\]
 - Unburied Books \[[feed](https://feeds.castos.com/omd6j)\]

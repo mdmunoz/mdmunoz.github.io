@@ -11,14 +11,16 @@ entries:
 
   - title: links
     entries:
-      - title: blogroll
-        url: blogroll.html
-      - title: podroll
-        url: podroll.html
       - title: rss feed
         url: feed.xml
       - title: email
         url: mailto:matthew@knucklebones.rip
+      - title: blogroll
+        url: blogroll.html
+      - title: podroll
+        url: podroll.html
+      - title: vodroll
+        url: vodroll.html
       - title: anguiped chapbook
         url: https://paperviewbooks.pt/books/anguiped/
       - title: ekphrastic review with saki

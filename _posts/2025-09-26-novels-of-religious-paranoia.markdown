@@ -14,6 +14,7 @@ Then you suffer*
   
 - Adam McOmber, *Jesus and John*
 - Adolfo Bioy Casares, *The Invention of Morel*
+- Albertine Clarke, *The Body Builders*
 - Alfred Jarry, *Exploits and Opinions of Dr. Faustroll, Pataphysician*
 - Algernon Blackwood, *The Willows*
 - Aliya Whiteley, *The Beauty*
@@ -22,6 +23,7 @@ Then you suffer*
 - Amos Tutuola, *The Palm-Wine Drinkard*
 - Angela Carter, *The Infernal Desire Machines of Doctor Hoffman*
 - Anna Kavan, *Ice*
+- Annie Neugebauer, *The Extra*
 - Anthony Oliveira, *Dayspring*
 - Anthony Trevino, *King Space Void*
 - Antoine Volodine, *The Monroe Girls*
