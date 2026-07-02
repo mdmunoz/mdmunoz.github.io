@@ -13,8 +13,8 @@
 		<outline text="43 Folders" type="rss" xmlUrl="http://feeds.feedburner.com/43folders" htmlUrl="http://www.43folders.com/" title="43 Folders"/>
 		<outline text="5 Million Worlds Press" type="rss" xmlUrl="https://chrisairiau.com/feed/" htmlUrl="https://chrisairiau.com/" title="5 Million Worlds Press"/>
 		<outline text="5ives" type="rss" xmlUrl="http://www.5ives.com/feed/" htmlUrl="http://www.5ives.com/" title="5ives"/>
-		<outline text="70s Sci-Fi Art" type="rss" xmlUrl="https://70s-sci-fi-art.ghost.io/rss/" htmlUrl="https://70s-sci-fi-art.ghost.io/" title="70s Sci-Fi Art"/>
 		<outline text="70s Sci-Fi Art" type="rss" xmlUrl="https://70sscifiart.tumblr.com/rss" htmlUrl="https://70sscifiart.tumblr.com/" title="70s Sci-Fi Art"/>
+		<outline text="70s Sci-Fi Art" type="rss" xmlUrl="https://70s-sci-fi-art.ghost.io/rss/" htmlUrl="https://70s-sci-fi-art.ghost.io/" title="70s Sci-Fi Art"/>
 		<outline text="8bitpeoples" type="rss" xmlUrl="https://www.8bitpeoples.com/news.xml" htmlUrl="http://www.8bitpeoples.com/news" title="8bitpeoples"/>
 		<outline text="_alariko" type="rss" xmlUrl="https://qgesqcymfpqykxgkrxiu.supabase.co/functions/v1/serve-feed?id=f254dcda-582c-4077-b470-f07b96971aeb" htmlUrl="https://www.instagram.com/_alariko/" title="_alariko"/>
 		<outline text="_medusawolf_" type="rss" xmlUrl="https://qgesqcymfpqykxgkrxiu.supabase.co/functions/v1/serve-feed?id=a2d72199-4370-4fd1-9be7-9cc9f67dd758" htmlUrl="https://www.instagram.com/_medusawolf_/" title="_medusawolf_"/>
@@ -68,8 +68,8 @@
 		<outline text="Be a Cactus" type="rss" xmlUrl="https://victoriawaddle.substack.com/feed" htmlUrl="https://victoriawaddle.substack.com/" title="Be a Cactus"/>
 		<outline text="BEARDED DEVIL" type="rss" xmlUrl="https://bearded-devil.com/feed/" htmlUrl="https://bearded-devil.com/" title="BEARDED DEVIL"/>
 		<outline text="Ben McEntee" type="rss" xmlUrl="https://benmce-art.tumblr.com/rss" htmlUrl="https://benmce-art.tumblr.com/" title="Ben McEntee"/>
-		<outline text="Betalogue" type="rss" xmlUrl="https://toot.community/@betalogue.rss" htmlUrl="https://toot.community/@betalogue" title="Betalogue"/>
 		<outline text="Betalogue" type="rss" xmlUrl="https://www.betalogue.com/feed/" htmlUrl="https://www.betalogue.com/" title="Betalogue"/>
+		<outline text="Betalogue" type="rss" xmlUrl="https://toot.community/@betalogue.rss" htmlUrl="https://toot.community/@betalogue" title="Betalogue"/>
 		<outline text="Better Legends" type="rss" xmlUrl="https://feeds.feedburner.com/betterlegends/JV2d4WJtUfm" htmlUrl="https://betterlegends.com/blog/" title="Better Legends"/>
 		<outline text="Biblioculus" type="rss" xmlUrl="https://www.biblioculus.com/feeds/posts/default" htmlUrl="https://www.biblioculus.com/" title="Biblioculus"/>
 		<outline text="biblioprotasis" type="rss" xmlUrl="https://biblioprotasis.bearblog.dev/feed/" htmlUrl="https://biblioprotasis.bearblog.dev/" title="biblioprotasis"/>
@@ -255,8 +255,8 @@
 		<outline text="Hazard Symbols That Fuck Hard" type="rss" xmlUrl="https://hazard-symbols-that-fuck-hard.tumblr.com/rss" htmlUrl="https://hazard-symbols-that-fuck-hard.tumblr.com/" title="Hazard Symbols That Fuck Hard"/>
 		<outline text="何だっけ" type="rss" xmlUrl="https://nandakke.jp/feed.xml" htmlUrl="https://nandakke.jp/" title="何だっけ"/>
 		<outline text="Heavy Metal Gems" type="rss" xmlUrl="https://heavy-metal-gems.com/feed/" htmlUrl="https://heavy-metal-gems.com/" title="Heavy Metal Gems"/>
-		<outline text="Helvetica Blanc" type="rss" xmlUrl="https://helveticablanc.com/feed.xml" htmlUrl="http://www.helveticablanc.com/" title="Helvetica Blanc"/>
 		<outline text="Helvetica Blanc" type="rss" xmlUrl="https://helveticablanc.tumblr.com/rss" htmlUrl="https://helveticablanc.tumblr.com/" title="Helvetica Blanc"/>
+		<outline text="Helvetica Blanc" type="rss" xmlUrl="https://helveticablanc.com/feed.xml" htmlUrl="http://www.helveticablanc.com/" title="Helvetica Blanc"/>
 		<outline text="The Hem Press Substack" type="rss" xmlUrl="https://hempress.substack.com/feed" htmlUrl="https://hempress.substack.com/" title="The Hem Press Substack"/>
 		<outline text="Herman's blog" type="rss" xmlUrl="https://herman.bearblog.dev/feed/" htmlUrl="https://herman.bearblog.dev/" title="Herman's blog"/>
 		<outline text="Heroic Geology of the Limestone Obelisk God" type="rss" xmlUrl="https://hglog.tumblr.com/rss" htmlUrl="https://hglog.tumblr.com/" title="Heroic Geology of the Limestone Obelisk God"/>
@@ -308,6 +308,7 @@
 		<outline text="Joe Devlin" type="rss" xmlUrl="https://bsky.app/profile/did:plc:hfqlrai2kelmybjiedztikby/rss" htmlUrl="https://bsky.app/profile/joedevlin.bsky.social" title="Joe Devlin"/>
 		<outline text="Joel on Software" type="rss" xmlUrl="https://www.joelonsoftware.com/feed/" htmlUrl="https://www.joelonsoftware.com/" title="Joel on Software"/>
 		<outline text="JOHN HODGMAN" type="rss" xmlUrl="https://www.johnhodgman.com/rss" htmlUrl="https://www.johnhodgman.com/" title="JOHN HODGMAN"/>
+		<outline text="John Moltz's Very Nice Web Site" type="rss" xmlUrl="https://verynicewebsite.net/feed/atom/" htmlUrl="https://verynicewebsite.net/" title="John Moltz's Very Nice Web Site"/>
 		<outline text="johnstark_studio" type="rss" xmlUrl="https://qgesqcymfpqykxgkrxiu.supabase.co/functions/v1/serve-feed?id=840ca07b-24bf-4b8d-83eb-f35ac1ec7bbf" htmlUrl="https://www.instagram.com/johnstark_studio/" title="johnstark_studio"/>
 		<outline text="The Jolly Teapot" type="rss" xmlUrl="https://thejollyteapot.com/feed.rss" htmlUrl="https://thejollyteapot.com/" title="The Jolly Teapot"/>
 		<outline text="Jonathan Coulton" type="rss" xmlUrl="https://www.jonathancoulton.com/feed/" htmlUrl="https://www.jonathancoulton.com/" title="Jonathan Coulton"/>
@@ -346,6 +347,7 @@
 		<outline text="Lichendust" type="rss" xmlUrl="https://lichendust.com/microfeed.xml" htmlUrl="https://lichendust.com/microfeed" title="Lichendust"/>
 		<outline text="light and shadow" type="rss" xmlUrl="https://diana-andraste.tumblr.com/rss" htmlUrl="https://diana-andraste.tumblr.com/" title="light and shadow"/>
 		<outline text="LIGHTHOUSE" type="rss" xmlUrl="https://j-tee.tumblr.com/rss" htmlUrl="https://j-tee.tumblr.com/" title="LIGHTHOUSE"/>
+		<outline text="linapoluna" type="rss" xmlUrl="https://qgesqcymfpqykxgkrxiu.supabase.co/functions/v1/serve-feed?id=f7213028-7206-4a48-a820-e4fbd1a6090f" htmlUrl="https://www.instagram.com/linapoluna/" title="linapoluna"/>
 		<outline text="linseedling" type="rss" xmlUrl="https://linseedling.tumblr.com/rss" htmlUrl="https://linseedling.tumblr.com/" title="linseedling"/>
 		<outline text="Lisa L. Spangenberg" type="rss" xmlUrl="https://www.lisaspangenberg.com/feed/" htmlUrl="https://www.lisaspangenberg.com/" title="Lisa L. Spangenberg"/>
 		<outline text="Liss is More" type="rss" xmlUrl="https://www.caseyliss.com/rss" htmlUrl="https://www.caseyliss.com/" title="Liss is More"/>
@@ -391,8 +393,10 @@
 		<outline text="Melon’s Lil RSS Feed" type="rss" xmlUrl="https://brain.melonking.net/rss" htmlUrl="https://melonking.net/" title="Melon’s Lil RSS Feed"/>
 		<outline text="Melon’s Thoughts" type="rss" xmlUrl="https://thoughts.melonking.net/atom/" htmlUrl="https://thoughts.melonking.net/" title="Melon’s Thoughts"/>
 		<outline text="Melsonia - By This Hack I Rule" type="rss" xmlUrl="https://www.melsonia.com/blogs/by-this-hack-i-rule.atom" htmlUrl="https://www.melsonia.com/blogs/by-this-hack-i-rule" title="Melsonia - By This Hack I Rule"/>
+		<outline text="Memento Mori Theatricks" type="rss" xmlUrl="http://memento-mori.com/blog?format=rss" htmlUrl="http://memento-mori.com/blog/" title="Memento Mori Theatricks"/>
 		<outline text="The Merry Mushmen" type="rss" xmlUrl="https://www.themerrymushmen.com/feed/" htmlUrl="https://www.themerrymushmen.com/" title="The Merry Mushmen"/>
 		<outline text="Meta Stack Exchange" type="rss" xmlUrl="https://meta.stackexchange.com/feeds/tag/company-update" htmlUrl="https://meta.stackexchange.com/questions/tagged?tagnames=company-update&amp;sort=active" title="Meta Stack Exchange"/>
+		<outline text="Meta Stack Overflow" type="rss" xmlUrl="https://meta.stackoverflow.com/feeds/tag/company-update" htmlUrl="https://meta.stackoverflow.com/questions/tagged?tagnames=company-update&amp;sort=active" title="Meta Stack Overflow"/>
 		<outline text="Mgnx." type="rss" xmlUrl="https://grundoonmgnx.tumblr.com/rss" htmlUrl="https://grundoonmgnx.tumblr.com/" title="Mgnx."/>
 		<outline text="Michael Cisco" type="rss" xmlUrl="https://bsky.app/profile/did:plc:ahxvvsemrz6kdciexqmw4g5r/rss" htmlUrl="https://bsky.app/profile/michaelcisco.bsky.social" title="Michael Cisco"/>
 		<outline text="Michael Heilemann" type="rss" xmlUrl="https://binarybonsai.com/blog?format=rss" htmlUrl="https://binarybonsai.com/" title="Michael Heilemann"/>
@@ -525,8 +529,8 @@
 		<outline text="Robert (Bob) Bosch" type="rss" xmlUrl="https://mathstodon.xyz/@baabbaash.rss" htmlUrl="https://mathstodon.xyz/@baabbaash" title="Robert (Bob) Bosch"/>
 		<outline text="Robert M Price" type="rss" xmlUrl="https://www.robertmprice.mindvendor.com/zblog/feed/" htmlUrl="https://www.robertmprice.mindvendor.com/zblog" title="Robert M Price"/>
 		<outline text="Robin Rendle" type="rss" xmlUrl="https://robinrendle.com/feed.xml" htmlUrl="https://robinrendle.com/" title="Robin Rendle"/>
-		<outline text="robotspacer’s adventure corner" type="rss" xmlUrl="https://robotspacer.tv/rss/" htmlUrl="https://robotspacer.tv/" title="robotspacer’s adventure corner"/>
 		<outline text="RORY BLANK" type="rss" xmlUrl="https://www.kingofblood.com/rss" htmlUrl="https://www.kingofblood.com/" title="RORY BLANK"/>
+		<outline text="rosechoreographicschool" type="rss" xmlUrl="https://qgesqcymfpqykxgkrxiu.supabase.co/functions/v1/serve-feed?id=b17dbfd3-366b-4ae6-b0a4-d01b5f465d79" htmlUrl="https://www.instagram.com/rosechoreographicschool/" title="rosechoreographicschool"/>
 		<outline text="Roy Scholten" type="rss" xmlUrl="https://blog.royscholten.nl/posts/index.xml" htmlUrl="https://blog.royscholten.nl/posts/" title="Roy Scholten"/>
 		<outline text="Ryan Veeder" type="rss" xmlUrl="https://www.rcveeder.net/blog/feed/" htmlUrl="https://www.rcveeder.net/blog" title="Ryan Veeder"/>
 		<outline text="S.T. CARTLEDGE" type="rss" xmlUrl="https://themanifold.wordpress.com/feed/" htmlUrl="https://themanifold.wordpress.com/" title="S.T. CARTLEDGE"/>

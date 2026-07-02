@@ -2,18 +2,22 @@
 title: Vodroll
 ---
 
+- [Agoric Cafe](https://www.youtube.com/channel/UC1cwWjCbxOFOG-6IL65Qxvg)
 - [Alfred Valley](https://www.youtube.com/channel/UCGdZCiy0njLA7DsSEcUo5PQ)
 - [bobvids](https://www.youtube.com/channel/UCY3dk5-6NtOsWjMs_iXvQBA)
 - [Cabel Sasser](https://www.youtube.com/channel/UCuyq9eVFm5lW3rQlzMIA09Q)
 - [Crispin Sartwell](https://www.youtube.com/channel/UCT1l2isvI1FwrkERpJAW_oQ)
 - [Defunctland](https://www.youtube.com/channel/UCVo63lbKHjC04KqYhwSZ_Pg)
+- [Defunctland After Dark](https://www.youtube.com/channel/UCqQazlAQRGiTA2HM2Ii9iCg)
 - [Evan Dahm](https://www.youtube.com/channel/UC5rNZSB9kiNp9ds2m-aln1Q)
 - [Felix Colgrave](https://www.youtube.com/channel/UCO7fujFV_MuxTM0TuZrnE6Q)
 - [Fiendly](https://www.youtube.com/channel/UCB10EJezl9p1Y7BCi9dcSPQ)
 - [Folding Ideas](https://www.youtube.com/channel/UCyNtlmLB73-7gtlBz00XOQQ)
 - [Fredrik Knudsen](https://www.youtube.com/channel/UCbWcXB0PoqOsAvAdfzWMf0w)
+- [H\.BurgerGuy](https://www.youtube.com/channel/UCIPqOTYW439-5hUz6r3U1fA)
 - [hbomberguy](https://www.youtube.com/channel/UClt01z1wHHT7c5lKcU8pxRQ)
 - [Hydraulic Beanbag](https://www.youtube.com/channel/UC_54BddY_xCboN2ktKg_yjw)
+- [Hydraulic Trashbag](https://www.youtube.com/channel/UCpaZzcbzQ0ylxxVsYbE8P3w)
 - [Jenny Nicholson](https://www.youtube.com/channel/UC7-E5xhZBZdW-8d7V80mzfg)
 - [pannenkoek2012](https://www.youtube.com/channel/UCMm211NGh4Ls5SAMZJF7E8A)
 - [Patrick Alexander’s World of Content](https://www.youtube.com/channel/UCIvyzk7PFDb-rbRs9Jqdziw)

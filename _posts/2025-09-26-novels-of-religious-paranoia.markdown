@@ -24,6 +24,7 @@ Then you suffer*
 - Angela Carter, *The Infernal Desire Machines of Doctor Hoffman*
 - Anna Kavan, *Ice*
 - Annie Neugebauer, *The Extra*
+- Ansgar Allen, *Plague Theatre*
 - Anthony Oliveira, *Dayspring*
 - Anthony Trevino, *King Space Void*
 - Antoine Volodine, *The Monroe Girls*
@@ -73,6 +74,7 @@ Then you suffer*
 - J.G. Ballard, *The Crystal World*
 - J. Peter W., *Giraffe Carcass*
 - Jacques Sternberg, *The Employee*
+- Jean Lahougue, *Vacated Landscape*
 - Jeff VanderMeer, *Annihilation*
 - Jeremy Robert Johnson, *In The River*
 - Joe Orton, *Head to Toe*
