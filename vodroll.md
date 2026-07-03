@@ -4,6 +4,7 @@ title: Vodroll
 
 - [Agoric Cafe](https://www.youtube.com/channel/UC1cwWjCbxOFOG-6IL65Qxvg)
 - [Alfred Valley](https://www.youtube.com/channel/UCGdZCiy0njLA7DsSEcUo5PQ)
+- [Algorithmic Pattern](https://www.youtube.com/channel/UCxeuatjNkYV1k3B-lCTj08Q)
 - [bobvids](https://www.youtube.com/channel/UCY3dk5-6NtOsWjMs_iXvQBA)
 - [Cabel Sasser](https://www.youtube.com/channel/UCuyq9eVFm5lW3rQlzMIA09Q)
 - [Crispin Sartwell](https://www.youtube.com/channel/UCT1l2isvI1FwrkERpJAW_oQ)
