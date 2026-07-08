@@ -5,6 +5,7 @@ title: Vodroll
 - [Agoric Cafe](https://www.youtube.com/channel/UC1cwWjCbxOFOG-6IL65Qxvg)
 - [Alfred Valley](https://www.youtube.com/channel/UCGdZCiy0njLA7DsSEcUo5PQ)
 - [Algorithmic Pattern](https://www.youtube.com/channel/UCxeuatjNkYV1k3B-lCTj08Q)
+- [bleeptrack](https://www.youtube.com/channel/UCyFQ1G1za8f4FIv2D9gwXrg)
 - [bobvids](https://www.youtube.com/channel/UCY3dk5-6NtOsWjMs_iXvQBA)
 - [Cabel Sasser](https://www.youtube.com/channel/UCuyq9eVFm5lW3rQlzMIA09Q)
 - [Crispin Sartwell](https://www.youtube.com/channel/UCT1l2isvI1FwrkERpJAW_oQ)
@@ -25,3 +26,4 @@ title: Vodroll
 - [RedLetterMedia](https://www.youtube.com/channel/UCrTNhL_yO3tPTdQ5XgmmWjA)
 - [Reverend](https://www.youtube.com/channel/UCS_K48MJ4gsydVqiQnPdhAA)
 - [Saki Doing Things](https://www.youtube.com/channel/UCQfLS8vL1bK553pPKaoMO_g)
+- [A Stray Catalyst](https://www.youtube.com/channel/UCkCB2kI_EW5wqvX2do9CsfQ)

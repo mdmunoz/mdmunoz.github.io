@@ -4,7 +4,6 @@ title: Podroll
 
 <a href="/podroll.opml" download>Download OPML file</a>
 
-- Action Castle and other Parsely Games\! \(from The Incomparable Game Show\) \[[feed](https://feeds.theincomparable.com/gameshow/actioncastle)\]
 - Adventure Tourism \[[feed](https://anchor.fm/s/7f9c0b88/podcast/rss)\]
 - Agnus: The Late Antique, Medieval, and Byzantine Podcast \[[feed](https://anchor.fm/s/108e51c4/podcast/rss)\]
 - Alex Schroeder: Halberds & Helmets \[[feed](https://alexschroeder.ch/podcast/hh.xml)\]
@@ -23,7 +22,6 @@ title: Podroll
 - Blogs on Tape \[[feed](http://blogsontape.paperspencils.com/feed/podcast/)\]
 - Books of Some Substance \[[feed](https://rss.libsyn.com/shows/78110/destinations/353630.xml)\]
 - Brain Trust \[[feed](https://anchor.fm/s/1c67e384/podcast/rss)\]
-- Brute Force \[[feed](http://feeds.feedburner.com/BruteForcePodcast)\]
 - The Clockwork Game Design Podcast \[[feed](http://keithburgun.net/feed/podcast/)\]
 - The Collidescope Podcast \[[feed](https://rss.buzzsprout.com/1849671.rss)\]
 - Concavity Show \[[feed](https://feed.podbean.com/greatconcavity/feed.xml)\]
@@ -40,7 +38,6 @@ title: Podroll
 - flat art show \[[feed](https://feeds.soundcloud.com/users/soundcloud:users:85051306/sounds.rss)\]
 - Game Studies Study Buddies \[[feed](http://rangedtouch.com/category/gamestudiesstudybuddies/feed/)\]
 - Great Lakes Lore \[[feed](https://pinecast.com/feed/great-lakes-lore)\]
-- GUTTER \[[feed](https://feeds.redcircle.com/ee75ddf7-4771-4af4-af75-a6e7815119ec)\]
 - Hypercritical \[[feed](https://feeds.fireside.fm/hypercritical/rss)\]
 - Internet Office Hours: Role\-Playing Games\! \[[feed](https://campaignwiki.org/files/internet-office-hours.xml)\]
 - Into the Megadungeon \[[feed](https://anchor.fm/s/d9a089c4/podcast/rss)\]
@@ -54,7 +51,6 @@ title: Podroll
 - Medieval Death Trip \[[feed](https://www.medievaldeathtrip.com/?feed=podcast)\]
 - Milk the Funk “The Podcast” \[[feed](https://www.milkthefunk.live/podcast?format=rss)\]
 - Molly White's Citation Needed \[[feed](https://www.spreaker.com/show/6019906/episodes/feed)\]
-- NeoScum \[[feed](https://feeds.redcircle.com/1951c226-57bc-4bc3-9aa5-6ecc77029b8a)\]
 - New Testament Review \[[feed](https://feeds.soundcloud.com/users/soundcloud:users:439505514/sounds.rss)\]
 - Not Worth Living \[[feed](https://anchor.fm/s/db42af78/podcast/rss)\]
 - NT Pod \[[feed](https://feeds2.feedburner.com/NTPod)\]
@@ -73,7 +69,6 @@ title: Podroll
 - Solve This Murder \[[feed](https://feed.podbean.com/www.solvethismurder.com/feed.xml)\]
 - Sword Breaker \[[feed](https://anchor.fm/s/6ee6424/podcast/rss)\]
 - Tales of What\!? \- A Bizarro Fiction Thing \[[feed](https://feeds.acast.com/public/shows/07b34429-3ba6-4992-b8ad-a427296cc1a1)\]
-- þ thorns þ \[[feed](https://feeds.acast.com/public/shows/664dc7427536b60011a0bd00)\]
 - Trampoline Hall \[[feed](https://feeds.acast.com/public/shows/b0e660b5-a673-467e-8349-174078239145)\]
 - Trophy \[[feed](https://rss.libsyn.com/shows/212855/destinations/1539077.xml)\]
 - Unburied Books \[[feed](https://feeds.castos.com/omd6j)\]
