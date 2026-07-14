@@ -33,10 +33,13 @@
 		<outline text="The Dinofarm Community Podcast" type="rss" xmlUrl="http://dinofarmgames.com/feed/podcast/" title="The Dinofarm Community Podcast"/>
 		<outline text="Discern Realities" type="rss" xmlUrl="https://rss.libsyn.com/shows/75171/destinations/331747.xml" title="Discern Realities"/>
 		<outline text="Elder Sign: A Weird Fiction Podcast" type="rss" xmlUrl="https://anchor.fm/s/7b3f1ad0/podcast/rss" title="Elder Sign: A Weird Fiction Podcast"/>
+		<outline text="Exposing PseudoAstronomy" type="rss" xmlUrl="https://podcast.sjrdesign.net/pseudoastropodcast.rss" title="Exposing PseudoAstronomy"/>
 		<outline text="Fate of the Arts, with Anthony Etherin" type="rss" xmlUrl="https://api.substack.com/feed/podcast/1706790/s/318928.rss" title="Fate of the Arts, with Anthony Etherin"/>
 		<outline text="Fear of a Black Dragon" type="rss" xmlUrl="https://rss.libsyn.com/shows/103241/destinations/549775.xml" title="Fear of a Black Dragon"/>
 		<outline text="flat art show" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:85051306/sounds.rss" title="flat art show"/>
+		<outline text="Foofaraw Frequencies" type="rss" xmlUrl="https://rss.buzzsprout.com/2514369.rss" title="Foofaraw Frequencies"/>
 		<outline text="Game Studies Study Buddies" type="rss" xmlUrl="http://rangedtouch.com/category/gamestudiesstudybuddies/feed/" title="Game Studies Study Buddies"/>
+		<outline text="Goblin’s Henchman" type="rss" xmlUrl="https://anchor.fm/s/7d26480/podcast/rss" title="Goblin’s Henchman"/>
 		<outline text="Great Lakes Lore" type="rss" xmlUrl="https://pinecast.com/feed/great-lakes-lore" title="Great Lakes Lore"/>
 		<outline text="Hypercritical" type="rss" xmlUrl="https://feeds.fireside.fm/hypercritical/rss" title="Hypercritical"/>
 		<outline text="Internet Office Hours: Role-Playing Games!" type="rss" xmlUrl="https://campaignwiki.org/files/internet-office-hours.xml" title="Internet Office Hours: Role-Playing Games!"/>
@@ -52,6 +55,7 @@
 		<outline text="Milk the Funk “The Podcast”" type="rss" xmlUrl="https://www.milkthefunk.live/podcast?format=rss" title="Milk the Funk “The Podcast”"/>
 		<outline text="Molly White's Citation Needed" type="rss" xmlUrl="https://www.spreaker.com/show/6019906/episodes/feed" title="Molly White's Citation Needed"/>
 		<outline text="New Testament Review" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:439505514/sounds.rss" title="New Testament Review"/>
+		<outline text="Nihilist Podcast Network" type="rss" xmlUrl="https://feeds.simplecast.com/5dMN2Boh" title="Nihilist Podcast Network"/>
 		<outline text="Not Worth Living" type="rss" xmlUrl="https://anchor.fm/s/db42af78/podcast/rss" title="Not Worth Living"/>
 		<outline text="NT Pod" type="rss" xmlUrl="https://feeds2.feedburner.com/NTPod" title="NT Pod"/>
 		<outline text="The Outer Dark" type="rss" xmlUrl="https://www.thisishorror.co.uk/feed/theouterdark/" title="The Outer Dark"/>
@@ -60,12 +64,14 @@
 		<outline text="The Penteract Podcast" type="rss" xmlUrl="https://feeds.buzzsprout.com/834940.rss" title="The Penteract Podcast"/>
 		<outline text="Play Dead" type="rss" xmlUrl="https://anchor.fm/s/d21ebe14/podcast/rss" title="Play Dead"/>
 		<outline text="Plumbing Game Studies" type="rss" xmlUrl="https://feeds.captivate.fm/do-things-with-words/" title="Plumbing Game Studies"/>
+		<outline text="Point Crawl Podcast" type="rss" xmlUrl="http://www.connorsb.com/pointcrawl/?format=rss" title="Point Crawl Podcast"/>
 		<outline text="Roguelike Radio" type="rss" xmlUrl="https://feeds.feedburner.com/RoguelikeRadio" title="Roguelike Radio"/>
 		<outline text="The Saucer Life" type="rss" xmlUrl="https://pinecast.com/feed/the-saucer-life" title="The Saucer Life"/>
 		<outline text="SFUltra" type="rss" xmlUrl="https://rss.libsyn.com/shows/99804/destinations/523386.xml" title="SFUltra"/>
 		<outline text="Ship of the Dead Podcast" type="rss" xmlUrl="https://feeds.simplecast.com/kjD0nfbj" title="Ship of the Dead Podcast"/>
 		<outline text="The Signum Scene" type="rss" xmlUrl="https://feeds.fireside.fm/signumsymposia/rss" title="The Signum Scene"/>
 		<outline text="Sirlin.Net - Game Design" type="rss" xmlUrl="https://sirlin.squarespace.com/?format=rss&amp;category=Podcast" title="Sirlin.Net - Game Design"/>
+		<outline text="Skeleton Songs" type="rss" xmlUrl="https://rss.buzzsprout.com/815926.rss" title="Skeleton Songs"/>
 		<outline text="Solve This Murder" type="rss" xmlUrl="https://feed.podbean.com/www.solvethismurder.com/feed.xml" title="Solve This Murder"/>
 		<outline text="Sword Breaker" type="rss" xmlUrl="https://anchor.fm/s/6ee6424/podcast/rss" title="Sword Breaker"/>
 		<outline text="Tales of What!? - A Bizarro Fiction Thing" type="rss" xmlUrl="https://feeds.acast.com/public/shows/07b34429-3ba6-4992-b8ad-a427296cc1a1" title="Tales of What!? - A Bizarro Fiction Thing"/>
@@ -76,7 +82,6 @@
 		<outline text="Unwritten Earths Symposium" type="rss" xmlUrl="https://feeds.fireside.fm/unwrittenearths/rss" title="Unwritten Earths Symposium"/>
 		<outline text="Voluminous: The Letters of H.P. Lovecraft" type="rss" xmlUrl="https://rss.libsyn.com/shows/223031/destinations/1629950.xml" title="Voluminous: The Letters of H.P. Lovecraft"/>
 		<outline text="WAKE ISLAND" type="rss" xmlUrl="https://anchor.fm/s/ee865a8/podcast/rss" title="WAKE ISLAND"/>
-		<outline text="Weird Studies" type="rss" xmlUrl="https://feeds.megaphone.fm/IMP7332460748" title="Weird Studies"/>
 		<outline text="Wooden Overcoats" type="rss" xmlUrl="https://feeds.megaphone.fm/woodenovercoats" title="Wooden Overcoats"/>
 	</body>
 </opml>

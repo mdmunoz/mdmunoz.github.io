@@ -34,6 +34,7 @@ As a follow-up to [the previous post](/novels-of-religious-paranoia.html), hereâ
 - Ingmar Bergman, *The Seventh Seal*
 - Jan Å vankmajer, *Faust*
 - Jens Lien, *The Bothersome Man*
+- Jim Henson, *The Cube*
 - John Carpenter, *Cigarette Burns*
 - Jordan Peele, *Nope*
 - Julia Ducournau, *Titane*
