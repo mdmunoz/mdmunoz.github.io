@@ -124,11 +124,12 @@ Then you suffer*
 - Rita Indiana, *Tentacle*
 - Robert Aickman, *The Model*
 - Robert Shea and Robert Anton Wilson, *Illuminatus!*
+- S.T. Cartledge, *The Orphanarium*
 - Salman Rushdie, *The Satanic Verses*
 - Samuel R. Delany, *Dhalgren*
 - Scott R. Jones, *DRILL*
 - Sebastian Castillo, *Salmon*
-- S.T. Cartledge, *The Orphanarium*
+- Simón López Trujillo, *Pedro the Vast*
 - Sjón, *The Blue Fox*
 - Stanisław Lem, *Solaris*
 - Susanna Clarke, *Piranesi*
