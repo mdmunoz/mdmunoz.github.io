@@ -4,6 +4,7 @@ title: Vodroll
 
 - [Alfred Valley](https://www.youtube.com/channel/UCGdZCiy0njLA7DsSEcUo5PQ/videos)
 - [bleeptrack](https://www.youtube.com/channel/UCyFQ1G1za8f4FIv2D9gwXrg/videos)
+- [bobvids](https://www.youtube.com/channel/UCY3dk5-6NtOsWjMs_iXvQBA/videos)
 - [Crispin Sartwell](https://www.youtube.com/channel/UCT1l2isvI1FwrkERpJAW_oQ/videos)
 - [Felix Colgrave](https://www.youtube.com/channel/UCO7fujFV_MuxTM0TuZrnE6Q/videos)
 - [Fiendly](https://www.youtube.com/channel/UCB10EJezl9p1Y7BCi9dcSPQ/videos)
