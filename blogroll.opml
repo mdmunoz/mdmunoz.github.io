@@ -50,8 +50,8 @@
 		<outline text="days slip away like drips from a leaking faucet" type="rss" xmlUrl="https://dripdropdripdropdripdrop.blogspot.com/feeds/posts/default" htmlUrl="https://dripdropdripdropdripdrop.blogspot.com/" title="days slip away like drips from a leaking faucet"/>
 		<outline text="dead      pan" type="rss" xmlUrl="https://michaelcisco.blogspot.com/feeds/posts/default" htmlUrl="https://michaelcisco.blogspot.com/" title="dead      pan"/>
 		<outline text="DEADITE PRESS" type="rss" xmlUrl="https://deaditepress.com/feed/" htmlUrl="https://deaditepress.com/" title="DEADITE PRESS"/>
-		<outline text="Deontologistics" type="rss" xmlUrl="https://deontologistics.substack.com/feed" htmlUrl="https://deontologistics.substack.com/" title="Deontologistics"/>
 		<outline text="DEONTOLOGISTICS" type="rss" xmlUrl="https://deontologistics.co/feed/" htmlUrl="https://deontologistics.co/" title="DEONTOLOGISTICS"/>
+		<outline text="Deontologistics" type="rss" xmlUrl="https://deontologistics.substack.com/feed" htmlUrl="https://deontologistics.substack.com/" title="Deontologistics"/>
 		<outline text="derek beaulieu's blog" type="rss" xmlUrl="https://derekbeaulieu.ca/feed/" htmlUrl="https://derekbeaulieu.ca/" title="derek beaulieu's blog"/>
 		<outline text="design reboot" type="rss" xmlUrl="https://designreboot.blogspot.com/feeds/posts/default" htmlUrl="https://designreboot.blogspot.com/" title="design reboot"/>
 		<outline text="Dispatches" type="rss" xmlUrl="http://www.connorsb.com/dispatches?format=rss" htmlUrl="http://www.connorsb.com/dispatches/" title="Dispatches"/>
@@ -103,7 +103,6 @@
 		<outline text="Keith James Comics" type="rss" xmlUrl="https://keithjamescomics.tumblr.com/rss" htmlUrl="https://keithjamescomics.tumblr.com/" title="Keith James Comics"/>
 		<outline text="Kids Prefer Cheese" type="rss" xmlUrl="http://mungowitzend.blogspot.com/feeds/posts/default" htmlUrl="http://mungowitzend.blogspot.com/" title="Kids Prefer Cheese"/>
 		<outline text="lapsus linguae" type="rss" xmlUrl="https://luckysoap.com/lapsuslinguae/feed/" htmlUrl="https://luckysoap.com/lapsuslinguae" title="lapsus linguae"/>
-		<outline text="Let's Play Archive News" type="rss" xmlUrl="https://lparchive.org/newsrss" htmlUrl="https://lparchive.org/" title="Let's Play Archive News"/>
 		<outline text="Lia Pas" type="rss" xmlUrl="https://liapas.com/feed/" htmlUrl="https://liapas.com/" title="Lia Pas"/>
 		<outline text="LMNT" type="rss" xmlUrl="https://lmnt.me/feed.xml" htmlUrl="https://lmnt.me/" title="LMNT"/>
 		<outline text="Lost Pages" type="rss" xmlUrl="https://tsojcanth.wordpress.com/feed/" htmlUrl="https://tsojcanth.wordpress.com/" title="Lost Pages"/>
@@ -183,6 +182,7 @@
 		<outline text="Tony Tran RPG" type="rss" xmlUrl="https://tonytranrpg.com/feed" htmlUrl="https://tonytranrpg.com/" title="Tony Tran RPG"/>
 		<outline text="TRIAC" type="rss" xmlUrl="https://triac8bit.wordpress.com/feed/" htmlUrl="https://triac8bit.wordpress.com/" title="TRIAC"/>
 		<outline text="Trilemma Adventures" type="rss" xmlUrl="https://blog.trilemma.com/feeds/posts/default" htmlUrl="https://blog.trilemma.com/" title="Trilemma Adventures"/>
+		<outline text="True Chip Till Death" type="rss" xmlUrl="https://truechiptilldeath.com/feed.xml" htmlUrl="https://truechiptilldeath.com/" title="True Chip Till Death"/>
 		<outline text="TW: PET DEATH" type="rss" xmlUrl="https://twpetdeath.thecomicseries.com/rss/" htmlUrl="https://twpetdeath.thecomicseries.com/" title="TW: PET DEATH"/>
 		<outline text="Ubiktune Latest News" type="rss" xmlUrl="https://ubiktune.com/feed" htmlUrl="https://ubiktune.com/" title="Ubiktune Latest News"/>
 		<outline text="Uncomics" type="rss" xmlUrl="https://uncomics.org/feed.xml" htmlUrl="https://uncomics.org/" title="Uncomics"/>

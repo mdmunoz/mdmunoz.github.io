@@ -16,18 +16,24 @@
 		<outline text="Bizzong! The Weird and Wacky Fiction Podcast" type="rss" xmlUrl="https://rss.libsyn.com/shows/89423/destinations/441682.xml" htmlUrl="https://podcasts.apple.com/podcast/1078467710" title="Bizzong! The Weird and Wacky Fiction Podcast"/>
 		<outline text="Books of Some Substance" type="rss" xmlUrl="https://rss.libsyn.com/shows/78110/destinations/353630.xml" htmlUrl="https://podcasts.apple.com/podcast/1086291292" title="Books of Some Substance"/>
 		<outline text="Brain Trust" type="rss" xmlUrl="https://anchor.fm/s/1c67e384/podcast/rss" htmlUrl="https://podcasts.apple.com/podcast/1473715893" title="Brain Trust"/>
+		<outline text="Clash of the Type-Ins" type="rss" xmlUrl="http://www.rcveeder.net/clash/ofthe/typeins.xml" htmlUrl="https://podcasts.apple.com/podcast/815503884" title="Clash of the Type-Ins"/>
 		<outline text="The Clockwork Game Design Podcast" type="rss" xmlUrl="http://keithburgun.net/feed/podcast/" htmlUrl="https://podcasts.apple.com/podcast/1048826488" title="The Clockwork Game Design Podcast"/>
 		<outline text="The Collidescope Podcast" type="rss" xmlUrl="https://rss.buzzsprout.com/1849671.rss" htmlUrl="https://podcasts.apple.com/podcast/1585679447" title="The Collidescope Podcast"/>
 		<outline text="Concavity Show" type="rss" xmlUrl="https://feed.podbean.com/greatconcavity/feed.xml" htmlUrl="https://podcasts.apple.com/podcast/1048764063" title="Concavity Show"/>
+		<outline text="describe world" type="rss" xmlUrl="https://feeds.castos.com/9qo4v" htmlUrl="https://podcasts.apple.com/podcast/1832849606" title="describe world"/>
 		<outline text="Design Doc" type="rss" xmlUrl="https://feeds.megaphone.fm/designdoc" htmlUrl="https://podcasts.apple.com/podcast/1298080097" title="Design Doc"/>
 		<outline text="Design Games" type="rss" xmlUrl="https://feeds.simplecast.com/3zDulnG5" htmlUrl="https://podcasts.apple.com/podcast/1027092691" title="Design Games"/>
 		<outline text="Fate of the Arts, with Anthony Etherin" type="rss" xmlUrl="https://api.substack.com/feed/podcast/1706790/s/318928.rss" htmlUrl="https://podcasts.apple.com/podcast/1868004363" title="Fate of the Arts, with Anthony Etherin"/>
 		<outline text="Fear of a Black Dragon" type="rss" xmlUrl="https://rss.libsyn.com/shows/103241/destinations/549775.xml" htmlUrl="https://podcasts.apple.com/podcast/1264621106" title="Fear of a Black Dragon"/>
+		<outline text="The Fitzcarraldo Editions Archive" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:452338560/sounds.rss" htmlUrl="https://podcasts.apple.com/podcast/1688756594" title="The Fitzcarraldo Editions Archive"/>
 		<outline text="flat art show" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:85051306/sounds.rss" title="flat art show"/>
+		<outline text="Game Studies Study Buddies" type="rss" xmlUrl="http://rangedtouch.com/category/gamestudiesstudybuddies/feed/" htmlUrl="https://podcasts.apple.com/podcast/1396219721" title="Game Studies Study Buddies"/>
 		<outline text="Hypercritical" type="rss" xmlUrl="https://feeds.fireside.fm/hypercritical/rss" htmlUrl="https://podcasts.apple.com/podcast/414920759" title="Hypercritical"/>
 		<outline text="Into the Megadungeon" type="rss" xmlUrl="https://anchor.fm/s/d9a089c4/podcast/rss" htmlUrl="https://podcasts.apple.com/podcast/1698032870" title="Into the Megadungeon"/>
 		<outline text="Judge John Hodgman" type="rss" xmlUrl="https://feeds.simplecast.com/q8x9cVws" htmlUrl="https://podcasts.apple.com/podcast/337713843" title="Judge John Hodgman"/>
+		<outline text="The Long Library" type="rss" xmlUrl="https://rss.libsyn.com/shows/508008/destinations/4355738.xml" htmlUrl="https://podcasts.apple.com/podcast/1728489774" title="The Long Library"/>
 		<outline text="The Lovecraft Geek" type="rss" xmlUrl="https://app.talkshoe.com/rss-the-lovecraft-geek.xml" htmlUrl="https://podcasts.apple.com/podcast/711576229" title="The Lovecraft Geek"/>
+		<outline text="Making Games" type="rss" xmlUrl="https://media.rss.com/making-games/feed.xml" htmlUrl="https://podcasts.apple.com/podcast/1896884077" title="Making Games"/>
 		<outline text="A Meal of Thorns" type="rss" xmlUrl="https://ancillaryreviewofbooks.org/category/a-meal-of-thorns/feed/" htmlUrl="https://podcasts.apple.com/podcast/1754954270" title="A Meal of Thorns"/>
 		<outline text="Medieval Death Trip" type="rss" xmlUrl="https://www.medievaldeathtrip.com/?feed=podcast" htmlUrl="https://podcasts.apple.com/podcast/935794447" title="Medieval Death Trip"/>
 		<outline text="Milk the Funk “The Podcast”" type="rss" xmlUrl="https://www.milkthefunk.live/podcast?format=rss" htmlUrl="https://podcasts.apple.com/podcast/1325220033" title="Milk the Funk “The Podcast”"/>
@@ -39,9 +45,10 @@
 		<outline text="Panic Podcast" type="rss" xmlUrl="https://podcast.panic.com/index.xml" htmlUrl="https://podcasts.apple.com/podcast/1495115716" title="Panic Podcast"/>
 		<outline text="The Penteract Podcast" type="rss" xmlUrl="https://feeds.buzzsprout.com/834940.rss" htmlUrl="https://podcasts.apple.com/podcast/1498654536" title="The Penteract Podcast"/>
 		<outline text="Play Dead" type="rss" xmlUrl="https://anchor.fm/s/d21ebe14/podcast/rss" htmlUrl="https://podcasts.apple.com/podcast/1513744383" title="Play Dead"/>
+		<outline text="Plumbing Game Studies" type="rss" xmlUrl="https://feeds.captivate.fm/do-things-with-words/" htmlUrl="https://podcasts.apple.com/podcast/1734827141" title="Plumbing Game Studies"/>
 		<outline text="Roguelike Radio" type="rss" xmlUrl="https://feeds.feedburner.com/RoguelikeRadio" htmlUrl="https://podcasts.apple.com/podcast/461288283" title="Roguelike Radio"/>
 		<outline text="The Saucer Life" type="rss" xmlUrl="https://pinecast.com/feed/the-saucer-life" htmlUrl="https://podcasts.apple.com/podcast/1269134032" title="The Saucer Life"/>
-		<outline text="SFUltra" type="rss" xmlUrl="https://rss.libsyn.com/shows/99804/destinations/523386.xml" htmlUrl="https://podcasts.apple.com/podcast/1241776225" title="SFUltra"/>
+		<outline text="SFUltra" type="rss" xmlUrl="https://rss.libsyn.com/shows/99804/destinations/523386.xml" htmlUrl="https://podcasts.apple.com/podcast/1729016150" title="SFUltra"/>
 		<outline text="The Signum Scene" type="rss" xmlUrl="https://feeds.fireside.fm/signumsymposia/rss" htmlUrl="https://podcasts.apple.com/podcast/1438161724" title="The Signum Scene"/>
 		<outline text="Skeleton Songs" type="rss" xmlUrl="https://rss.buzzsprout.com/815926.rss" htmlUrl="https://podcasts.apple.com/podcast/1495835495" title="Skeleton Songs"/>
 		<outline text="Trampoline Hall" type="rss" xmlUrl="https://feeds.acast.com/public/shows/b0e660b5-a673-467e-8349-174078239145" htmlUrl="https://podcasts.apple.com/podcast/1190668782" title="Trampoline Hall"/>

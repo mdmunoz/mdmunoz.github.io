@@ -115,6 +115,7 @@ Then you suffer*
 - Olga Ravn, *The Employees*
 - Otto Julius Bierbaum, *Samalio Pardulus*
 - Patrick Stuart, *Queen Mab’s Palace*
+- Paul Auster, *City of Glass*
 - Paul Curran, *Left Hand*
 - Philip K. Dick, *The Transmigration of Timothy Archer*
 - Ralph Ellison, *Invisible Man*

@@ -4,12 +4,13 @@
 		<title>Matthew Muñoz’ Vodroll</title>
 	</head>
 	<body>
+		<outline text="Agoric Cafe" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1cwWjCbxOFOG-6IL65Qxvg" htmlUrl="https://www.youtube.com/channel/UC1cwWjCbxOFOG-6IL65Qxvg/videos" title="Agoric Cafe"/>
 		<outline text="Alfred Valley" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGdZCiy0njLA7DsSEcUo5PQ" htmlUrl="https://www.youtube.com/channel/UCGdZCiy0njLA7DsSEcUo5PQ/videos" title="Alfred Valley"/>
+		<outline text="Algorithmic Pattern" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxeuatjNkYV1k3B-lCTj08Q" htmlUrl="https://www.youtube.com/channel/UCxeuatjNkYV1k3B-lCTj08Q/videos" title="Algorithmic Pattern"/>
 		<outline text="bleeptrack" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyFQ1G1za8f4FIv2D9gwXrg" htmlUrl="https://www.youtube.com/channel/UCyFQ1G1za8f4FIv2D9gwXrg/videos" title="bleeptrack"/>
 		<outline text="bobvids" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY3dk5-6NtOsWjMs_iXvQBA" htmlUrl="https://www.youtube.com/channel/UCY3dk5-6NtOsWjMs_iXvQBA/videos" title="bobvids"/>
 		<outline text="Crispin Sartwell" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCT1l2isvI1FwrkERpJAW_oQ" htmlUrl="https://www.youtube.com/channel/UCT1l2isvI1FwrkERpJAW_oQ/videos" title="Crispin Sartwell"/>
 		<outline text="Felix Colgrave" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCO7fujFV_MuxTM0TuZrnE6Q" htmlUrl="https://www.youtube.com/channel/UCO7fujFV_MuxTM0TuZrnE6Q/videos" title="Felix Colgrave"/>
-		<outline text="Fiendly" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCB10EJezl9p1Y7BCi9dcSPQ" htmlUrl="https://www.youtube.com/channel/UCB10EJezl9p1Y7BCi9dcSPQ/videos" title="Fiendly"/>
 		<outline text="Folding Ideas" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyNtlmLB73-7gtlBz00XOQQ" htmlUrl="https://www.youtube.com/channel/UCyNtlmLB73-7gtlBz00XOQQ/videos" title="Folding Ideas"/>
 		<outline text="hbomberguy" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClt01z1wHHT7c5lKcU8pxRQ" htmlUrl="https://www.youtube.com/channel/UClt01z1wHHT7c5lKcU8pxRQ/videos" title="hbomberguy"/>
 		<outline text="Jenny Nicholson" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7-E5xhZBZdW-8d7V80mzfg" htmlUrl="https://www.youtube.com/channel/UC7-E5xhZBZdW-8d7V80mzfg/videos" title="Jenny Nicholson"/>
