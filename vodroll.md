@@ -17,4 +17,5 @@ title: Vodroll
 - [pannenkoek2012](https://www.youtube.com/channel/UCMm211NGh4Ls5SAMZJF7E8A/videos) \[[feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCMm211NGh4Ls5SAMZJF7E8A)\]
 - [Patrick Alexander’s World of Content](https://www.youtube.com/channel/UCIvyzk7PFDb-rbRs9Jqdziw/videos) \[[feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCIvyzk7PFDb-rbRs9Jqdziw)\]
 - [Reverend](https://www.youtube.com/channel/UCS_K48MJ4gsydVqiQnPdhAA/videos) \[[feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCS_K48MJ4gsydVqiQnPdhAA)\]
+- [Roguelike Celebration](https://www.youtube.com/channel/UCKv_QzXft4mD6TXmQBZtzIA/videos) \[[feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCKv_QzXft4mD6TXmQBZtzIA)\]
 - [Saki Doing Things](https://www.youtube.com/channel/UCQfLS8vL1bK553pPKaoMO_g/videos) \[[feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCQfLS8vL1bK553pPKaoMO_g)\]

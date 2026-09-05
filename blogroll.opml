@@ -5,6 +5,7 @@
 	</head>
 	<body>
 		<outline text="&amp;thropocene" type="rss" xmlUrl="https://garybarwin.substack.com/feed" htmlUrl="https://garybarwin.substack.com/" title="&amp;thropocene"/>
+		<outline text="100 Rogues" type="rss" xmlUrl="https://www.100-rogues.com/dev-blog?format=rss" htmlUrl="https://www.100-rogues.com/dev-blog/" title="100 Rogues"/>
 		<outline text="11:11 Press" type="rss" xmlUrl="https://1111press.com/blog?format=rss" htmlUrl="https://1111press.com/blog/" title="11:11 Press"/>
 		<outline text="3rd Voice" type="rss" xmlUrl="https://3rdvoice.tumblr.com/rss" htmlUrl="https://3rdvoice.tumblr.com/" title="3rd Voice"/>
 		<outline text="8bitpeoples" type="rss" xmlUrl="http://www.8bitpeoples.com/news.xml" htmlUrl="http://www.8bitpeoples.com/news" title="8bitpeoples"/>
@@ -82,8 +83,8 @@
 		<outline text="GUTSLUT PRESS" type="rss" xmlUrl="https://gutslutpress.com/feed/" htmlUrl="https://gutslutpress.com/" title="GUTSLUT PRESS"/>
 		<outline text="Haus of Valley" type="rss" xmlUrl="https://alfredvalley.substack.com/feed" htmlUrl="https://alfredvalley.substack.com/" title="Haus of Valley"/>
 		<outline text="Helvetica Blanc" type="rss" xmlUrl="https://helveticablanc.com/feed.xml" htmlUrl="http://www.helveticablanc.com/" title="Helvetica Blanc"/>
-		<outline text="Highland Paranormal Society" type="rss" xmlUrl="https://www.hps.quest/feed" htmlUrl="https://www.hps.quest/" title="Highland Paranormal Society"/>
 		<outline text="Highland Paranormal Society" type="rss" xmlUrl="https://highlandparanormalsociety.tumblr.com/rss" htmlUrl="https://highlandparanormalsociety.tumblr.com/" title="Highland Paranormal Society"/>
+		<outline text="Highland Paranormal Society" type="rss" xmlUrl="https://www.hps.quest/feed" htmlUrl="https://www.hps.quest/" title="Highland Paranormal Society"/>
 		<outline text="Hilarity Comics" type="rss" xmlUrl="https://hilaritycomics.tumblr.com/rss" htmlUrl="https://hilaritycomics.tumblr.com/" title="Hilarity Comics"/>
 		<outline text="Hollow Press" type="rss" xmlUrl="https://hollow-press.net/collections/all.atom" htmlUrl="https://hollow-press.net/collections/all" title="Hollow Press"/>
 		<outline text="The Home Page of Jay Tholen" type="rss" xmlUrl="https://jaytholen.net/rss.xml" htmlUrl="https://jaytholen.net/" title="The Home Page of Jay Tholen"/>
@@ -142,6 +143,7 @@
 		<outline text="The Perry Bible Fellowship" type="rss" xmlUrl="https://pbfcomics.com/feed/" htmlUrl="https://pbfcomics.com/" title="The Perry Bible Fellowship"/>
 		<outline text="Pixel Envy" type="rss" xmlUrl="https://pxlnv.com/feed/json/" htmlUrl="https://pxlnv.com/" title="Pixel Envy"/>
 		<outline text="pjamesstuart" type="rss" xmlUrl="https://pjamesstuart.substack.com/feed" htmlUrl="https://pjamesstuart.substack.com/" title="pjamesstuart"/>
+		<outline text="pketh.org" type="rss" xmlUrl="https://pketh.org/feed.xml" htmlUrl="https://pketh.org/" title="pketh.org"/>
 		<outline text="plastiboo" type="rss" xmlUrl="https://plastiboo.tumblr.com/rss" htmlUrl="https://plastiboo.tumblr.com/" title="plastiboo"/>
 		<outline text="Poetic Program, Typographic System" type="rss" xmlUrl="https://rmfrt.substack.com/feed" htmlUrl="https://rmfrt.substack.com/" title="Poetic Program, Typographic System"/>
 		<outline text="pokemon explorerz!!!" type="rss" xmlUrl="https://explorers.thecomicseries.com/rss/" htmlUrl="https://explorers.thecomicseries.com/" title="pokemon explorerz!!!"/>
@@ -193,8 +195,8 @@
 		<outline text="webcomic name" type="rss" xmlUrl="https://webcomicname.com/rss" htmlUrl="https://webcomicname.com/" title="webcomic name"/>
 		<outline text="What's Up, Fraidycat?" type="rss" xmlUrl="https://fraidyc.at/blog/feed.xml" htmlUrl="https://fraidyc.at/blog/" title="What's Up, Fraidycat?"/>
 		<outline text="Whisk(e)y Tit" type="rss" xmlUrl="https://whiskeytit.com/feed/" htmlUrl="https://whiskeytit.com/" title="Whisk(e)y Tit"/>
-		<outline text="Wizard Thief Fighter" type="rss" xmlUrl="https://wizardthieffighter.substack.com/feed" htmlUrl="https://wizardthieffighter.substack.com/" title="Wizard Thief Fighter"/>
 		<outline text="Wizard Thief Fighter" type="rss" xmlUrl="https://wizardthieffighter.blogspot.com/feeds/posts/default" htmlUrl="https://wizardthieffighter.blogspot.com/" title="Wizard Thief Fighter"/>
+		<outline text="Wizard Thief Fighter" type="rss" xmlUrl="https://wizardthieffighter.substack.com/feed" htmlUrl="https://wizardthieffighter.substack.com/" title="Wizard Thief Fighter"/>
 		<outline text="worm-in-a-rock god" type="rss" xmlUrl="https://wiarg.pseudonymjones.com/feed/" htmlUrl="https://wiarg.pseudonymjones.com/" title="worm-in-a-rock god"/>
 		<outline text="XXYXXY" type="rss" xmlUrl="https://xxyxxy.com/xxyxxy.xml" htmlUrl="https://xxyxxy.com/" title="XXYXXY"/>
 		<outline text="Zedeck Siew's Writing Hours" type="rss" xmlUrl="https://slowlorispress.com/rss" htmlUrl="https://slowlorispress.com/" title="Zedeck Siew's Writing Hours"/>

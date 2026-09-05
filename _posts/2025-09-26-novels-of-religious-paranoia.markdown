@@ -55,6 +55,7 @@ Then you suffer*
 - Flann O’Brien, *The Third Policeman*
 - Flannery O’Connor, *Wise Blood*
 - Franz Kafka, *The Trial*
+- Friedrich Nietzsche, *Thus Spoke Zarathustra*
 - G.K. Chesterton, *The Man Who Was Thursday*
 - Garrett Cook, *Archelon Ranch*
 - Gary Shipley, *Dreams of Amputation*
@@ -144,5 +145,6 @@ Then you suffer*
 - Will Self, *My Idea of Fun*
 - William H. Gass, *Omensetter’s Luck*
 - William S. Burroughs, *Naked Lunch*
+- Zebulon House, *The Psychic Surgeon Assists*
 
 *Cf. [films](/films-of-religious-paranoia.html)*
