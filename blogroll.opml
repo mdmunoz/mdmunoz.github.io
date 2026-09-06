@@ -10,6 +10,7 @@
 		<outline text="3rd Voice" type="rss" xmlUrl="https://3rdvoice.tumblr.com/rss" htmlUrl="https://3rdvoice.tumblr.com/" title="3rd Voice"/>
 		<outline text="8bitpeoples" type="rss" xmlUrl="http://www.8bitpeoples.com/news.xml" htmlUrl="http://www.8bitpeoples.com/news" title="8bitpeoples"/>
 		<outline text="Abstract Comics" type="rss" xmlUrl="https://abstractcomics.blogspot.com/feeds/posts/default" htmlUrl="https://abstractcomics.blogspot.com/" title="Abstract Comics"/>
+		<outline text="Affording Play" type="rss" xmlUrl="https://mkremins.github.io/atom.xml" htmlUrl="http://mkremins.github.io/" title="Affording Play"/>
 		<outline text="African Alchemy" type="rss" xmlUrl="https://africanalchemy.wordpress.com/feed/" htmlUrl="https://africanalchemy.wordpress.com/" title="African Alchemy"/>
 		<outline text="Alpaca" type="rss" xmlUrl="https://algorithmicpattern.org/feed/" htmlUrl="https://algorithmicpattern.org/" title="Alpaca"/>
 		<outline text="Anthony Etherin Poetry" type="rss" xmlUrl="https://anthonyetherin.substack.com/feed" htmlUrl="https://anthonyetherin.substack.com/" title="Anthony Etherin Poetry"/>
@@ -17,6 +18,7 @@
 		<outline text="Austro-Athenian Empire" type="rss" xmlUrl="https://aaeblog.com/feed/" htmlUrl="https://aaeblog.com/" title="Austro-Athenian Empire"/>
 		<outline text="BACK" type="rss" xmlUrl="https://backcomic.com/rss.xml" htmlUrl="http://backcomic.com/" title="BACK"/>
 		<outline text="Backwards Tabletop" type="rss" xmlUrl="https://www.backwardstabletop.com/rss/" htmlUrl="https://www.backwardstabletop.com/" title="Backwards Tabletop"/>
+		<outline text="BASTIONLAND" type="rss" xmlUrl="https://www.bastionland.com/feeds/posts/default" htmlUrl="https://www.bastionland.com/" title="BASTIONLAND"/>
 		<outline text="Be a Cactus" type="rss" xmlUrl="https://victoriawaddle.substack.com/feed" htmlUrl="https://victoriawaddle.substack.com/" title="Be a Cactus"/>
 		<outline text="Better Legends" type="rss" xmlUrl="https://feeds.feedburner.com/betterlegends/JV2d4WJtUfm" htmlUrl="https://betterlegends.com/blog/" title="Better Legends"/>
 		<outline text="Bizarro Central" type="rss" xmlUrl="https://www.bizarrocentral.com/feed/" htmlUrl="https://www.bizarrocentral.com/" title="Bizarro Central"/>
@@ -47,6 +49,7 @@
 		<outline text="Danger Slater" type="rss" xmlUrl="https://dangerslater.blogspot.com/feeds/posts/default" htmlUrl="https://dangerslater.blogspot.com/" title="Danger Slater"/>
 		<outline text="Danger Slater Lives!" type="rss" xmlUrl="https://dangerslater.substack.com/feed" htmlUrl="https://dangerslater.substack.com/" title="Danger Slater Lives!"/>
 		<outline text="Daring Fireball" type="rss" xmlUrl="https://daringfireball.net/feeds/json" htmlUrl="https://daringfireball.net/" title="Daring Fireball"/>
+		<outline text="⌊ DataDoor ⌉" type="rss" xmlUrl="https://datadoor.net/blog/feed/" htmlUrl="https://datadoor.net/blog" title="⌊ DataDoor ⌉"/>
 		<outline text="Dave Read Poetry" type="rss" xmlUrl="https://davereadpoetry.blogspot.com/feeds/posts/default" htmlUrl="https://davereadpoetry.blogspot.com/" title="Dave Read Poetry"/>
 		<outline text="days slip away like drips from a leaking faucet" type="rss" xmlUrl="https://dripdropdripdropdripdrop.blogspot.com/feeds/posts/default" htmlUrl="https://dripdropdripdropdripdrop.blogspot.com/" title="days slip away like drips from a leaking faucet"/>
 		<outline text="dead      pan" type="rss" xmlUrl="https://michaelcisco.blogspot.com/feeds/posts/default" htmlUrl="https://michaelcisco.blogspot.com/" title="dead      pan"/>

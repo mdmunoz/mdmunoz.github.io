@@ -12,7 +12,7 @@ date:   2025-11-29 00:00:00 -0700
     }
 </style>
 
-<em>Notional <a href="https://en.wikipedia.org/wiki/Kireji">kireji</a> making sense of random word combinations. Pseudo-haiku measured in characters (bytes, by some reckonings).
+*Notional [kireji](https://en.wikipedia.org/wiki/Kireji) making sense of random word combinations. Pseudo-haiku measured in characters (bytes, by some reckonings).*
 
 <div class="flow">
     <p>
