@@ -17,6 +17,8 @@ entries:
         url: mailto:matthew@knucklebones.rip
       - title: blogroll
         url: /blogroll
+      - title: podroll
+        url: /podroll
       - title: anguiped chapbook
         url: https://paperviewbooks.pt/books/anguiped/
       - title: ekphrastic review with saki

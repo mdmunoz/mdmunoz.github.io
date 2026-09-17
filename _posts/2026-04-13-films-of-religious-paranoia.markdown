@@ -26,6 +26,7 @@ As a follow-up to [the previous post](/novels-of-religious-paranoia.html), hereâ
 - David Fincher, *The Game*
 - David Lowery, *The Green Knight*
 - David Lynch, *Inland Empire*
+- Denis Villeneuve, *Blade Runner 2049*
 - Gen Sekiguchi, *Survive Style 5+*
 - Genki Kawamura, *Exit 8*
 - Guillermo del Toro, *Panâ€™s Labyrinth*
