@@ -21,6 +21,7 @@ Then you suffer*
 - Álvaro Enrigue, *You Dreamed of Empires*
 - Amelia Gray, *Threats*
 - Amos Tutuola, *The Palm-Wine Drinkard*
+- Andrew Wayne Adams, *Janitor of Planet Anilingus*
 - Angela Carter, *The Infernal Desire Machines of Doctor Hoffman*
 - Anna Kavan, *Ice*
 - Annie Neugebauer, *The Extra*
@@ -63,9 +64,11 @@ Then you suffer*
 - George Mangels, *Frank’s World*
 - Georges Bataille, *Story of the Eye*
 - Georges Perec, *A Void*
+- Gianluca Cameron, *You Know it’s Black*
 - Gina Ranalli, *Wall of Kiss*
 - Giorgio De Maria, *The Twenty Days of Turin*
 - Gore Vidal, *Messiah*
+- Guillaume Lecasble, *Lobster*
 - H.P. Lovecraft, *The Dream-Quest of Unknown Kadath*
 - Harold Bloom, *The Flight to Lucifer*
 - Haruki Murakami, *The Wind-Up Bird Chronicle*
