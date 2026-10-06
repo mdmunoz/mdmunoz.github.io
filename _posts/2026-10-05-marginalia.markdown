@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Marginalia to <em>Phenomenology of Perception</em>"
+title:  "Marginalia to Phenomenology of Perception"
 date:   2026-10-05 00:00:00 -0700
 ---
 
