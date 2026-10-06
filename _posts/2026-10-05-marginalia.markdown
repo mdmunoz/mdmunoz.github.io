@@ -255,7 +255,7 @@ And when I talk with spontaneity,
 my mouth emits conditioned sentences.  
 But words are more than envelopes for thought.  
 Sense-bearing speech is recognition. God  
-crates by name (apart from animals).  
+creates by name (apart from animals).  
 If knowing’s more than fabulation, less  
 than fragments of an ancient memory,  
 then words engender meaning, gesturing  
