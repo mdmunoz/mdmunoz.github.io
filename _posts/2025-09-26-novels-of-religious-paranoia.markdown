@@ -72,6 +72,7 @@ Then you suffer*
 - H.P. Lovecraft, *The Dream-Quest of Unknown Kadath*
 - Harold Bloom, *The Flight to Lucifer*
 - Haruki Murakami, *The Wind-Up Bird Chronicle*
+- Hélène Cixous, *The Book of Promethea*
 - Hunter S. Thompson, *Fear and Loathing in Las Vegas*
 - Isabel Waidner, *Corey Fah Does Social Mobility*
 - Italo Calvino, *If on a winter's night a traveler*

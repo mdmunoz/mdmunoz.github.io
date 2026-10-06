@@ -63,6 +63,7 @@
 		<outline text="DEONTOLOGISTICS" type="rss" xmlUrl="https://deontologistics.co/feed/" htmlUrl="https://deontologistics.co/" title="DEONTOLOGISTICS"/>
 		<outline text="derek beaulieu's blog" type="rss" xmlUrl="https://derekbeaulieu.ca/feed/" htmlUrl="https://derekbeaulieu.ca/" title="derek beaulieu's blog"/>
 		<outline text="design reboot" type="rss" xmlUrl="https://designreboot.blogspot.com/feeds/posts/default" htmlUrl="https://designreboot.blogspot.com/" title="design reboot"/>
+		<outline text="The Desolation of Blog" type="rss" xmlUrl="https://lapcatsoftware.com/articles/atom.xml" htmlUrl="https://lapcatsoftware.com/articles/index.html" title="The Desolation of Blog"/>
 		<outline text="Dispatches" type="rss" xmlUrl="http://www.connorsb.com/dispatches?format=rss" htmlUrl="http://www.connorsb.com/dispatches/" title="Dispatches"/>
 		<outline text="dogspluspl.us" type="rss" xmlUrl="https://dogspluspl.us/atom.xml" htmlUrl="https://dogspluspl.us/" title="dogspluspl.us"/>
 		<outline text="Doomlaser" type="rss" xmlUrl="https://doomlaser.com/feed/" htmlUrl="https://doomlaser.com/" title="Doomlaser"/>
@@ -167,6 +168,7 @@
 		<outline text="Polyducks.co.uk" type="rss" xmlUrl="https://polyducks.co.uk/RSS-feed.xml" htmlUrl="https://www.polyducks.co.uk/" title="Polyducks.co.uk"/>
 		<outline text="Post Position" type="rss" xmlUrl="https://nickm.com/post/feed/index.html" htmlUrl="https://nickm.com/post" title="Post Position"/>
 		<outline text="Pterodactyl Squad" type="rss" xmlUrl="https://ptesquad.blogspot.com/feeds/posts/default" htmlUrl="https://ptesquad.blogspot.com/" title="Pterodactyl Squad"/>
+		<outline text="punkt.ch" type="rss" xmlUrl="https://www.punkt.ch/blogs/news.atom" htmlUrl="https://www.punkt.ch/blogs/news" title="punkt.ch"/>
 		<outline text="a question of machines" type="rss" xmlUrl="https://ckunzelman.com/feed/" htmlUrl="https://ckunzelman.com/" title="a question of machines"/>
 		<outline text="rachelbythebay" type="rss" xmlUrl="https://rachelbythebay.com/w/atom.xml" htmlUrl="https://rachelbythebay.com/w/" title="rachelbythebay"/>
 		<outline text="Raph Koster" type="rss" xmlUrl="https://www.raphkoster.com/feed/" htmlUrl="https://www.raphkoster.com/" title="Raph Koster"/>
