@@ -68,3 +68,11 @@ As a follow-up to [the previous post](/novels-of-religious-paranoia.html), hereâ
 - William Peter Blatty, *The Exorcist III*
 - Wojciech Jerzy Has, *The Hourglass Sanatorium*
 - Yorgos Lanthimos, *Kinds of Kindness*
+
+## Appendix: Video Games
+
+- *Disco Elysium*
+- *I Have No Mouth, and I Must Scream*
+- *Primordia*
+- *Sanitarium*
+- *Thimbleweed Park*
