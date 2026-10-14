@@ -119,6 +119,7 @@ Then you suffer*
 - Nicholson Baker, *House of Holes*
 - Olga Ravn, *The Employees*
 - Otto Julius Bierbaum, *Samalio Pardulus*
+- Patrick Muñoz, *How the Wizard Came to the Cherrythorpe*
 - Patrick Stuart, *Queen Mab’s Palace*
 - Paul Auster, *City of Glass*
 - Paul Curran, *Left Hand*
