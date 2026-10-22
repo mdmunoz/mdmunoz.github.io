@@ -133,6 +133,7 @@ Then you suffer*
 - Robert Shea and Robert Anton Wilson, *Illuminatus!*
 - S.T. Cartledge, *The Orphanarium*
 - Salman Rushdie, *The Satanic Verses*
+- Samuel M. Moss, *The Veldt Institute*
 - Samuel R. Delany, *Dhalgren*
 - Scott R. Jones, *DRILL*
 - Sebastian Castillo, *Salmon*
