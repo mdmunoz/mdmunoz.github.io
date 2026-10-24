@@ -73,6 +73,8 @@ As a follow-up to [the previous post](/novels-of-religious-paranoia.html), hereâ
 
 - *Disco Elysium*
 - *I Have No Mouth, and I Must Scream*
+- *Majoraâ€™s Mask*
+- *Phoenix Springs*
 - *Primordia*
 - *Sanitarium*
 - *Thimbleweed Park*

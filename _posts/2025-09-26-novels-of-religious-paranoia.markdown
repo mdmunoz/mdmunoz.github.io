@@ -75,7 +75,7 @@ Then you suffer*
 - Hélène Cixous, *The Book of Promethea*
 - Hunter S. Thompson, *Fear and Loathing in Las Vegas*
 - Isabel Waidner, *Corey Fah Does Social Mobility*
-- Italo Calvino, *If on a winter's night a traveler*
+- Italo Calvino, *If on a winter’s night a traveler*
 - Ithell Colquhoun, *Goose of Hermogenes*
 - J.G. Ballard, *The Crystal World*
 - J. Peter W., *Giraffe Carcass*
