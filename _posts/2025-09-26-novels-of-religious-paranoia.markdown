@@ -94,6 +94,7 @@ Then you suffer*
 - Kirk Jones, *Die Empty*
 - Kōbō Abe, *Secret Rendezvous*
 - Kurt Vonnegut, *Cat’s Cradle*
+- Laurie Calhoun, *You Can Leave*
 - Leonard Wolf, *The False Messiah*
 - Leonora Carrington, *The Hearing Trumpet*
 - Lewis Carroll, *Alice’s Adventures in Wonderland*
@@ -152,5 +153,18 @@ Then you suffer*
 - William H. Gass, *Omensetter’s Luck*
 - William S. Burroughs, *Naked Lunch*
 - Zebulon House, *The Psychic Surgeon Assists*
+
+## Appendix: Graphic Novels
+
+- Alan Moore/Eddie Campbell, *From Hell*
+- Alejandro Jodorowsky/Jean Giraud, *The Incal*
+- Charles Burns, *Last Look*
+- Frederik Peeters, *Pachyderme*
+- George Wylesol, *2120*
+- Hans Rickheit, *The Squirrel Machine*
+- Jim Henson and Jerry Juhl/Ramón K. Pérez, *Tale of Sand*
+- Junji Ito, *Uzumaki*
+- Kevin Mutch, *The Rough Pearl*
+- Linnea Sterte, *Stages of Rot*
 
 *Cf. [films](/films-of-religious-paranoia.html)*
