@@ -7,7 +7,7 @@ The infinite schimpflexikon
 Of diction smeared stochastically  
 In sanitary hexagons  
 Indexes unsyntactically  
-(Hallucinating lexicons)  
+(With algorithmic nonchalance)  
 Graphemical unchastity:  
 An ultimated Metatron-  
 Enumeration, calumny’s  

@@ -71,10 +71,13 @@ As a follow-up to [the previous post](/novels-of-religious-paranoia.html), hereâ
 
 ## Appendix: Video Games
 
+- *Chants of Sennaar*
 - *Disco Elysium*
 - *I Have No Mouth, and I Must Scream*
 - *Majoraâ€™s Mask*
 - *Phoenix Springs*
 - *Primordia*
+- *Return of the Obra Dinn*
+- *The Rise of the Golden Idol*
 - *Sanitarium*
 - *Thimbleweed Park*
